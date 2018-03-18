@@ -1,0 +1,501 @@
+Destino,TIempo hospedaje,Presupuesto,Hospedaje,Transporte,Alimentacion,Interes
+Medellin,10,1188929,hotel,bus,fast food,musica
+Medellin,5,953942,hostal,pie,saludable,musica
+Medellin,7,986396,hostal,taxi,tipica,musica
+Medellin,12,1261203,hotel,bus,fast food,musica
+Medellin,15,1695855,hotel,pie,fast food,vida nocturna
+Medellin,30,564750,hostal,bus,fast food,vida nocturna
+Medellin,5,1195310,hotel,taxi,fast food,musica
+Medellin,9,1971875,hotel,bus,fast food,musica
+Medellin,20,1159830,hotel,pie,saludable,musica
+Medellin,5,1337648,hotel,taxi,fast food,musica
+Medellin,8,636781,hostal,bus,saludable,vida nocturna
+Medellin,8,789922,hostal,taxi,fast food,musica
+Medellin,4,1668712,hotel,pie,fast food,musica
+Medellin,5,1031339,hotel,pie,saludable,vida nocturna
+Medellin,8,1124395,hotel,taxi,saludable,musica
+Medellin,14,1488362,hotel,bus,fast food,musica
+Medellin,15,531830,hostal,taxi,fast food,vida nocturna
+Medellin,20,1496823,hotel,pie,fast food,vida nocturna
+Medellin,3,1687619,hotel,pie,saludable,vida nocturna
+Medellin,5,1604942,hotel,taxi,fast food,musica
+Medellin,7,1023570,hotel,taxi,saludable,vida nocturna
+Medellin,9,722038,hostal,bus,saludable,musica
+Medellin,3,701726,hostal,pie,fast food,musica
+Medellin,2,1595338,hotel,taxi,saludable,vida nocturna
+Medellin,6,1296056,hotel,taxi,saludable,musica
+Medellin,4,1051637,hotel,bus,saludable,vida nocturna
+Medellin,8,745230,hostal,taxi,saludable,vida nocturna
+Medellin,9,1805510,hotel,taxi,fast food,vida nocturna
+Medellin,10,873532,hostal,bus,fast food,musica
+Medellin,12,613985,hostal,taxi,saludable,vida nocturna
+Medellin,15,1202637,hotel,bus,saludable,musica
+Medellin,10,1718901,hotel,bus,fast food,musica
+Medellin,15,597562,hostal,bus,fast food,vida nocturna
+Medellin,20,1674477,hotel,bus,fast food,musica
+Medellin,12,516560,hostal,taxi,fast food,musica
+Medellin,4,1738357,hotel,pie,fast food,vida nocturna
+Medellin,9,1583079,hotel,taxi,fast food,musica
+Medellin,3,1930665,hotel,pie,fast food,musica
+Medellin,5,1863830,hotel,pie,saludable,vida nocturna
+Medellin,8,926193,hostal,pie,fast food,vida nocturna
+Medellin,9,1170640,hotel,pie,fast food,musica
+Medellin,3,1170454,hotel,bus,fast food,musica
+Medellin,2,885224,hostal,taxi,saludable,musica
+Medellin,8,1148829,hotel,pie,fast food,musica
+Medellin,6,519880,hostal,taxi,fast food,musica
+Medellin,3,1229730,hotel,bus,saludable,vida nocturna
+Medellin,9,937804,hostal,taxi,saludable,musica
+Medellin,2,1454690,hotel,pie,fast food,vida nocturna
+Medellin,9,1383212,hotel,taxi,fast food,musica
+Medellin,9,1310340,hotel,taxi,fast food,vida nocturna
+Medellin,2,1162563,hotel,taxi,fast food,vida nocturna
+Medellin,8,1255807,hotel,pie,saludable,musica
+Medellin,4,1727239,hotel,taxi,saludable,musica
+Medellin,8,1953201,hotel,pie,saludable,vida nocturna
+Medellin,9,1468191,hotel,taxi,saludable,vida nocturna
+Medellin,7,984610,hostal,bus,saludable,musica
+Medellin,14,732138,hostal,taxi,fast food,vida nocturna
+Medellin,13,804572,hostal,taxi,fast food,vida nocturna
+Medellin,17,1824274,hotel,taxi,fast food,vida nocturna
+Medellin,19,857848,hostal,taxi,fast food,musica
+Medellin,5,796446,hostal,taxi,fast food,musica
+Medellin,12,1266204,hotel,pie,saludable,vida nocturna
+Medellin,6,534052,hostal,taxi,saludable,musica
+Medellin,8,1199402,hotel,bus,fast food,vida nocturna
+Medellin,4,1506205,hotel,taxi,fast food,musica
+Medellin,7,682017,hostal,taxi,saludable,musica
+Medellin,9,1918143,hotel,pie,fast food,vida nocturna
+Medellin,16,1452977,hotel,taxi,saludable,musica
+Medellin,17,1593364,hotel,bus,fast food,musica
+Medellin,18,1385433,hotel,taxi,fast food,vida nocturna
+Medellin,14,1086191,hotel,taxi,saludable,vida nocturna
+Medellin,8,554184,hostal,pie,fast food,vida nocturna
+Medellin,13,1208615,hotel,bus,fast food,musica
+Medellin,18,1712168,hotel,taxi,fast food,vida nocturna
+Medellin,9,703441,hostal,taxi,saludable,musica
+Medellin,9,729528,hostal,taxi,fast food,musica
+Medellin,3,1868512,hotel,taxi,fast food,vida nocturna
+Medellin,6,1973489,hotel,pie,fast food,musica
+Medellin,7,1873524,hotel,bus,fast food,vida nocturna
+Medellin,7,1047099,hotel,bus,fast food,vida nocturna
+Medellin,9,705755,hostal,bus,fast food,vida nocturna
+Medellin,5,884423,hostal,pie,saludable,musica
+Medellin,4,1957533,hotel,bus,saludable,vida nocturna
+Medellin,3,660482,hostal,taxi,fast food,musica
+Medellin,9,654971,hostal,taxi,saludable,vida nocturna
+Medellin,10,1050281,hotel,bus,saludable,vida nocturna
+Medellin,14,832546,hostal,taxi,fast food,musica
+Medellin,17,663486,hostal,pie,saludable,musica
+Medellin,18,944058,hostal,taxi,saludable,vida nocturna
+Medellin,19,1833159,hotel,bus,fast food,vida nocturna
+Medellin,20,1760222,hotel,pie,saludable,musica
+Medellin,19,1308706,hotel,taxi,saludable,vida nocturna
+Medellin,14,1233401,hotel,bus,fast food,musica
+Medellin,13,747669,hostal,pie,fast food,musica
+Medellin,12,1187966,hotel,bus,saludable,musica
+Medellin,10,537796,hostal,bus,fast food,musica
+Medellin,11,1951739,hotel,taxi,saludable,musica
+Medellin,9,1972222,hotel,taxi,fast food,musica
+Medellin,2,941411,hostal,bus,saludable,vida nocturna
+Medellin,17,1325518,hotel,bus,saludable,vida nocturna
+Medellin,7,1818445,hotel,bus,saludable,vida nocturna
+Medellin,14,1108491,hotel,bus,saludable,vida nocturna
+Medellin,6,887514,hostal,taxi,fast food,musica
+Medellin,9,753168,hostal,taxi,saludable,musica
+Medellin,16,1717211,hotel,pie,fast food,vida nocturna
+Medellin,15,1977548,hotel,bus,saludable,musica
+Medellin,7,1252602,hotel,pie,saludable,vida nocturna
+Medellin,14,1000013,hotel,bus,fast food,musica
+Medellin,15,995858,hostal,taxi,saludable,vida nocturna
+Medellin,9,1506184,hotel,taxi,fast food,musica
+Medellin,15,1869020,hotel,pie,saludable,vida nocturna
+Medellin,8,1073595,hotel,pie,saludable,musica
+Medellin,8,1910984,hotel,taxi,fast food,musica
+Medellin,11,1131565,hotel,taxi,saludable,musica
+Medellin,19,1697788,hotel,pie,fast food,musica
+Medellin,9,1091552,hotel,pie,saludable,musica
+Medellin,3,1814619,hotel,taxi,saludable,vida nocturna
+Medellin,12,1136138,hotel,pie,saludable,musica
+Medellin,9,1032763,hotel,taxi,fast food,vida nocturna
+Medellin,16,778601,hostal,pie,fast food,musica
+Medellin,12,792822,hostal,bus,fast food,musica
+Medellin,3,918054,hostal,pie,fast food,musica
+Medellin,19,1334290,hotel,bus,saludable,musica
+Medellin,15,1552849,hotel,pie,saludable,musica
+Medellin,3,1813343,hotel,taxi,fast food,vida nocturna
+Medellin,4,904976,hostal,taxi,saludable,vida nocturna
+Medellin,12,1667176,hotel,bus,fast food,musica
+Medellin,15,1145345,hotel,taxi,fast food,vida nocturna
+Medellin,14,520986,hostal,pie,saludable,vida nocturna
+Medellin,4,631133,hostal,taxi,saludable,musica
+Medellin,13,1729075,hotel,pie,fast food,musica
+Medellin,12,1626074,hotel,taxi,saludable,vida nocturna
+Medellin,7,1635289,hotel,taxi,fast food,musica
+Medellin,15,1918922,hotel,bus,saludable,vida nocturna
+Medellin,12,1950922,hotel,bus,saludable,musica
+Medellin,4,998074,hostal,pie,saludable,musica
+Medellin,5,955328,hostal,taxi,saludable,vida nocturna
+Medellin,11,637052,hostal,bus,fast food,musica
+Medellin,19,1131113,hotel,pie,saludable,vida nocturna
+Medellin,4,1669395,hotel,taxi,fast food,musica
+Medellin,13,761250,hostal,bus,saludable,vida nocturna
+Medellin,14,647432,hostal,pie,saludable,musica
+Medellin,10,1529409,hotel,taxi,fast food,musica
+Medellin,17,1619862,hotel,pie,saludable,musica
+Medellin,18,1921053,hotel,bus,saludable,vida nocturna
+Medellin,11,802456,hostal,taxi,fast food,vida nocturna
+Medellin,3,1295316,hotel,taxi,saludable,vida nocturna
+Medellin,20,1446380,hotel,pie,saludable,musica
+Medellin,6,1764641,hotel,taxi,saludable,musica
+Medellin,12,713261,hostal,pie,saludable,musica
+Medellin,9,1538791,hotel,bus,fast food,musica
+Medellin,12,1696529,hotel,pie,fast food,vida nocturna
+Medellin,12,1774946,hotel,taxi,fast food,musica
+Medellin,13,1477795,hotel,pie,fast food,musica
+Medellin,18,1216115,hotel,pie,fast food,vida nocturna
+Medellin,4,1363703,hotel,bus,saludable,musica
+Medellin,3,902281,hostal,pie,saludable,vida nocturna
+Medellin,9,974627,hostal,bus,saludable,musica
+Medellin,5,697674,hostal,pie,saludable,vida nocturna
+Medellin,16,1492188,hotel,bus,saludable,musica
+Medellin,17,966669,hostal,pie,saludable,musica
+Medellin,3,854085,hostal,bus,saludable,musica
+Medellin,3,1217062,hotel,pie,fast food,vida nocturna
+Medellin,13,589338,hostal,pie,saludable,vida nocturna
+Medellin,9,739996,hostal,bus,saludable,musica
+Medellin,3,1593613,hotel,taxi,fast food,musica
+Medellin,4,1079832,hotel,bus,fast food,musica
+Medellin,4,1565604,hotel,pie,saludable,musica
+Medellin,13,842745,hostal,bus,saludable,vida nocturna
+Medellin,5,1632547,hotel,bus,fast food,vida nocturna
+Medellin,8,1262495,hotel,taxi,fast food,vida nocturna
+Medellin,15,1282263,hotel,pie,fast food,musica
+Medellin,6,1585838,hotel,taxi,fast food,musica
+Medellin,20,792887,hostal,pie,fast food,musica
+Medellin,15,718504,hostal,pie,fast food,musica
+Medellin,9,909532,hostal,pie,fast food,musica
+Medellin,18,685418,hostal,pie,fast food,vida nocturna
+Medellin,3,1559626,hotel,pie,fast food,musica
+Medellin,18,1806037,hotel,taxi,fast food,musica
+Medellin,6,925501,hostal,pie,fast food,musica
+Medellin,10,1067204,hotel,bus,fast food,vida nocturna
+Medellin,11,1204061,hotel,taxi,fast food,musica
+Medellin,8,1491861,hotel,pie,fast food,musica
+Medellin,11,1878955,hotel,bus,saludable,musica
+Medellin,6,852203,hostal,pie,saludable,vida nocturna
+Medellin,17,1310642,hotel,pie,fast food,vida nocturna
+Medellin,6,1360603,hotel,pie,fast food,vida nocturna
+Medellin,13,914136,hostal,pie,saludable,musica
+Medellin,6,990595,hostal,pie,saludable,vida nocturna
+Medellin,12,1642898,hotel,bus,fast food,vida nocturna
+Medellin,17,833693,hostal,bus,fast food,vida nocturna
+Medellin,4,1430479,hotel,taxi,saludable,musica
+Medellin,8,1885568,hotel,taxi,saludable,vida nocturna
+Medellin,14,1158995,hotel,pie,saludable,vida nocturna
+Medellin,8,1377295,hotel,pie,fast food,musica
+Medellin,11,1125366,hotel,taxi,saludable,vida nocturna
+Medellin,10,1223919,hotel,taxi,fast food,vida nocturna
+Medellin,12,862467,hostal,pie,saludable,musica
+Medellin,11,1853518,hotel,taxi,saludable,musica
+Medellin,11,542975,hostal,pie,fast food,musica
+Medellin,16,1105202,hotel,pie,fast food,vida nocturna
+Medellin,20,548663,hostal,bus,fast food,musica
+Medellin,13,1544207,hotel,taxi,fast food,musica
+Medellin,13,1127224,hotel,taxi,fast food,vida nocturna
+Medellin,4,1436228,hotel,pie,fast food,vida nocturna
+Medellin,9,1382476,hotel,pie,fast food,vida nocturna
+Medellin,17,751601,hostal,pie,saludable,musica
+Medellin,16,1151895,hotel,bus,fast food,vida nocturna
+Medellin,13,1932712,hotel,taxi,fast food,vida nocturna
+Medellin,6,1117869,hotel,taxi,saludable,musica
+Medellin,17,1255168,hotel,pie,saludable,musica
+Medellin,10,1275975,hotel,pie,fast food,vida nocturna
+Medellin,19,944864,hostal,pie,fast food,vida nocturna
+Medellin,16,644776,hostal,pie,saludable,musica
+Medellin,7,1778903,hotel,taxi,saludable,vida nocturna
+Medellin,6,1847245,hotel,pie,fast food,musica
+Medellin,3,698726,hostal,pie,saludable,musica
+Medellin,5,1923913,hotel,taxi,saludable,musica
+Medellin,18,1998394,hotel,pie,fast food,vida nocturna
+Medellin,16,1452189,hotel,taxi,saludable,vida nocturna
+Medellin,11,1920040,hotel,bus,fast food,musica
+Medellin,7,1745031,hotel,bus,fast food,musica
+Medellin,8,1991946,hotel,taxi,fast food,vida nocturna
+Medellin,8,585246,hostal,bus,saludable,vida nocturna
+Medellin,5,1182445,hotel,pie,saludable,musica
+Medellin,11,1119190,hotel,taxi,saludable,vida nocturna
+Medellin,11,915065,hostal,bus,saludable,musica
+Medellin,20,1185477,hotel,taxi,saludable,musica
+Medellin,9,1696830,hotel,pie,saludable,vida nocturna
+Medellin,17,990567,hostal,pie,fast food,musica
+Medellin,14,552600,hostal,pie,saludable,vida nocturna
+Medellin,15,663662,hostal,pie,fast food,musica
+Medellin,8,633583,hostal,pie,saludable,musica
+Medellin,13,1828370,hotel,bus,fast food,vida nocturna
+Medellin,9,1777831,hotel,pie,saludable,musica
+Medellin,8,1917908,hotel,bus,saludable,musica
+Medellin,12,1944595,hotel,pie,fast food,musica
+Medellin,10,1034389,hotel,taxi,fast food,musica
+Medellin,5,1822806,hotel,bus,fast food,vida nocturna
+Medellin,12,1210791,hotel,bus,fast food,musica
+Medellin,8,526758,hostal,pie,fast food,vida nocturna
+Medellin,6,1976746,hotel,bus,fast food,vida nocturna
+Medellin,17,639229,hostal,pie,fast food,vida nocturna
+Medellin,12,1656088,hotel,pie,saludable,musica
+Medellin,18,943814,hostal,pie,fast food,vida nocturna
+Medellin,13,835371,hostal,bus,fast food,vida nocturna
+Medellin,16,1004191,hotel,taxi,saludable,vida nocturna
+Medellin,5,1438144,hotel,bus,fast food,vida nocturna
+Medellin,10,798288,hostal,bus,saludable,musica
+Medellin,14,1819769,hotel,taxi,fast food,musica
+Medellin,12,900030,hostal,pie,saludable,vida nocturna
+Medellin,9,761920,hostal,pie,fast food,vida nocturna
+Medellin,7,1220356,hotel,pie,fast food,musica
+Medellin,8,694617,hostal,bus,fast food,vida nocturna
+Medellin,6,1072639,hotel,taxi,saludable,vida nocturna
+Medellin,4,1406779,hotel,pie,saludable,musica
+Medellin,4,815415,hostal,pie,fast food,musica
+Medellin,16,1423739,hotel,pie,fast food,vida nocturna
+Medellin,20,1547504,hotel,taxi,saludable,vida nocturna
+Medellin,15,1632033,hotel,taxi,fast food,musica
+Medellin,17,1787157,hotel,taxi,fast food,musica
+Medellin,9,617998,hostal,bus,fast food,vida nocturna
+Medellin,17,1757762,hotel,pie,saludable,vida nocturna
+Medellin,17,1557325,hotel,pie,saludable,musica
+Medellin,18,1827951,hotel,pie,saludable,musica
+Medellin,20,847676,hostal,bus,saludable,musica
+Medellin,10,1313606,hotel,bus,saludable,vida nocturna
+Medellin,19,1515876,hotel,bus,fast food,musica
+Medellin,15,1243325,hotel,taxi,saludable,vida nocturna
+Medellin,4,1754852,hotel,bus,saludable,vida nocturna
+Medellin,6,1817295,hotel,pie,fast food,vida nocturna
+Medellin,17,1753655,hotel,bus,fast food,musica
+Medellin,14,1152343,hotel,taxi,saludable,musica
+Medellin,17,776362,hostal,bus,fast food,musica
+Medellin,17,1503092,hotel,pie,saludable,musica
+Medellin,8,1722499,hotel,bus,fast food,musica
+Medellin,12,1980676,hotel,pie,saludable,musica
+Medellin,18,1162863,hotel,taxi,fast food,vida nocturna
+Medellin,8,1856423,hotel,bus,fast food,musica
+Medellin,8,590256,hostal,pie,fast food,musica
+Medellin,8,1338165,hotel,taxi,fast food,vida nocturna
+Medellin,15,1354556,hotel,bus,saludable,vida nocturna
+Medellin,12,741542,hostal,bus,fast food,musica
+Medellin,7,965986,hostal,bus,saludable,vida nocturna
+Medellin,3,1247673,hotel,taxi,saludable,vida nocturna
+Medellin,9,1649116,hotel,bus,fast food,vida nocturna
+Medellin,4,942018,hostal,bus,fast food,vida nocturna
+Medellin,19,1713253,hotel,taxi,saludable,musica
+Medellin,17,567022,hostal,bus,saludable,musica
+Medellin,9,1472375,hotel,pie,fast food,musica
+Medellin,15,1893321,hotel,taxi,fast food,musica
+Medellin,9,599581,hostal,pie,saludable,vida nocturna
+Medellin,16,1320807,hotel,bus,saludable,musica
+Medellin,9,1437307,hotel,bus,fast food,vida nocturna
+Medellin,15,1261811,hotel,bus,saludable,musica
+Medellin,15,905107,hostal,bus,saludable,musica
+Medellin,18,1033891,hotel,pie,saludable,vida nocturna
+Medellin,13,751853,hostal,bus,fast food,vida nocturna
+Medellin,6,1899448,hotel,pie,saludable,musica
+Medellin,7,1488470,hotel,taxi,saludable,vida nocturna
+Medellin,4,533382,hostal,pie,saludable,musica
+Medellin,11,1911147,hotel,pie,saludable,vida nocturna
+Medellin,13,578469,hostal,pie,saludable,musica
+Medellin,12,1182998,hotel,bus,fast food,vida nocturna
+Medellin,11,1560869,hotel,taxi,fast food,vida nocturna
+Medellin,16,1984673,hotel,taxi,saludable,musica
+Medellin,15,1285398,hotel,bus,fast food,musica
+Medellin,19,771238,hostal,bus,saludable,vida nocturna
+Medellin,12,1911738,hotel,pie,fast food,musica
+Medellin,6,1183919,hotel,taxi,saludable,vida nocturna
+Medellin,7,1728612,hotel,bus,saludable,musica
+Medellin,3,1160861,hotel,pie,fast food,musica
+Medellin,17,693348,hostal,bus,fast food,musica
+Medellin,18,1271061,hotel,taxi,fast food,musica
+Medellin,10,1088822,hotel,pie,fast food,vida nocturna
+Medellin,7,1260006,hotel,bus,fast food,vida nocturna
+Medellin,17,1168879,hotel,pie,saludable,vida nocturna
+Medellin,14,1244222,hotel,bus,fast food,vida nocturna
+Medellin,13,916733,hostal,bus,fast food,musica
+Medellin,14,925107,hostal,bus,fast food,vida nocturna
+Medellin,13,528621,hostal,bus,fast food,vida nocturna
+Medellin,19,1109867,hotel,pie,saludable,vida nocturna
+Medellin,18,1457182,hotel,bus,saludable,vida nocturna
+Medellin,20,1229232,hotel,bus,fast food,vida nocturna
+Medellin,10,1305543,hotel,taxi,fast food,vida nocturna
+Medellin,9,927870,hostal,pie,fast food,vida nocturna
+Medellin,4,554060,hostal,bus,saludable,vida nocturna
+Medellin,13,674013,hostal,pie,saludable,musica
+Medellin,4,1526895,hotel,pie,saludable,musica
+Medellin,3,689801,hostal,bus,saludable,musica
+Medellin,19,1165318,hotel,bus,saludable,vida nocturna
+Medellin,17,1343184,hotel,taxi,fast food,musica
+Medellin,9,568674,hostal,bus,fast food,vida nocturna
+Medellin,20,965982,hostal,pie,saludable,musica
+Medellin,6,892327,hostal,bus,fast food,musica
+Medellin,10,1870784,hotel,taxi,saludable,musica
+Medellin,8,1054732,hotel,pie,saludable,vida nocturna
+Medellin,16,1631857,hotel,bus,saludable,musica
+Medellin,16,1802934,hotel,bus,fast food,musica
+Medellin,7,972087,hostal,bus,saludable,musica
+Medellin,11,1017327,hotel,bus,fast food,vida nocturna
+Medellin,13,859226,hostal,bus,fast food,musica
+Medellin,20,1202463,hotel,taxi,saludable,musica
+Medellin,8,1160279,hotel,taxi,fast food,vida nocturna
+Medellin,6,910919,hostal,pie,fast food,vida nocturna
+Medellin,16,1432893,hotel,pie,fast food,musica
+Medellin,3,881999,hostal,pie,saludable,vida nocturna
+Medellin,15,1146946,hotel,pie,saludable,vida nocturna
+Medellin,6,945996,hostal,bus,saludable,musica
+Medellin,16,1828252,hotel,pie,fast food,musica
+Medellin,20,748218,hostal,pie,saludable,musica
+Medellin,14,1799423,hotel,taxi,saludable,vida nocturna
+Medellin,19,584748,hostal,pie,fast food,musica
+Medellin,9,860400,hostal,bus,saludable,musica
+Medellin,17,1614085,hotel,taxi,saludable,vida nocturna
+Medellin,15,1403032,hotel,bus,saludable,musica
+Medellin,11,1915357,hotel,bus,saludable,musica
+Medellin,9,1590280,hotel,bus,fast food,musica
+Medellin,13,1804701,hotel,taxi,saludable,musica
+Medellin,14,1351280,hotel,pie,saludable,musica
+Medellin,4,996725,hostal,pie,fast food,musica
+Medellin,11,548428,hostal,bus,fast food,musica
+Medellin,9,1107606,hotel,taxi,fast food,vida nocturna
+Medellin,11,1762045,hotel,taxi,fast food,musica
+Medellin,9,1140433,hotel,pie,fast food,vida nocturna
+Medellin,13,1211871,hotel,pie,saludable,musica
+Medellin,4,1971834,hotel,pie,fast food,musica
+Medellin,3,1392803,hotel,taxi,saludable,vida nocturna
+Medellin,11,1471702,hotel,taxi,fast food,musica
+Medellin,5,1044694,hotel,bus,saludable,vida nocturna
+Medellin,16,1235000,hotel,pie,saludable,musica
+Medellin,17,1602951,hotel,taxi,saludable,musica
+Medellin,15,1486194,hotel,taxi,saludable,musica
+Medellin,18,787869,hostal,pie,fast food,musica
+Medellin,6,532745,hostal,bus,saludable,musica
+Medellin,19,986254,hostal,bus,saludable,vida nocturna
+Medellin,5,1194420,hotel,pie,fast food,vida nocturna
+Medellin,16,1058851,hotel,taxi,saludable,musica
+Medellin,17,919815,hostal,bus,saludable,vida nocturna
+Medellin,15,671486,hostal,bus,fast food,vida nocturna
+Medellin,5,820560,hostal,bus,fast food,musica
+Medellin,13,1196511,hotel,bus,saludable,musica
+Medellin,14,1607070,hotel,bus,saludable,vida nocturna
+Medellin,17,1664294,hotel,pie,fast food,vida nocturna
+Medellin,12,1397495,hotel,taxi,saludable,vida nocturna
+Medellin,7,661944,hostal,bus,fast food,vida nocturna
+Medellin,3,593732,hostal,bus,fast food,vida nocturna
+Medellin,11,1478336,hotel,pie,fast food,musica
+Medellin,9,1974842,hotel,pie,fast food,musica
+Medellin,5,680708,hostal,pie,fast food,vida nocturna
+Medellin,11,1349173,hotel,bus,fast food,vida nocturna
+Medellin,6,678749,hostal,pie,saludable,musica
+Medellin,6,1531800,hotel,bus,saludable,vida nocturna
+Medellin,18,1187024,hotel,bus,saludable,musica
+Medellin,17,1573501,hotel,bus,saludable,musica
+Medellin,17,1835983,hotel,bus,saludable,vida nocturna
+Medellin,5,561588,hostal,pie,saludable,musica
+Medellin,13,505504,hostal,bus,saludable,musica
+Medellin,20,1941305,hotel,pie,saludable,vida nocturna
+Medellin,4,1763048,hotel,pie,saludable,vida nocturna
+Medellin,15,669288,hostal,pie,saludable,vida nocturna
+Medellin,13,1080941,hotel,taxi,saludable,musica
+Medellin,6,1107794,hotel,taxi,saludable,vida nocturna
+Medellin,10,784231,hostal,pie,saludable,vida nocturna
+Medellin,9,899874,hostal,bus,saludable,musica
+Medellin,16,941705,hostal,bus,fast food,musica
+Medellin,15,631668,hostal,bus,saludable,vida nocturna
+Medellin,7,658324,hostal,pie,saludable,musica
+Medellin,3,1888235,hotel,pie,saludable,musica
+Medellin,5,1957308,hotel,pie,fast food,musica
+Medellin,9,1843998,hotel,taxi,fast food,musica
+Medellin,3,654400,hostal,pie,fast food,vida nocturna
+Medellin,18,797990,hostal,bus,fast food,musica
+Medellin,13,1825670,hotel,taxi,fast food,vida nocturna
+Medellin,7,1067413,hotel,bus,saludable,musica
+Medellin,4,1653204,hotel,taxi,saludable,musica
+Medellin,17,890887,hostal,bus,saludable,musica
+Medellin,20,1600634,hotel,bus,fast food,vida nocturna
+Medellin,11,1964910,hotel,bus,saludable,musica
+Medellin,6,1522188,hotel,pie,saludable,musica
+Medellin,8,1443574,hotel,bus,saludable,vida nocturna
+Medellin,14,945289,hostal,bus,saludable,vida nocturna
+Medellin,7,1172547,hotel,pie,fast food,musica
+Medellin,3,1387249,hotel,bus,saludable,musica
+Medellin,10,1603559,hotel,bus,fast food,vida nocturna
+Medellin,4,1671634,hotel,taxi,fast food,vida nocturna
+Medellin,5,1245364,hotel,pie,fast food,musica
+Medellin,10,799209,hostal,bus,saludable,vida nocturna
+Medellin,15,1151144,hotel,taxi,fast food,musica
+Medellin,12,1502129,hotel,bus,saludable,vida nocturna
+Medellin,13,1820776,hotel,bus,fast food,vida nocturna
+Medellin,3,668086,hostal,pie,fast food,vida nocturna
+Medellin,8,1009126,hotel,bus,saludable,vida nocturna
+Medellin,9,863703,hostal,pie,fast food,musica
+Medellin,18,1278781,hotel,pie,saludable,musica
+Medellin,3,1713207,hotel,taxi,saludable,musica
+Medellin,14,717072,hostal,bus,saludable,musica
+Medellin,3,899737,hostal,pie,fast food,vida nocturna
+Medellin,6,1053257,hotel,pie,fast food,vida nocturna
+Medellin,5,1552201,hotel,bus,fast food,musica
+Medellin,17,961957,hostal,pie,fast food,vida nocturna
+Medellin,10,1260577,hotel,bus,saludable,vida nocturna
+Medellin,7,623637,hostal,bus,saludable,vida nocturna
+Medellin,8,1426931,hotel,pie,saludable,musica
+Medellin,17,1631967,hotel,taxi,fast food,musica
+Medellin,6,608139,hostal,pie,fast food,musica
+Medellin,17,1591288,hotel,bus,fast food,musica
+Medellin,4,939402,hostal,bus,fast food,vida nocturna
+Medellin,5,1235259,hotel,taxi,fast food,vida nocturna
+Medellin,19,1645140,hotel,taxi,saludable,vida nocturna
+Medellin,7,619853,hostal,pie,saludable,vida nocturna
+Medellin,4,1545694,hotel,taxi,fast food,musica
+Medellin,15,900482,hostal,pie,fast food,musica
+Medellin,4,1854493,hotel,taxi,fast food,musica
+Medellin,16,893897,hostal,bus,saludable,vida nocturna
+Medellin,13,930966,hostal,pie,fast food,musica
+Medellin,17,1550848,hotel,pie,saludable,vida nocturna
+Medellin,8,1009433,hotel,bus,saludable,vida nocturna
+Medellin,8,1625107,hotel,pie,fast food,musica
+Medellin,16,1263590,hotel,taxi,fast food,musica
+Medellin,13,1218551,hotel,pie,fast food,vida nocturna
+Medellin,4,1389915,hotel,pie,saludable,vida nocturna
+Medellin,16,510377,hostal,pie,fast food,vida nocturna
+Medellin,19,701441,hostal,pie,saludable,musica
+Medellin,3,1341342,hotel,taxi,saludable,musica
+Medellin,4,1015813,hotel,bus,saludable,musica
+Medellin,4,921069,hostal,bus,saludable,vida nocturna
+Medellin,8,898403,hostal,pie,fast food,vida nocturna
+Medellin,11,1258036,hotel,taxi,fast food,vida nocturna
+Medellin,4,1582493,hotel,taxi,saludable,vida nocturna
+Medellin,9,977726,hostal,bus,saludable,musica
+Medellin,4,634137,hostal,bus,saludable,musica
+Medellin,19,994773,hostal,pie,saludable,musica
+Medellin,3,659291,hostal,bus,fast food,musica
+Medellin,18,539562,hostal,pie,fast food,vida nocturna
+Medellin,6,1565162,hotel,bus,saludable,musica
+Medellin,5,1308804,hotel,pie,fast food,vida nocturna
+Medellin,17,1086450,hotel,bus,saludable,vida nocturna
+Medellin,5,1013013,hotel,pie,fast food,musica
+Medellin,9,1470276,hotel,taxi,saludable,vida nocturna
+Medellin,17,831624,hostal,bus,fast food,vida nocturna
+Medellin,13,1881049,hotel,pie,fast food,musica
+Medellin,12,1758636,hotel,pie,fast food,musica
+Medellin,8,1738393,hotel,taxi,saludable,musica
+Medellin,17,1028224,hotel,bus,saludable,vida nocturna
+Medellin,17,1337495,hotel,pie,fast food,vida nocturna
+Medellin,10,1750674,hotel,pie,saludable,vida nocturna
+Medellin,4,721817,hostal,pie,fast food,vida nocturna
+Medellin,7,1564285,hotel,bus,fast food,musica
+Medellin,18,1383109,hotel,bus,saludable,musica
+Medellin,17,518566,hostal,bus,fast food,musica
+Medellin,16,1953022,hotel,bus,fast food,musica
+Medellin,19,548083,hostal,pie,saludable,musica
+Medellin,12,1124342,hotel,pie,saludable,vida nocturna
+Medellin,3,1774716,hotel,taxi,saludable,vida nocturna
+Medellin,10,597959,hostal,pie,saludable,musica
+Medellin,14,988931,hostal,pie,saludable,vida nocturna
+Medellin,19,894201,hostal,bus,fast food,musica
+Medellin,12,1007784,hotel,pie,fast food,musica
+Medellin,8,1893969,hotel,pie,fast food,musica
