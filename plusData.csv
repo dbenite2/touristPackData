@@ -1,0 +1,2500 @@
+Género,Edad,Destino,TIempo hospedaje,Presupuesto,Hospedaje,Transporte,Alimentacion,Interes,Interes 2
+10,34,Medellin,3,933776,0,3,5,musica,cultura
+9,35,Medellin,6,1679048,0,3,8,vida nocturna,deporte
+9,32,Medellin,5,1422494,1,3,7,vida nocturna,deporte
+10,29,Medellin,9,638547,0,4,5,musica,cultura
+10,26,Medellin,6,1936564,0,3,5,musica,cultura
+9,32,Medellin,6,1042930,0,3,8,musica,cultura
+9,35,Medellin,8,1556660,0,3,7,musica,deporte
+9,27,Medellin,7,604120,0,4,8,vida nocturna,deporte
+9,35,Medellin,5,865213,0,3,8,vida nocturna,cultura
+10,26,Medellin,6,1607634,0,3,5,vida nocturna,deporte
+9,21,Medellin,7,853360,0,3,8,musica,cultura
+10,21,Medellin,3,1725293,1,3,5,vida nocturna,deporte
+10,30,Medellin,4,1739980,1,3,5,musica,deporte
+9,23,Medellin,3,1716219,1,3,7,musica,deporte
+9,18,Medellin,10,2779303,1,3,7,musica,cultura
+10,20,Medellin,7,1029119,0,3,5,musica,cultura
+9,35,Medellin,10,2628650,1,3,8,vida nocturna,cultura
+9,25,Medellin,10,1764152,0,3,8,vida nocturna,cultura
+10,20,Medellin,5,654032,0,4,5,vida nocturna,cultura
+9,31,Medellin,8,1899256,0,3,8,musica,cultura
+10,30,Medellin,3,1398942,1,3,5,vida nocturna,cultura
+9,28,Medellin,7,1447865,0,3,8,musica,cultura
+9,31,Medellin,8,1829779,0,3,8,musica,cultura
+9,32,Medellin,6,743167,0,3,8,vida nocturna,deporte
+9,21,Medellin,7,1655166,0,3,8,vida nocturna,cultura
+9,33,Medellin,8,822108,0,3,8,vida nocturna,deporte
+9,32,Medellin,6,568651,0,4,8,musica,deporte
+9,22,Medellin,4,761863,0,3,8,vida nocturna,deporte
+10,26,Medellin,10,2668034,1,3,5,musica,deporte
+10,18,Medellin,5,1430428,1,2,5,vida nocturna,cultura
+10,27,Medellin,9,1779441,0,3,5,musica,cultura
+9,27,Medellin,10,2340685,0,3,8,vida nocturna,cultura
+10,35,Medellin,4,565439,0,4,5,musica,deporte
+9,20,Medellin,4,562846,0,4,8,musica,cultura
+9,32,Medellin,7,1117538,0,3,8,musica,deporte
+10,35,Medellin,8,1766939,0,3,5,musica,deporte
+10,24,Medellin,3,1423675,1,3,5,musica,cultura
+10,34,Medellin,3,683076,0,4,5,musica,cultura
+9,33,Medellin,3,1422997,1,3,8,vida nocturna,cultura
+10,28,Medellin,5,1804777,1,3,5,vida nocturna,cultura
+10,27,Medellin,4,1796944,1,3,5,musica,cultura
+10,29,Medellin,9,1668229,0,3,5,musica,cultura
+10,25,Medellin,6,1755291,0,3,5,musica,cultura
+9,23,Medellin,8,899073,0,3,7,vida nocturna,cultura
+10,22,Medellin,9,1997873,0,3,5,vida nocturna,cultura
+10,33,Medellin,9,1511109,0,3,5,vida nocturna,cultura
+10,33,Medellin,8,1001171,0,3,5,vida nocturna,cultura
+10,32,Medellin,4,1127327,1,3,5,vida nocturna,deporte
+9,34,Medellin,8,860073,0,3,8,musica,cultura
+9,28,Medellin,3,599379,0,4,7,vida nocturna,cultura
+9,29,Medellin,7,714070,0,3,8,musica,cultura
+9,21,Medellin,7,893542,0,3,7,vida nocturna,cultura
+9,26,Medellin,8,795174,0,3,7,vida nocturna,cultura
+10,27,Medellin,6,1773100,0,3,5,vida nocturna,cultura
+9,34,Medellin,10,2583954,1,3,8,vida nocturna,cultura
+9,21,Medellin,9,1297185,0,3,7,musica,cultura
+10,28,Medellin,3,1202169,1,3,5,musica,deporte
+10,18,Medellin,4,1716638,1,3,5,musica,cultura
+10,25,Medellin,7,1532055,0,3,5,musica,cultura
+10,31,Medellin,8,948298,0,3,5,musica,cultura
+10,25,Medellin,4,1724695,1,3,5,musica,cultura
+10,25,Medellin,7,1305373,0,3,5,vida nocturna,cultura
+10,21,Medellin,5,1516494,1,3,5,musica,deporte
+9,30,Medellin,7,1889374,0,3,8,musica,deporte
+10,29,Medellin,4,1154940,1,3,5,vida nocturna,deporte
+9,18,Medellin,5,1178366,1,3,8,vida nocturna,deporte
+10,22,Medellin,4,1008704,1,3,5,vida nocturna,cultura
+10,20,Medellin,6,958582,0,3,5,vida nocturna,cultura
+9,18,Medellin,3,659823,0,4,8,musica,cultura
+9,32,Medellin,3,590018,0,4,8,musica,deporte
+9,24,Medellin,7,1114786,0,3,7,musica,deporte
+9,21,Medellin,4,1038793,1,3,8,musica,cultura
+10,26,Medellin,5,1091370,1,3,5,vida nocturna,deporte
+10,29,Medellin,9,1695688,0,3,5,musica,deporte
+9,35,Medellin,10,2274398,0,3,7,vida nocturna,deporte
+9,32,Medellin,10,2903078,1,2,8,musica,deporte
+9,18,Medellin,6,1633561,0,3,7,vida nocturna,cultura
+9,19,Medellin,6,1252141,0,3,8,vida nocturna,deporte
+10,30,Medellin,7,1273394,0,3,5,vida nocturna,deporte
+10,27,Medellin,9,646842,0,4,5,musica,deporte
+9,31,Medellin,7,1386740,0,3,7,musica,cultura
+9,19,Medellin,4,1290425,1,3,8,vida nocturna,cultura
+10,26,Medellin,6,1352145,0,3,5,vida nocturna,deporte
+9,20,Medellin,5,1672435,1,3,7,musica,cultura
+9,27,Medellin,8,1429472,0,3,8,vida nocturna,cultura
+9,25,Medellin,9,1328169,0,3,7,vida nocturna,deporte
+10,25,Medellin,7,1455748,0,3,5,musica,cultura
+10,35,Medellin,3,908400,0,3,5,vida nocturna,cultura
+9,27,Medellin,8,1563350,0,3,8,vida nocturna,cultura
+9,32,Medellin,7,1759881,0,3,7,musica,deporte
+10,21,Medellin,3,1223191,1,3,5,vida nocturna,cultura
+10,35,Medellin,7,1214211,0,3,5,musica,deporte
+9,24,Medellin,6,812309,0,3,7,musica,cultura
+9,31,Medellin,3,540330,0,4,8,musica,deporte
+9,34,Medellin,4,1220409,1,3,8,musica,deporte
+10,24,Medellin,7,714426,0,3,5,musica,deporte
+10,24,Medellin,6,533658,0,4,5,vida nocturna,cultura
+9,35,Medellin,3,926316,0,3,7,musica,cultura
+10,31,Medellin,8,1819430,0,3,5,vida nocturna,deporte
+10,29,Medellin,4,882866,0,3,5,musica,deporte
+10,24,Medellin,4,1673014,1,3,5,vida nocturna,deporte
+9,30,Medellin,3,1399526,1,3,7,musica,cultura
+9,31,Medellin,6,1481944,0,3,8,musica,deporte
+9,30,Medellin,5,1688729,1,3,7,vida nocturna,cultura
+10,31,Medellin,9,1486805,0,3,5,vida nocturna,cultura
+9,27,Medellin,10,2632824,1,3,7,vida nocturna,cultura
+10,21,Medellin,6,958354,0,3,5,musica,deporte
+9,29,Medellin,10,1778131,0,3,7,musica,deporte
+10,28,Medellin,10,2484520,0,3,5,musica,cultura
+9,19,Medellin,4,605039,0,4,8,vida nocturna,cultura
+9,25,Medellin,5,1968848,1,3,8,vida nocturna,cultura
+9,32,Medellin,9,576755,0,4,7,musica,cultura
+10,23,Medellin,3,687349,0,4,5,musica,cultura
+9,31,Medellin,7,789234,0,3,7,vida nocturna,cultura
+10,26,Medellin,5,1308298,1,3,5,vida nocturna,cultura
+10,34,Medellin,10,1889029,0,3,5,musica,cultura
+9,28,Medellin,5,1937610,1,3,7,musica,cultura
+9,22,Medellin,3,1266367,1,3,8,musica,cultura
+9,30,Medellin,9,1741984,0,3,8,vida nocturna,deporte
+9,22,Medellin,5,1178103,1,3,8,musica,cultura
+10,23,Medellin,8,1239037,0,3,5,vida nocturna,deporte
+9,23,Medellin,3,1677374,1,3,8,musica,deporte
+9,33,Medellin,8,643292,0,4,8,musica,cultura
+10,28,Medellin,10,1805889,0,3,5,vida nocturna,cultura
+10,24,Medellin,3,1987636,1,3,5,vida nocturna,deporte
+9,28,Medellin,7,1153739,0,3,8,musica,deporte
+9,34,Medellin,5,746938,0,3,8,musica,deporte
+10,22,Medellin,7,1029861,0,3,5,vida nocturna,deporte
+9,20,Medellin,9,597118,0,4,8,vida nocturna,cultura
+10,29,Medellin,7,1261844,0,3,5,vida nocturna,deporte
+9,34,Medellin,4,1731623,1,3,8,musica,deporte
+10,22,Medellin,7,1678880,0,3,5,musica,cultura
+9,22,Medellin,6,1239429,0,3,7,musica,deporte
+10,31,Medellin,5,963350,0,3,5,vida nocturna,cultura
+9,33,Medellin,4,1953081,1,3,8,vida nocturna,deporte
+9,29,Medellin,9,954004,0,3,8,vida nocturna,cultura
+10,28,Medellin,4,506598,0,4,5,vida nocturna,deporte
+10,27,Medellin,7,1890440,0,3,5,musica,cultura
+9,24,Medellin,7,1895867,0,3,7,musica,cultura
+10,31,Medellin,8,1908812,0,3,5,musica,cultura
+9,18,Medellin,6,1579493,0,3,8,vida nocturna,deporte
+10,21,Medellin,7,916178,0,3,5,vida nocturna,deporte
+10,31,Medellin,7,609450,0,4,5,musica,cultura
+9,35,Medellin,7,888374,0,3,7,musica,cultura
+10,29,Medellin,4,858066,0,3,5,musica,cultura
+10,27,Medellin,7,1841280,0,3,5,vida nocturna,deporte
+10,32,Medellin,3,681113,0,4,5,musica,cultura
+10,24,Medellin,3,1645254,1,3,5,vida nocturna,cultura
+10,29,Medellin,8,1615570,0,3,5,musica,cultura
+10,23,Medellin,4,1652299,1,3,5,musica,cultura
+10,33,Medellin,5,1520957,1,3,5,vida nocturna,deporte
+9,34,Medellin,5,1674913,1,3,8,vida nocturna,cultura
+9,27,Medellin,7,1926108,0,3,7,musica,cultura
+10,20,Medellin,10,1472218,0,3,5,vida nocturna,deporte
+9,30,Medellin,6,1174972,0,3,8,musica,cultura
+10,19,Medellin,5,781398,0,3,5,vida nocturna,cultura
+10,21,Medellin,5,1765170,1,3,5,musica,cultura
+10,20,Medellin,4,1490679,1,3,5,musica,cultura
+10,18,Medellin,5,1402394,1,3,5,vida nocturna,cultura
+9,33,Medellin,9,1393941,0,3,8,musica,cultura
+10,35,Medellin,6,1315098,0,3,5,musica,cultura
+9,28,Medellin,7,633493,0,4,7,musica,deporte
+9,25,Medellin,7,1691408,0,3,8,vida nocturna,deporte
+10,27,Medellin,10,2797111,1,3,5,vida nocturna,deporte
+10,27,Medellin,3,583614,0,4,5,vida nocturna,deporte
+10,19,Medellin,4,890304,0,3,5,vida nocturna,cultura
+9,26,Medellin,8,1042863,0,3,7,musica,cultura
+9,20,Medellin,10,2616856,1,3,8,vida nocturna,cultura
+10,22,Medellin,4,545029,0,4,5,musica,cultura
+10,33,Medellin,3,1722800,1,3,5,vida nocturna,cultura
+9,29,Medellin,9,1544514,0,3,8,musica,cultura
+9,26,Medellin,7,1779893,0,3,7,musica,cultura
+9,33,Medellin,7,861668,0,3,7,vida nocturna,deporte
+10,19,Medellin,4,1679717,1,3,5,musica,deporte
+9,24,Medellin,8,1699101,0,3,8,musica,cultura
+9,18,Medellin,9,1157737,0,3,8,musica,deporte
+9,21,Medellin,9,1852642,0,3,7,vida nocturna,deporte
+10,25,Medellin,8,1615105,0,3,5,musica,cultura
+10,24,Medellin,3,986371,0,3,5,vida nocturna,deporte
+10,28,Medellin,3,1697823,1,3,5,vida nocturna,cultura
+10,34,Medellin,5,1790181,1,3,5,musica,cultura
+10,19,Medellin,6,1107344,0,3,5,musica,deporte
+9,34,Medellin,10,1158335,0,3,8,vida nocturna,cultura
+9,34,Medellin,7,589863,0,4,8,vida nocturna,deporte
+9,30,Medellin,10,2515548,1,3,7,musica,cultura
+9,34,Medellin,10,2066694,0,3,7,vida nocturna,deporte
+10,33,Medellin,7,1716433,0,3,5,vida nocturna,deporte
+10,27,Medellin,3,1880587,1,3,5,vida nocturna,deporte
+10,32,Medellin,3,1274928,1,3,5,vida nocturna,deporte
+10,32,Medellin,9,1805426,0,3,5,vida nocturna,deporte
+10,28,Medellin,10,2769853,1,3,5,musica,deporte
+10,19,Medellin,4,1677663,1,2,5,musica,deporte
+9,31,Medellin,3,1192050,1,3,8,musica,cultura
+9,19,Medellin,8,1387384,0,3,8,vida nocturna,deporte
+10,28,Medellin,3,1113209,1,3,5,musica,cultura
+9,18,Medellin,8,524209,0,4,8,musica,deporte
+10,19,Medellin,3,1737309,1,3,5,musica,deporte
+10,19,Medellin,5,1327235,1,3,5,vida nocturna,cultura
+9,30,Medellin,9,1329714,0,3,7,musica,deporte
+10,32,Medellin,10,2245458,0,3,5,vida nocturna,cultura
+10,19,Medellin,7,1343426,0,3,5,vida nocturna,deporte
+9,22,Medellin,8,755032,0,3,8,vida nocturna,cultura
+10,33,Medellin,4,1803269,1,3,5,musica,cultura
+10,27,Medellin,8,1942959,0,3,5,musica,cultura
+10,33,Medellin,10,2307937,0,3,5,musica,deporte
+9,23,Medellin,6,1821868,0,3,8,musica,cultura
+9,29,Medellin,3,1632425,1,3,8,vida nocturna,cultura
+9,31,Medellin,7,1646782,0,3,8,musica,deporte
+9,33,Medellin,6,684773,0,4,8,vida nocturna,deporte
+10,22,Medellin,7,1903633,0,3,5,vida nocturna,deporte
+9,22,Medellin,6,1215155,0,3,8,musica,cultura
+10,18,Medellin,5,1990598,1,3,5,musica,cultura
+10,32,Medellin,4,1227079,1,3,5,musica,cultura
+10,23,Medellin,3,1388429,1,3,5,musica,cultura
+9,25,Medellin,9,1315456,0,3,7,musica,deporte
+9,35,Medellin,4,1968773,1,3,7,musica,deporte
+9,32,Medellin,3,1256073,1,3,8,vida nocturna,cultura
+9,24,Medellin,8,1714949,0,3,7,musica,deporte
+10,29,Medellin,7,1790207,0,3,5,vida nocturna,cultura
+10,35,Medellin,10,1748708,0,3,5,vida nocturna,deporte
+9,26,Medellin,4,829102,0,3,8,musica,deporte
+10,23,Medellin,3,632440,0,4,5,vida nocturna,cultura
+10,30,Medellin,9,826769,0,3,5,vida nocturna,deporte
+10,23,Medellin,3,1446761,1,3,5,vida nocturna,deporte
+9,26,Medellin,10,1490165,0,3,8,vida nocturna,cultura
+9,19,Medellin,4,1320334,1,3,8,vida nocturna,deporte
+9,18,Medellin,5,1979430,1,3,8,vida nocturna,deporte
+10,32,Medellin,6,1424024,0,3,5,musica,deporte
+10,23,Medellin,8,1035138,0,3,5,vida nocturna,cultura
+10,28,Medellin,6,811969,0,3,5,vida nocturna,deporte
+9,31,Medellin,5,1415070,1,3,7,vida nocturna,deporte
+9,31,Medellin,7,1432286,0,3,8,vida nocturna,deporte
+10,18,Medellin,7,952098,0,3,5,vida nocturna,deporte
+9,26,Medellin,10,1520450,0,3,7,musica,cultura
+10,34,Medellin,4,1922510,1,3,5,vida nocturna,deporte
+9,34,Medellin,3,1492426,1,3,7,musica,cultura
+10,24,Medellin,4,694046,0,4,5,musica,cultura
+9,32,Medellin,7,758639,0,3,7,vida nocturna,cultura
+9,32,Medellin,9,842141,0,3,8,musica,deporte
+9,24,Medellin,9,1971819,0,3,8,musica,deporte
+9,26,Medellin,8,1641216,0,3,8,musica,cultura
+10,35,Medellin,10,2614377,1,3,5,musica,deporte
+10,33,Medellin,4,1531789,1,2,5,musica,deporte
+10,29,Medellin,10,1029559,0,3,5,vida nocturna,deporte
+9,25,Medellin,6,1021456,0,3,8,musica,cultura
+9,23,Medellin,5,1945519,1,3,8,vida nocturna,deporte
+9,18,Medellin,8,823545,0,3,8,musica,deporte
+10,23,Medellin,4,1182912,1,3,5,musica,deporte
+9,19,Medellin,6,1375084,0,3,8,musica,cultura
+10,20,Medellin,3,1056390,1,3,5,vida nocturna,deporte
+9,31,Medellin,4,1640353,1,3,7,vida nocturna,cultura
+10,35,Medellin,6,1734904,0,3,5,musica,cultura
+10,23,Medellin,5,868832,0,3,5,vida nocturna,cultura
+9,19,Medellin,6,1446558,0,3,7,musica,cultura
+10,28,Medellin,6,808472,0,3,5,musica,deporte
+9,22,Medellin,9,1171233,0,3,7,musica,deporte
+9,25,Medellin,7,851521,0,3,8,musica,deporte
+9,23,Medellin,6,1972327,0,3,7,vida nocturna,cultura
+9,30,Medellin,3,1123447,1,3,8,musica,cultura
+9,28,Medellin,9,781427,0,3,8,vida nocturna,deporte
+10,30,Medellin,9,1581132,0,3,5,vida nocturna,cultura
+9,32,Medellin,4,1328524,1,3,8,vida nocturna,deporte
+9,20,Medellin,4,1275837,1,3,7,musica,deporte
+10,29,Medellin,10,1597197,0,3,5,vida nocturna,deporte
+10,35,Medellin,10,1910556,0,3,5,musica,cultura
+9,32,Medellin,8,1244326,0,3,7,vida nocturna,cultura
+9,26,Medellin,6,1842935,0,3,7,musica,deporte
+9,34,Medellin,4,1437058,1,3,8,musica,cultura
+10,22,Medellin,10,2668213,1,3,5,vida nocturna,cultura
+10,28,Medellin,8,751143,0,3,5,musica,deporte
+9,22,Medellin,10,2256355,0,3,8,musica,cultura
+9,24,Medellin,7,830670,0,3,7,vida nocturna,deporte
+9,18,Medellin,6,1726838,0,3,8,vida nocturna,cultura
+9,34,Medellin,8,1152924,0,3,8,musica,cultura
+9,24,Medellin,4,1509028,1,3,7,musica,deporte
+10,23,Medellin,9,1175272,0,3,5,musica,deporte
+9,18,Medellin,4,656402,0,4,8,musica,deporte
+10,20,Medellin,4,598733,0,4,5,musica,deporte
+10,20,Medellin,3,914264,0,3,5,musica,deporte
+10,23,Medellin,9,739109,0,3,5,vida nocturna,deporte
+10,18,Medellin,9,752847,0,3,5,vida nocturna,cultura
+9,30,Medellin,6,656553,0,4,8,musica,deporte
+10,21,Medellin,8,1371660,0,3,5,musica,cultura
+10,22,Medellin,3,1776245,1,3,5,musica,deporte
+9,20,Medellin,10,2171720,0,3,8,vida nocturna,cultura
+9,34,Medellin,10,1034469,0,3,8,vida nocturna,cultura
+9,26,Medellin,9,1058150,0,3,8,musica,cultura
+10,31,Medellin,5,1109783,1,3,5,vida nocturna,cultura
+10,23,Medellin,6,618582,0,4,5,vida nocturna,cultura
+10,34,Medellin,8,1128630,0,3,5,musica,cultura
+9,30,Medellin,3,1811786,1,3,8,vida nocturna,cultura
+9,18,Medellin,6,1318228,0,3,7,vida nocturna,cultura
+10,29,Medellin,7,1433761,0,3,5,vida nocturna,cultura
+9,30,Medellin,8,1479377,0,3,8,vida nocturna,deporte
+9,25,Medellin,4,1025713,1,3,8,vida nocturna,cultura
+10,29,Medellin,10,2489851,0,3,5,musica,deporte
+9,28,Medellin,5,1209279,1,2,8,vida nocturna,cultura
+9,28,Medellin,3,1788637,1,3,7,musica,cultura
+9,22,Medellin,6,626343,0,4,8,musica,cultura
+10,33,Medellin,9,529506,0,4,5,vida nocturna,deporte
+9,25,Medellin,9,1453441,0,3,7,musica,deporte
+10,27,Medellin,6,1964635,0,3,5,musica,deporte
+9,22,Medellin,7,620052,0,4,7,vida nocturna,cultura
+9,27,Medellin,10,2306456,0,3,8,vida nocturna,deporte
+10,26,Medellin,4,843936,0,3,5,vida nocturna,deporte
+10,33,Medellin,4,1526463,1,3,5,vida nocturna,cultura
+10,33,Medellin,10,1031543,0,3,5,vida nocturna,cultura
+10,30,Medellin,6,897748,0,3,5,vida nocturna,deporte
+9,19,Medellin,6,1959316,0,3,7,musica,cultura
+10,25,Medellin,6,1617072,0,3,5,vida nocturna,cultura
+9,24,Medellin,5,1572178,1,3,8,musica,cultura
+10,32,Medellin,6,1603149,0,3,5,musica,cultura
+10,27,Medellin,5,558251,0,4,5,musica,deporte
+10,34,Medellin,4,1345209,1,3,5,musica,deporte
+10,31,Medellin,8,772014,0,3,5,vida nocturna,cultura
+9,23,Medellin,9,958402,0,3,7,vida nocturna,deporte
+10,29,Medellin,6,1079524,0,3,5,musica,deporte
+10,32,Medellin,7,685441,0,4,5,vida nocturna,cultura
+9,31,Medellin,7,1876151,0,3,8,musica,cultura
+10,24,Medellin,6,990874,0,3,5,musica,cultura
+10,27,Medellin,3,1856344,1,3,5,musica,cultura
+9,28,Medellin,3,1863749,1,3,8,musica,deporte
+10,18,Medellin,4,1101558,1,3,5,vida nocturna,cultura
+10,23,Medellin,6,725438,0,3,5,musica,cultura
+9,27,Medellin,9,1670593,0,3,8,musica,deporte
+10,19,Medellin,10,2310624,0,3,5,musica,deporte
+10,20,Medellin,4,673932,0,4,5,musica,deporte
+10,27,Medellin,4,1073694,1,3,5,vida nocturna,cultura
+9,33,Medellin,8,538286,0,4,8,musica,deporte
+9,23,Medellin,8,1731858,0,3,7,vida nocturna,deporte
+10,29,Medellin,7,1272328,0,3,5,vida nocturna,cultura
+9,18,Medellin,4,892254,0,3,8,vida nocturna,cultura
+9,28,Medellin,10,2111414,0,3,7,musica,cultura
+10,28,Medellin,3,1835820,1,2,5,vida nocturna,cultura
+9,21,Medellin,7,695533,0,4,7,vida nocturna,cultura
+10,26,Medellin,5,1888648,1,3,5,vida nocturna,deporte
+10,26,Medellin,10,1876299,0,3,5,vida nocturna,deporte
+10,19,Medellin,7,1052590,0,3,5,musica,cultura
+10,34,Medellin,9,587570,0,4,5,musica,cultura
+9,32,Medellin,8,670866,0,4,7,musica,deporte
+10,23,Medellin,3,1669627,1,3,5,musica,deporte
+9,24,Medellin,5,1337979,1,3,8,musica,cultura
+9,21,Medellin,7,1475736,0,3,8,vida nocturna,cultura
+9,35,Medellin,3,1797736,1,3,7,musica,cultura
+9,21,Medellin,5,784049,0,3,8,vida nocturna,deporte
+9,34,Medellin,5,1843884,1,3,7,musica,deporte
+10,23,Medellin,9,1077625,0,3,5,musica,deporte
+10,34,Medellin,9,1602430,0,3,5,musica,cultura
+9,30,Medellin,10,2885269,1,3,8,musica,cultura
+9,18,Medellin,5,1286262,1,2,8,vida nocturna,deporte
+10,18,Medellin,6,760631,0,3,5,musica,deporte
+9,24,Medellin,9,1046770,0,3,7,vida nocturna,cultura
+10,18,Medellin,10,1530612,0,3,5,vida nocturna,deporte
+10,20,Medellin,3,1086261,1,3,5,vida nocturna,cultura
+10,28,Medellin,9,1543155,0,3,5,vida nocturna,cultura
+9,30,Medellin,5,535106,0,4,7,musica,deporte
+9,31,Medellin,7,1971053,0,3,8,musica,deporte
+9,33,Medellin,6,606807,0,4,7,vida nocturna,cultura
+10,21,Medellin,10,2832087,1,3,5,vida nocturna,deporte
+9,35,Medellin,9,982281,0,3,8,musica,deporte
+10,34,Medellin,7,826759,0,3,5,musica,deporte
+9,28,Medellin,4,1722567,1,3,7,vida nocturna,cultura
+10,33,Medellin,7,647526,0,4,5,vida nocturna,deporte
+9,34,Medellin,9,1580502,0,3,8,vida nocturna,deporte
+10,21,Medellin,7,915763,0,3,5,musica,deporte
+9,19,Medellin,4,1790737,1,3,8,vida nocturna,deporte
+9,23,Medellin,6,1501061,0,3,8,vida nocturna,deporte
+9,27,Medellin,5,1740931,1,3,7,vida nocturna,cultura
+9,24,Medellin,6,1203272,0,3,8,vida nocturna,cultura
+10,33,Medellin,5,1514137,1,3,5,musica,deporte
+9,18,Medellin,4,1675244,1,3,8,musica,deporte
+10,30,Medellin,4,1287306,1,3,5,vida nocturna,deporte
+9,23,Medellin,5,1647056,1,3,8,vida nocturna,cultura
+9,29,Medellin,10,2945311,1,3,7,musica,cultura
+9,34,Medellin,9,1993886,0,3,7,vida nocturna,cultura
+10,35,Medellin,9,1089468,0,3,5,musica,deporte
+9,20,Medellin,3,888136,0,3,8,vida nocturna,deporte
+10,20,Medellin,9,1105371,0,3,5,musica,cultura
+10,23,Medellin,8,1349542,0,3,5,musica,cultura
+9,31,Medellin,6,798024,0,3,8,vida nocturna,cultura
+9,20,Medellin,5,1054746,1,3,7,musica,deporte
+9,21,Medellin,8,843626,0,3,7,musica,deporte
+10,20,Medellin,5,1548490,1,3,5,musica,deporte
+9,35,Medellin,6,947449,0,3,8,musica,deporte
+9,32,Medellin,7,1047128,0,3,7,vida nocturna,cultura
+10,32,Medellin,7,1476408,0,3,5,musica,deporte
+9,35,Medellin,4,1648739,1,3,8,vida nocturna,cultura
+10,30,Medellin,9,1517005,0,3,5,musica,deporte
+10,31,Medellin,4,1666549,1,3,5,vida nocturna,cultura
+10,19,Medellin,9,1943402,0,3,5,musica,cultura
+9,26,Medellin,7,1086257,0,3,8,musica,deporte
+10,34,Medellin,3,1561261,1,3,5,musica,deporte
+9,22,Medellin,4,1904599,1,3,7,vida nocturna,deporte
+9,24,Medellin,6,1123430,0,3,8,vida nocturna,cultura
+9,22,Medellin,10,1540065,0,3,8,vida nocturna,cultura
+10,35,Medellin,10,1521018,0,3,5,vida nocturna,cultura
+9,35,Medellin,10,1221136,0,3,8,vida nocturna,cultura
+9,20,Medellin,9,1911797,0,3,7,musica,cultura
+9,26,Medellin,9,585812,0,4,8,musica,cultura
+9,24,Medellin,7,525261,0,4,8,musica,cultura
+10,22,Medellin,10,1776572,0,3,5,vida nocturna,deporte
+9,18,Medellin,6,1533027,0,3,8,musica,cultura
+9,24,Medellin,5,1796976,1,3,8,vida nocturna,cultura
+10,31,Medellin,3,556648,0,4,5,vida nocturna,cultura
+9,22,Medellin,10,1909577,0,3,7,musica,cultura
+9,18,Medellin,8,1395108,0,3,8,vida nocturna,cultura
+9,19,Medellin,7,1152818,0,3,8,musica,cultura
+9,31,Medellin,6,1284000,0,3,8,vida nocturna,cultura
+9,25,Medellin,10,2942100,1,3,8,musica,deporte
+9,21,Medellin,6,648907,0,4,7,musica,deporte
+9,28,Medellin,9,984657,0,3,7,vida nocturna,cultura
+9,30,Medellin,5,1278155,1,3,7,vida nocturna,deporte
+10,31,Medellin,5,1554788,1,3,5,vida nocturna,cultura
+9,31,Medellin,4,1725028,1,3,8,musica,cultura
+9,31,Medellin,9,682378,0,4,8,musica,deporte
+10,28,Medellin,4,647135,0,4,5,vida nocturna,cultura
+10,31,Medellin,6,1715982,0,3,5,musica,deporte
+10,31,Medellin,8,1008087,0,3,5,musica,deporte
+10,19,Medellin,8,794827,0,3,5,musica,deporte
+10,35,Medellin,6,1618565,0,3,5,musica,cultura
+9,32,Medellin,10,1940500,0,3,8,vida nocturna,cultura
+10,18,Medellin,8,927020,0,3,5,musica,deporte
+10,32,Medellin,4,1927327,1,3,5,musica,deporte
+9,34,Medellin,4,1976655,1,3,7,musica,deporte
+10,18,Medellin,4,1856438,1,3,5,musica,deporte
+10,22,Medellin,5,1070217,1,3,5,vida nocturna,deporte
+9,28,Medellin,8,1138832,0,3,8,musica,cultura
+10,32,Medellin,7,1768996,0,3,5,vida nocturna,deporte
+9,20,Medellin,8,1909268,0,3,8,vida nocturna,cultura
+10,28,Medellin,9,1576661,0,3,5,musica,cultura
+9,25,Medellin,5,1592349,1,3,8,musica,deporte
+9,20,Medellin,5,1984831,1,3,8,musica,cultura
+10,35,Medellin,9,909615,0,3,5,vida nocturna,cultura
+10,31,Medellin,6,1510873,0,3,5,musica,cultura
+9,30,Medellin,9,686888,0,4,8,musica,cultura
+9,23,Medellin,9,860916,0,3,7,vida nocturna,deporte
+9,32,Medellin,5,952222,0,3,8,musica,deporte
+9,27,Medellin,7,803561,0,3,8,musica,deporte
+10,21,Medellin,10,2091441,0,3,5,vida nocturna,deporte
+10,28,Medellin,6,1740366,0,3,5,vida nocturna,cultura
+9,22,Medellin,6,1890380,0,3,7,vida nocturna,cultura
+10,18,Medellin,10,1394129,0,3,5,vida nocturna,deporte
+9,20,Medellin,10,2197515,0,3,8,musica,cultura
+9,25,Medellin,6,1978403,0,3,7,musica,deporte
+9,22,Medellin,8,758223,0,3,7,vida nocturna,deporte
+9,21,Medellin,5,1474326,1,3,8,musica,cultura
+9,21,Medellin,9,1123636,0,3,8,vida nocturna,cultura
+10,24,Medellin,10,2835191,1,3,5,musica,cultura
+10,23,Medellin,3,1177328,1,2,5,vida nocturna,deporte
+10,30,Medellin,6,1261793,0,3,5,musica,deporte
+10,26,Medellin,8,1494233,0,3,5,musica,deporte
+10,34,Medellin,4,1081204,1,3,5,vida nocturna,cultura
+9,28,Medellin,4,1869126,1,3,7,musica,deporte
+9,27,Medellin,7,1579216,0,3,7,musica,cultura
+9,23,Medellin,5,1119841,1,3,7,vida nocturna,deporte
+9,30,Medellin,8,1888950,0,3,7,musica,deporte
+9,23,Medellin,3,1069220,1,3,8,vida nocturna,cultura
+9,22,Medellin,7,1058292,0,3,8,vida nocturna,cultura
+9,25,Medellin,9,1515299,0,3,8,musica,deporte
+9,20,Medellin,4,1281071,1,3,8,musica,cultura
+10,24,Medellin,8,628288,0,4,5,musica,deporte
+9,31,Medellin,10,2566603,1,3,7,vida nocturna,deporte
+10,23,Medellin,3,975932,0,3,5,vida nocturna,cultura
+9,21,Medellin,6,853557,0,3,7,musica,cultura
+9,23,Medellin,10,2792116,1,3,7,musica,cultura
+9,23,Medellin,6,524947,0,4,8,musica,deporte
+10,33,Medellin,5,708430,0,3,5,vida nocturna,cultura
+10,23,Medellin,9,653065,0,4,5,vida nocturna,deporte
+10,23,Medellin,9,1262130,0,3,5,musica,cultura
+10,18,Medellin,3,853395,0,3,5,musica,deporte
+9,32,Medellin,7,1866639,0,3,7,musica,deporte
+9,29,Medellin,5,792861,0,3,8,musica,cultura
+9,25,Medellin,4,1008175,1,3,8,musica,cultura
+10,18,Medellin,8,1609571,0,3,5,musica,cultura
+9,27,Medellin,8,1262527,0,3,8,vida nocturna,deporte
+9,35,Medellin,10,1145142,0,3,7,vida nocturna,cultura
+9,21,Medellin,10,2477174,0,3,8,vida nocturna,deporte
+10,20,Medellin,6,730011,0,3,5,vida nocturna,deporte
+10,34,Medellin,3,1205605,1,3,5,musica,cultura
+9,22,Medellin,5,1928292,1,3,8,musica,deporte
+9,25,Medellin,4,1900959,1,3,7,musica,deporte
+10,33,Medellin,3,1312850,1,3,5,vida nocturna,deporte
+10,19,Medellin,4,1930271,1,3,5,musica,cultura
+9,19,Medellin,3,1543149,1,3,7,musica,cultura
+9,29,Medellin,5,1207842,1,3,8,musica,cultura
+9,19,Medellin,4,1373011,1,3,8,vida nocturna,cultura
+9,23,Medellin,3,778092,0,3,8,musica,cultura
+9,35,Medellin,10,1361238,0,3,7,vida nocturna,cultura
+9,35,Medellin,10,2002166,0,3,8,vida nocturna,cultura
+9,28,Medellin,3,1425829,1,2,8,musica,cultura
+9,19,Medellin,6,1375213,0,3,8,vida nocturna,cultura
+9,22,Medellin,5,1686253,1,3,7,musica,deporte
+10,35,Medellin,3,1879518,1,3,5,vida nocturna,cultura
+10,27,Medellin,3,1142964,1,3,5,vida nocturna,cultura
+9,32,Medellin,7,655121,0,4,7,vida nocturna,cultura
+9,22,Medellin,5,1449255,1,3,8,vida nocturna,cultura
+9,24,Medellin,4,1039064,1,3,7,vida nocturna,cultura
+10,34,Medellin,5,972834,0,3,5,vida nocturna,deporte
+10,31,Medellin,9,1376371,0,3,5,musica,cultura
+10,30,Medellin,10,1064909,0,3,5,vida nocturna,deporte
+10,31,Medellin,10,2823458,1,3,5,vida nocturna,cultura
+10,23,Medellin,4,1899470,1,2,5,musica,cultura
+9,27,Medellin,5,921317,0,3,8,musica,deporte
+9,21,Medellin,10,1463441,0,3,8,vida nocturna,deporte
+10,33,Medellin,10,1343693,0,3,5,vida nocturna,cultura
+10,25,Medellin,7,1047807,0,3,5,musica,cultura
+9,28,Medellin,6,1870338,0,3,7,musica,cultura
+10,19,Medellin,3,1046458,1,3,5,musica,cultura
+10,33,Medellin,9,1132548,0,3,5,musica,deporte
+9,33,Medellin,5,705476,0,3,8,musica,deporte
+9,20,Medellin,7,937490,0,3,7,vida nocturna,cultura
+9,28,Medellin,9,1669084,0,3,8,musica,deporte
+10,29,Medellin,6,1066568,0,3,5,musica,cultura
+9,35,Medellin,10,2949040,1,3,8,musica,cultura
+10,18,Medellin,9,930597,0,3,5,vida nocturna,deporte
+10,22,Medellin,8,855704,0,3,5,musica,deporte
+9,30,Medellin,9,1804339,0,3,7,musica,cultura
+10,29,Medellin,5,1059035,1,3,5,musica,deporte
+10,33,Medellin,7,930800,0,3,5,vida nocturna,cultura
+10,33,Medellin,9,1763406,0,3,5,vida nocturna,deporte
+10,23,Medellin,5,979972,0,3,5,musica,deporte
+10,20,Medellin,4,1077044,1,3,5,vida nocturna,deporte
+9,35,Medellin,10,2682028,1,3,8,musica,cultura
+10,33,Medellin,10,2862405,1,2,5,vida nocturna,cultura
+9,33,Medellin,5,1519919,1,2,8,vida nocturna,deporte
+10,27,Medellin,6,1693086,0,3,5,musica,deporte
+9,32,Medellin,5,636216,0,4,8,vida nocturna,cultura
+9,25,Medellin,7,1751112,0,3,7,vida nocturna,deporte
+10,23,Medellin,5,918613,0,3,5,vida nocturna,deporte
+9,31,Medellin,6,1476285,0,3,8,musica,deporte
+10,19,Medellin,10,1164814,0,3,5,vida nocturna,cultura
+10,32,Medellin,3,990492,0,3,5,musica,deporte
+9,20,Medellin,8,1310362,0,3,7,vida nocturna,cultura
+9,29,Medellin,4,1997292,1,3,7,musica,cultura
+9,29,Medellin,10,2817148,1,3,7,musica,deporte
+9,33,Medellin,5,784910,0,3,7,vida nocturna,deporte
+9,24,Medellin,5,811693,0,3,8,vida nocturna,cultura
+10,31,Medellin,6,868749,0,3,5,musica,deporte
+9,33,Medellin,7,1689844,0,3,7,vida nocturna,cultura
+10,21,Medellin,5,654903,0,4,5,musica,deporte
+10,19,Medellin,6,745814,0,3,5,musica,cultura
+9,21,Medellin,7,834116,0,3,8,musica,cultura
+10,27,Medellin,7,1974846,0,3,5,musica,cultura
+9,27,Medellin,3,1966012,1,3,8,musica,cultura
+9,25,Medellin,5,1706984,1,3,7,musica,cultura
+9,18,Medellin,8,1946702,0,3,7,musica,cultura
+9,33,Medellin,10,1326640,0,3,7,vida nocturna,deporte
+9,21,Medellin,6,1960396,0,3,7,musica,deporte
+10,28,Medellin,8,1737288,0,3,5,musica,cultura
+10,19,Medellin,7,907620,0,3,5,vida nocturna,deporte
+10,30,Medellin,10,2873937,1,3,5,musica,deporte
+9,21,Medellin,10,1702817,0,3,7,vida nocturna,cultura
+10,29,Medellin,9,1891246,0,3,5,musica,cultura
+9,32,Medellin,8,1975834,0,3,8,musica,cultura
+10,25,Medellin,3,1286607,1,3,5,musica,deporte
+9,31,Medellin,7,1290463,0,3,7,vida nocturna,cultura
+10,29,Medellin,4,580973,0,4,5,musica,deporte
+9,19,Medellin,5,1732010,1,3,7,musica,deporte
+10,18,Medellin,3,1832264,1,3,5,vida nocturna,deporte
+9,25,Medellin,8,801774,0,3,7,musica,cultura
+10,29,Medellin,5,1751987,1,3,5,musica,deporte
+9,19,Medellin,6,1669829,0,3,8,musica,cultura
+9,19,Medellin,8,1703718,0,3,7,musica,deporte
+10,20,Medellin,10,2617779,1,3,5,vida nocturna,cultura
+9,34,Medellin,3,1968316,1,2,8,musica,deporte
+10,33,Medellin,8,1763498,0,3,5,vida nocturna,deporte
+9,29,Medellin,6,1804118,0,3,7,musica,cultura
+10,18,Medellin,10,1831963,0,3,5,musica,deporte
+10,20,Medellin,7,918316,0,3,5,musica,deporte
+10,29,Medellin,3,1931807,1,3,5,vida nocturna,cultura
+9,33,Medellin,9,938362,0,3,7,musica,deporte
+10,25,Medellin,10,2812713,1,3,5,musica,deporte
+9,20,Medellin,5,1710297,1,2,8,musica,cultura
+9,28,Medellin,8,654211,0,4,8,vida nocturna,deporte
+10,34,Medellin,6,1277552,0,3,5,musica,cultura
+9,22,Medellin,9,1763811,0,3,8,vida nocturna,cultura
+10,23,Medellin,3,1679316,1,3,5,vida nocturna,deporte
+10,25,Medellin,8,1907414,0,3,5,vida nocturna,deporte
+9,31,Medellin,4,986177,0,3,7,vida nocturna,deporte
+9,35,Medellin,4,1817620,1,3,8,vida nocturna,cultura
+9,24,Medellin,4,1293314,1,3,7,vida nocturna,cultura
+10,32,Medellin,8,1980678,0,3,5,vida nocturna,deporte
+10,31,Medellin,7,764526,0,3,5,musica,deporte
+9,27,Medellin,4,625232,0,4,8,vida nocturna,cultura
+9,27,Medellin,10,2638314,1,3,8,musica,cultura
+9,31,Medellin,8,1591247,0,3,7,vida nocturna,deporte
+9,19,Medellin,9,1013920,0,3,7,vida nocturna,cultura
+9,22,Medellin,7,766332,0,3,7,musica,cultura
+10,29,Medellin,10,2480847,0,3,5,vida nocturna,cultura
+9,25,Medellin,9,1666955,0,3,8,vida nocturna,deporte
+10,23,Medellin,3,784290,0,3,5,vida nocturna,deporte
+9,22,Medellin,10,2899265,1,3,8,vida nocturna,deporte
+10,19,Medellin,4,651420,0,4,5,musica,deporte
+9,24,Medellin,6,887202,0,3,7,musica,cultura
+10,31,Medellin,8,1067357,0,3,5,vida nocturna,cultura
+10,35,Medellin,5,1573927,1,3,5,vida nocturna,deporte
+10,22,Medellin,5,862388,0,3,5,musica,deporte
+10,26,Medellin,10,1144469,0,3,5,musica,deporte
+9,18,Medellin,9,974570,0,3,7,vida nocturna,deporte
+9,21,Medellin,7,543181,0,4,7,musica,cultura
+9,35,Medellin,10,1969956,0,3,8,musica,cultura
+10,33,Medellin,9,1371200,0,3,5,vida nocturna,cultura
+9,30,Medellin,6,1384245,0,3,8,musica,cultura
+10,22,Medellin,10,1281691,0,3,5,vida nocturna,cultura
+9,25,Medellin,9,1405225,0,3,8,musica,cultura
+9,23,Medellin,3,1104860,1,3,7,musica,cultura
+10,23,Medellin,10,2412094,0,3,5,musica,deporte
+9,24,Medellin,4,1678988,1,2,7,vida nocturna,cultura
+9,19,Medellin,4,1023491,1,3,7,vida nocturna,deporte
+9,29,Medellin,9,1563134,0,3,7,vida nocturna,deporte
+10,25,Medellin,6,526774,0,4,5,vida nocturna,cultura
+10,22,Medellin,10,1291801,0,3,5,musica,deporte
+10,30,Medellin,10,2401358,0,3,5,musica,deporte
+9,21,Medellin,3,1363305,1,2,7,musica,cultura
+9,30,Medellin,4,1191565,1,3,8,musica,deporte
+9,30,Medellin,4,1793504,1,3,8,vida nocturna,deporte
+9,27,Medellin,9,1814254,0,3,8,vida nocturna,cultura
+9,33,Medellin,10,2438886,0,3,7,musica,cultura
+10,25,Medellin,6,617601,0,4,5,musica,cultura
+9,18,Medellin,3,1482494,1,3,8,musica,cultura
+9,18,Medellin,5,894974,0,3,8,vida nocturna,deporte
+9,21,Medellin,5,914085,0,3,8,musica,deporte
+9,22,Medellin,5,527555,0,4,7,musica,deporte
+10,29,Medellin,3,1227213,1,3,5,vida nocturna,cultura
+10,26,Medellin,10,1102591,0,3,5,musica,cultura
+9,31,Medellin,8,874070,0,3,7,musica,cultura
+9,35,Medellin,3,1058509,1,3,8,vida nocturna,deporte
+10,20,Medellin,3,1945204,1,3,5,vida nocturna,deporte
+10,25,Medellin,9,612884,0,4,5,vida nocturna,deporte
+10,21,Medellin,5,1203124,1,3,5,vida nocturna,cultura
+10,25,Medellin,4,1330933,1,3,5,musica,deporte
+9,24,Medellin,5,1362989,1,3,7,vida nocturna,cultura
+9,29,Medellin,3,992696,0,3,7,musica,cultura
+10,19,Medellin,4,1777146,1,3,5,musica,cultura
+10,30,Medellin,7,832942,0,3,5,vida nocturna,cultura
+10,18,Medellin,8,1843978,0,3,5,musica,deporte
+9,21,Medellin,10,2392922,0,3,8,vida nocturna,deporte
+10,35,Medellin,8,1124835,0,3,5,musica,cultura
+9,32,Medellin,8,929479,0,3,7,vida nocturna,cultura
+9,24,Medellin,6,1469075,0,3,7,musica,cultura
+9,30,Medellin,8,564221,0,4,7,vida nocturna,deporte
+9,33,Medellin,7,1086682,0,3,7,musica,deporte
+9,28,Medellin,7,1984157,0,3,8,vida nocturna,cultura
+9,26,Medellin,5,1676720,1,3,8,musica,cultura
+10,30,Medellin,3,606582,0,4,5,vida nocturna,cultura
+9,21,Medellin,7,1059810,0,3,7,musica,deporte
+10,31,Medellin,7,1931257,0,3,5,musica,cultura
+9,27,Medellin,10,1637299,0,3,7,musica,cultura
+9,22,Medellin,8,1540588,0,3,8,musica,deporte
+9,19,Medellin,4,1921563,1,3,7,vida nocturna,deporte
+9,30,Medellin,5,1686288,1,3,8,vida nocturna,cultura
+9,29,Medellin,3,676446,0,4,8,vida nocturna,cultura
+9,18,Medellin,6,1896845,0,3,7,vida nocturna,cultura
+10,19,Medellin,8,1956485,0,3,5,vida nocturna,cultura
+10,22,Medellin,9,943397,0,3,5,musica,deporte
+10,26,Medellin,7,1702526,0,3,5,musica,deporte
+9,34,Medellin,9,1275169,0,3,8,musica,cultura
+10,26,Medellin,6,1093827,0,3,5,musica,deporte
+9,24,Medellin,6,1519734,0,3,7,musica,deporte
+10,34,Medellin,6,1654083,0,3,5,musica,cultura
+9,31,Medellin,5,1938390,1,3,7,musica,cultura
+9,32,Medellin,3,1040519,1,3,8,musica,deporte
+9,30,Medellin,5,1727881,1,3,7,musica,deporte
+9,26,Medellin,5,752741,0,3,8,musica,cultura
+10,34,Medellin,4,1703288,1,3,5,vida nocturna,cultura
+9,28,Medellin,6,811397,0,3,7,vida nocturna,deporte
+9,20,Medellin,7,1969922,0,3,7,musica,cultura
+10,32,Medellin,6,1250663,0,3,5,vida nocturna,deporte
+9,34,Medellin,8,1256522,0,3,8,vida nocturna,cultura
+10,30,Medellin,9,1142437,0,3,5,vida nocturna,cultura
+9,26,Medellin,9,1090060,0,3,8,vida nocturna,deporte
+10,18,Medellin,9,1704567,0,3,5,musica,cultura
+9,21,Medellin,10,1309862,0,3,8,musica,deporte
+10,20,Medellin,7,1903680,0,3,5,musica,cultura
+10,30,Medellin,3,892248,0,3,5,musica,cultura
+10,33,Medellin,9,1367880,0,3,5,musica,deporte
+9,27,Medellin,4,1917049,1,3,7,musica,deporte
+10,23,Medellin,5,1306410,1,3,5,vida nocturna,deporte
+9,31,Medellin,4,1248481,1,3,8,vida nocturna,cultura
+9,25,Medellin,8,1089356,0,3,7,vida nocturna,cultura
+9,31,Medellin,7,1196340,0,3,7,vida nocturna,cultura
+10,29,Medellin,4,1257939,1,3,5,musica,deporte
+9,19,Medellin,6,1737299,0,3,7,musica,deporte
+10,33,Medellin,7,1089687,0,3,5,vida nocturna,deporte
+9,29,Medellin,6,1004581,0,3,7,vida nocturna,deporte
+9,20,Medellin,4,514732,0,4,8,vida nocturna,deporte
+9,30,Medellin,3,1593650,1,3,8,vida nocturna,deporte
+10,29,Medellin,8,1957032,0,3,5,vida nocturna,deporte
+10,25,Medellin,6,1565091,0,3,5,vida nocturna,cultura
+10,18,Medellin,7,1528572,0,3,5,musica,deporte
+10,31,Medellin,6,793884,0,3,5,vida nocturna,deporte
+9,32,Medellin,4,1835069,1,3,7,vida nocturna,cultura
+9,19,Medellin,4,1692540,1,3,7,vida nocturna,cultura
+10,21,Medellin,8,844317,0,3,5,vida nocturna,deporte
+9,32,Medellin,9,1883932,0,3,8,musica,cultura
+10,22,Medellin,6,1098701,0,3,5,musica,deporte
+10,18,Medellin,6,1422525,0,3,5,musica,cultura
+9,29,Medellin,5,1453124,1,3,8,musica,cultura
+9,20,Medellin,5,729120,0,3,8,vida nocturna,deporte
+9,34,Medellin,5,791599,0,3,7,musica,deporte
+9,28,Medellin,4,1494342,1,3,7,vida nocturna,cultura
+10,28,Medellin,10,1782503,0,3,5,musica,cultura
+9,18,Medellin,4,1188356,1,3,7,musica,deporte
+10,33,Medellin,6,1620990,0,3,5,vida nocturna,cultura
+10,25,Medellin,10,1236102,0,3,5,vida nocturna,deporte
+9,22,Medellin,5,1925321,1,3,8,musica,deporte
+10,27,Medellin,6,970387,0,3,5,vida nocturna,deporte
+9,34,Medellin,8,1526052,0,3,8,vida nocturna,cultura
+9,29,Medellin,10,1150006,0,3,8,vida nocturna,cultura
+10,31,Medellin,8,593319,0,4,5,musica,deporte
+9,35,Medellin,8,514034,0,4,7,vida nocturna,deporte
+10,28,Medellin,5,1680591,1,3,5,vida nocturna,deporte
+10,23,Medellin,7,524057,0,4,5,musica,cultura
+9,35,Medellin,3,1587289,1,3,8,musica,cultura
+10,30,Medellin,9,860253,0,3,5,vida nocturna,cultura
+9,21,Medellin,5,698180,0,4,7,vida nocturna,deporte
+10,31,Medellin,8,1729055,0,3,5,vida nocturna,cultura
+10,30,Medellin,10,1949393,0,3,5,musica,cultura
+9,33,Medellin,10,2452413,0,3,8,musica,deporte
+9,31,Medellin,7,707468,0,3,7,vida nocturna,cultura
+10,21,Medellin,4,1701677,1,3,5,musica,deporte
+10,34,Medellin,10,2369974,0,3,5,vida nocturna,deporte
+10,19,Medellin,7,1725681,0,3,5,musica,deporte
+10,29,Medellin,6,843355,0,3,5,musica,deporte
+9,28,Medellin,10,1417377,0,3,8,vida nocturna,cultura
+9,25,Medellin,5,1809379,1,3,7,musica,cultura
+10,31,Medellin,9,1790057,0,3,5,vida nocturna,deporte
+10,21,Medellin,3,1759368,1,3,5,vida nocturna,deporte
+10,30,Medellin,9,1010410,0,3,5,musica,cultura
+9,22,Medellin,4,1340671,1,3,7,musica,cultura
+9,21,Medellin,10,2957988,1,3,8,musica,deporte
+10,34,Medellin,5,1235951,1,2,5,musica,deporte
+9,22,Medellin,9,1431222,0,3,7,musica,deporte
+9,27,Medellin,4,522121,0,4,7,vida nocturna,deporte
+9,30,Medellin,7,1065486,0,3,7,musica,cultura
+9,28,Medellin,7,1442782,0,3,8,musica,deporte
+10,20,Medellin,7,1969958,0,3,5,vida nocturna,deporte
+10,34,Medellin,10,2697040,1,3,5,musica,deporte
+9,24,Medellin,8,613367,0,4,8,vida nocturna,cultura
+9,19,Medellin,3,1146686,1,3,8,musica,cultura
+9,24,Medellin,5,1711886,1,3,7,vida nocturna,deporte
+10,30,Medellin,8,501401,0,4,5,vida nocturna,deporte
+10,28,Medellin,7,1029375,0,3,5,vida nocturna,cultura
+9,22,Medellin,8,1364892,0,3,7,vida nocturna,deporte
+9,18,Medellin,8,573859,0,4,8,musica,deporte
+10,30,Medellin,5,734993,0,3,5,vida nocturna,cultura
+10,23,Medellin,10,2844552,1,3,5,musica,deporte
+9,22,Medellin,8,657088,0,4,7,vida nocturna,deporte
+10,35,Medellin,6,679118,0,4,5,musica,cultura
+9,28,Medellin,3,539338,0,4,7,vida nocturna,cultura
+10,18,Medellin,5,1345475,1,3,5,vida nocturna,cultura
+10,24,Medellin,3,1376501,1,3,5,musica,cultura
+9,29,Medellin,5,1112741,1,3,7,vida nocturna,cultura
+9,25,Medellin,9,1831451,0,3,7,vida nocturna,deporte
+9,20,Medellin,6,522512,0,4,8,musica,cultura
+10,26,Medellin,7,791833,0,3,5,musica,deporte
+10,28,Medellin,6,512213,0,4,5,musica,cultura
+10,26,Medellin,6,1005454,0,3,5,vida nocturna,cultura
+10,26,Medellin,6,1598050,0,3,5,vida nocturna,cultura
+10,31,Medellin,5,983586,0,3,5,musica,deporte
+9,30,Medellin,10,1824373,0,3,8,vida nocturna,cultura
+9,31,Medellin,4,1517000,1,3,7,vida nocturna,deporte
+10,30,Medellin,8,1392395,0,3,5,musica,cultura
+10,19,Medellin,3,1910204,1,3,5,vida nocturna,cultura
+10,31,Medellin,9,1398728,0,3,5,musica,cultura
+10,32,Medellin,6,1129207,0,3,5,musica,deporte
+10,26,Medellin,3,1918133,1,3,5,musica,cultura
+10,27,Medellin,10,2621508,1,3,5,vida nocturna,deporte
+9,32,Medellin,7,1609379,0,3,8,vida nocturna,deporte
+9,25,Medellin,8,854662,0,3,7,vida nocturna,cultura
+9,34,Medellin,6,1253724,0,3,7,musica,cultura
+9,19,Medellin,9,914733,0,3,8,musica,cultura
+10,29,Medellin,6,1022800,0,3,5,vida nocturna,deporte
+10,33,Medellin,8,1854574,0,3,5,vida nocturna,deporte
+10,21,Medellin,5,1117335,1,3,5,vida nocturna,cultura
+9,21,Medellin,10,2054797,0,3,8,musica,cultura
+10,31,Medellin,5,1346683,1,2,5,musica,deporte
+10,26,Medellin,9,1499837,0,3,5,musica,cultura
+10,29,Medellin,3,775470,0,3,5,musica,cultura
+10,34,Medellin,10,1944812,0,3,5,vida nocturna,cultura
+10,29,Medellin,5,680461,0,4,5,musica,cultura
+9,23,Medellin,7,1923143,0,3,8,vida nocturna,cultura
+10,20,Medellin,6,587329,0,4,5,vida nocturna,cultura
+9,19,Medellin,3,604040,0,4,8,musica,deporte
+9,25,Medellin,6,1426501,0,3,7,vida nocturna,cultura
+9,33,Medellin,4,910428,0,3,8,musica,cultura
+10,30,Medellin,8,561949,0,4,5,musica,cultura
+9,19,Medellin,3,753283,0,3,8,vida nocturna,cultura
+9,26,Medellin,3,1609182,1,3,7,musica,cultura
+9,35,Medellin,9,1077283,0,3,8,vida nocturna,cultura
+9,27,Medellin,8,1160865,0,3,7,vida nocturna,deporte
+9,18,Medellin,5,1964039,1,3,7,musica,deporte
+9,31,Medellin,5,1121499,1,3,7,vida nocturna,cultura
+9,33,Medellin,10,2354378,0,3,7,vida nocturna,deporte
+10,25,Medellin,5,1861626,1,2,5,vida nocturna,cultura
+9,33,Medellin,6,1548643,0,3,7,vida nocturna,cultura
+9,30,Medellin,3,1935594,1,3,7,vida nocturna,deporte
+9,24,Medellin,5,1431198,1,3,7,musica,deporte
+9,29,Medellin,3,793606,0,3,7,vida nocturna,deporte
+9,35,Medellin,3,1520976,1,3,7,vida nocturna,deporte
+10,31,Medellin,7,1859389,0,3,5,musica,deporte
+10,23,Medellin,10,2304122,0,3,5,vida nocturna,deporte
+10,27,Medellin,10,1129786,0,3,5,musica,deporte
+9,23,Medellin,4,798363,0,3,8,musica,cultura
+9,31,Medellin,5,1031102,1,3,7,vida nocturna,cultura
+10,24,Medellin,3,1309556,1,3,5,vida nocturna,deporte
+9,24,Medellin,6,1106141,0,3,8,vida nocturna,deporte
+10,26,Medellin,9,880238,0,3,5,vida nocturna,deporte
+9,18,Medellin,4,1722985,1,3,8,musica,cultura
+10,18,Medellin,10,2247456,0,3,5,vida nocturna,deporte
+10,18,Medellin,6,1502135,0,3,5,musica,deporte
+9,30,Medellin,9,937729,0,3,8,vida nocturna,cultura
+10,22,Medellin,6,719727,0,3,5,musica,deporte
+9,32,Medellin,3,1566673,1,3,7,vida nocturna,deporte
+10,29,Medellin,9,1100413,0,3,5,musica,cultura
+9,20,Medellin,6,500124,0,4,7,musica,cultura
+9,22,Medellin,9,1270237,0,3,8,vida nocturna,deporte
+9,32,Medellin,7,1471126,0,3,7,musica,deporte
+10,23,Medellin,3,510542,0,4,5,vida nocturna,cultura
+10,28,Medellin,3,700531,0,3,5,musica,cultura
+9,30,Medellin,4,1667835,1,3,7,musica,deporte
+10,24,Medellin,3,1859828,1,3,5,vida nocturna,cultura
+10,25,Medellin,8,1988230,0,3,5,vida nocturna,cultura
+10,18,Medellin,8,725667,0,3,5,vida nocturna,deporte
+9,22,Medellin,7,1112874,0,3,7,vida nocturna,cultura
+9,19,Medellin,4,1030936,1,3,8,vida nocturna,cultura
+9,31,Medellin,9,853291,0,3,7,musica,deporte
+10,34,Medellin,8,1138085,0,3,5,musica,cultura
+10,28,Medellin,9,1117264,0,3,5,vida nocturna,deporte
+10,33,Medellin,10,2640703,1,3,5,vida nocturna,cultura
+9,22,Medellin,8,915413,0,3,7,musica,cultura
+10,22,Medellin,6,1444382,0,3,5,vida nocturna,deporte
+10,33,Medellin,6,1800747,0,3,5,vida nocturna,deporte
+9,32,Medellin,5,523207,0,4,8,musica,cultura
+10,21,Medellin,6,1961837,0,3,5,musica,deporte
+10,34,Medellin,4,1449666,1,3,5,musica,deporte
+9,21,Medellin,6,1245025,0,3,8,musica,deporte
+9,24,Medellin,5,966156,0,3,8,vida nocturna,cultura
+9,33,Medellin,6,1486589,0,3,8,musica,cultura
+10,25,Medellin,3,765862,0,3,5,musica,deporte
+9,25,Medellin,9,1338989,0,3,7,musica,cultura
+10,31,Medellin,4,1804167,1,3,5,musica,cultura
+10,24,Medellin,7,896524,0,3,5,vida nocturna,deporte
+10,32,Medellin,4,893653,0,3,5,vida nocturna,cultura
+10,27,Medellin,10,1389145,0,3,5,vida nocturna,deporte
+9,23,Medellin,7,790117,0,3,7,musica,cultura
+9,18,Medellin,9,1584118,0,3,7,vida nocturna,cultura
+10,32,Medellin,4,1833600,1,3,5,vida nocturna,deporte
+10,23,Medellin,5,1142471,1,3,5,vida nocturna,cultura
+9,24,Medellin,3,712059,0,3,8,musica,cultura
+9,32,Medellin,5,502903,0,4,7,musica,deporte
+9,25,Medellin,5,1069685,1,3,7,musica,deporte
+9,31,Medellin,4,1049613,1,3,7,vida nocturna,cultura
+10,27,Medellin,5,1971618,1,3,5,vida nocturna,deporte
+9,19,Medellin,9,668258,0,4,7,vida nocturna,deporte
+9,23,Medellin,8,751490,0,3,8,vida nocturna,cultura
+9,30,Medellin,4,863973,0,3,7,musica,cultura
+10,18,Medellin,9,1618121,0,3,5,vida nocturna,cultura
+9,26,Medellin,4,1647409,1,3,7,vida nocturna,cultura
+10,24,Medellin,5,881402,0,3,5,vida nocturna,deporte
+10,28,Medellin,4,1470751,1,3,5,musica,cultura
+10,31,Medellin,5,1596822,1,3,5,musica,cultura
+9,33,Medellin,9,1827735,0,3,7,musica,cultura
+9,28,Medellin,7,653195,0,4,7,musica,deporte
+9,28,Medellin,6,640004,0,4,8,vida nocturna,cultura
+9,22,Medellin,10,1107604,0,3,7,vida nocturna,deporte
+10,25,Medellin,6,1855835,0,3,5,vida nocturna,deporte
+9,33,Medellin,8,513392,0,4,8,musica,deporte
+9,31,Medellin,4,879037,0,3,8,musica,cultura
+9,25,Medellin,5,837986,0,3,8,vida nocturna,deporte
+9,19,Medellin,10,1834741,0,3,8,vida nocturna,cultura
+10,27,Medellin,6,1542213,0,3,5,vida nocturna,cultura
+10,19,Medellin,9,1948629,0,3,5,musica,cultura
+10,33,Medellin,9,1426080,0,3,5,musica,deporte
+9,34,Medellin,7,670827,0,4,7,musica,deporte
+10,18,Medellin,5,1598026,1,3,5,musica,cultura
+9,32,Medellin,10,1202909,0,3,7,musica,cultura
+10,35,Medellin,3,1410737,1,3,5,musica,deporte
+10,18,Medellin,3,1195146,1,3,5,musica,cultura
+10,18,Medellin,6,1280158,0,3,5,musica,deporte
+9,19,Medellin,10,2928480,1,3,7,musica,deporte
+9,22,Medellin,3,520463,0,4,8,vida nocturna,cultura
+9,25,Medellin,5,679430,0,4,8,vida nocturna,deporte
+9,30,Medellin,9,1250669,0,3,7,vida nocturna,cultura
+10,22,Medellin,4,1723715,1,3,5,musica,deporte
+10,34,Medellin,5,694997,0,4,5,vida nocturna,deporte
+9,20,Medellin,4,1138708,1,3,8,musica,cultura
+9,20,Medellin,10,1485505,0,3,8,vida nocturna,cultura
+9,25,Medellin,4,1915605,1,3,8,musica,deporte
+9,27,Medellin,4,511670,0,4,7,musica,cultura
+9,32,Medellin,8,1769158,0,3,7,vida nocturna,deporte
+9,21,Medellin,5,834414,0,3,7,vida nocturna,deporte
+9,22,Medellin,3,793893,0,3,7,vida nocturna,cultura
+10,20,Medellin,4,1287160,1,3,5,vida nocturna,cultura
+10,31,Medellin,6,1944479,0,3,5,vida nocturna,deporte
+9,23,Medellin,9,1663530,0,3,8,musica,deporte
+10,19,Medellin,8,1966127,0,3,5,musica,deporte
+10,27,Medellin,10,2774318,1,3,5,vida nocturna,deporte
+9,18,Medellin,3,1268721,1,2,8,vida nocturna,cultura
+10,28,Medellin,8,1875143,0,3,5,vida nocturna,deporte
+10,24,Medellin,6,822248,0,3,5,vida nocturna,cultura
+10,26,Medellin,4,1207979,1,3,5,vida nocturna,deporte
+10,18,Medellin,3,1693746,1,3,5,musica,deporte
+10,24,Medellin,7,660817,0,4,5,vida nocturna,deporte
+10,32,Medellin,3,895564,0,3,5,vida nocturna,deporte
+9,27,Medellin,6,556370,0,4,7,vida nocturna,deporte
+9,18,Medellin,4,1265671,1,3,7,vida nocturna,cultura
+10,21,Medellin,8,774226,0,3,5,vida nocturna,deporte
+9,22,Medellin,4,1823156,1,3,7,vida nocturna,deporte
+10,21,Medellin,9,565822,0,4,5,vida nocturna,cultura
+9,33,Medellin,9,1987213,0,3,7,vida nocturna,cultura
+10,25,Medellin,9,1799229,0,3,5,vida nocturna,cultura
+10,28,Medellin,10,1981282,0,3,5,vida nocturna,cultura
+10,34,Medellin,4,1783618,1,3,5,musica,cultura
+10,26,Medellin,5,1254688,1,3,5,vida nocturna,deporte
+10,18,Medellin,8,1252768,0,3,5,musica,cultura
+10,29,Medellin,5,1802993,1,3,5,musica,deporte
+9,32,Medellin,7,874791,0,3,7,vida nocturna,deporte
+10,32,Medellin,10,2084877,0,3,5,musica,deporte
+9,29,Medellin,9,1535106,0,3,8,vida nocturna,cultura
+10,22,Medellin,3,1843794,1,3,5,vida nocturna,cultura
+10,19,Medellin,8,769871,0,3,5,musica,deporte
+10,18,Medellin,4,1340808,1,3,5,musica,cultura
+9,28,Medellin,6,829910,0,3,7,musica,deporte
+9,33,Medellin,8,1976121,0,3,7,vida nocturna,deporte
+9,28,Medellin,9,1537952,0,3,8,musica,deporte
+10,29,Medellin,4,1642779,1,3,5,musica,cultura
+9,33,Medellin,9,593740,0,4,7,vida nocturna,deporte
+9,25,Medellin,9,558059,0,4,7,vida nocturna,cultura
+9,35,Medellin,10,1188089,0,3,7,musica,cultura
+10,32,Medellin,6,1979180,0,3,5,vida nocturna,deporte
+10,27,Medellin,8,578694,0,4,5,vida nocturna,deporte
+9,27,Medellin,8,1747417,0,3,7,vida nocturna,deporte
+9,26,Medellin,9,1783891,0,3,7,musica,cultura
+10,21,Medellin,9,1400719,0,3,5,vida nocturna,deporte
+10,25,Medellin,5,1268643,1,3,5,vida nocturna,deporte
+10,32,Medellin,7,619289,0,4,5,musica,cultura
+9,19,Medellin,10,2118486,0,3,7,musica,deporte
+10,35,Medellin,9,670479,0,4,5,vida nocturna,cultura
+10,35,Medellin,3,1636205,1,3,5,musica,cultura
+9,25,Medellin,10,2279016,0,3,8,vida nocturna,cultura
+9,25,Medellin,10,1370391,0,3,8,musica,deporte
+10,21,Medellin,8,837257,0,3,5,vida nocturna,deporte
+9,22,Medellin,7,744938,0,3,7,musica,cultura
+10,33,Medellin,5,589784,0,4,5,vida nocturna,cultura
+9,25,Medellin,9,1577003,0,3,7,vida nocturna,cultura
+9,35,Medellin,3,1832125,1,3,7,musica,deporte
+9,35,Medellin,3,1773014,1,3,8,vida nocturna,deporte
+10,21,Medellin,9,801212,0,3,5,vida nocturna,deporte
+9,26,Medellin,8,1996486,0,3,7,musica,deporte
+10,21,Medellin,5,1620090,1,3,5,musica,deporte
+10,21,Medellin,3,1237479,1,3,5,vida nocturna,cultura
+9,34,Medellin,7,759702,0,3,7,musica,deporte
+9,29,Medellin,5,1332404,1,3,7,vida nocturna,cultura
+9,30,Medellin,3,991997,0,3,7,vida nocturna,cultura
+10,24,Medellin,10,1124751,0,3,5,vida nocturna,cultura
+10,23,Medellin,7,1532939,0,3,5,vida nocturna,cultura
+9,28,Medellin,7,1248894,0,3,7,vida nocturna,deporte
+10,32,Medellin,7,1917206,0,3,5,vida nocturna,cultura
+10,25,Medellin,8,1888620,0,3,5,vida nocturna,cultura
+10,24,Medellin,3,944655,0,3,5,musica,cultura
+9,32,Medellin,6,1755015,0,3,8,vida nocturna,cultura
+10,27,Medellin,10,1621340,0,3,5,vida nocturna,cultura
+9,29,Medellin,6,932982,0,3,7,musica,deporte
+9,32,Medellin,9,1984001,0,3,8,vida nocturna,cultura
+9,28,Medellin,5,738937,0,3,7,musica,cultura
+10,26,Medellin,10,2517699,1,3,5,vida nocturna,deporte
+10,25,Medellin,5,690400,0,4,5,musica,deporte
+9,20,Medellin,9,687584,0,4,7,vida nocturna,deporte
+9,19,Medellin,4,1046712,1,3,8,musica,deporte
+10,26,Medellin,6,1079779,0,3,5,musica,cultura
+9,27,Medellin,6,1910711,0,3,7,musica,cultura
+9,22,Medellin,10,1272824,0,3,8,musica,cultura
+10,18,Medellin,7,914798,0,3,5,musica,cultura
+9,20,Medellin,7,1809755,0,3,7,vida nocturna,deporte
+10,33,Medellin,8,1507569,0,3,5,musica,deporte
+9,18,Medellin,3,603555,0,4,7,vida nocturna,deporte
+10,34,Medellin,9,1785179,0,3,5,vida nocturna,deporte
+10,18,Medellin,6,708514,0,3,5,musica,deporte
+10,25,Medellin,8,1673724,0,3,5,vida nocturna,deporte
+9,35,Medellin,10,2079654,0,3,7,musica,cultura
+10,28,Medellin,8,1327786,0,3,5,vida nocturna,deporte
+10,26,Medellin,3,1108165,1,3,5,vida nocturna,cultura
+9,33,Medellin,4,1321686,1,3,7,musica,cultura
+10,18,Medellin,10,2225238,0,3,5,musica,cultura
+9,29,Medellin,9,900047,0,3,7,vida nocturna,deporte
+9,19,Medellin,7,1542032,0,3,8,vida nocturna,deporte
+10,29,Medellin,6,559488,0,4,5,musica,cultura
+9,30,Medellin,4,895246,0,3,7,vida nocturna,cultura
+10,28,Medellin,9,1820331,0,3,5,vida nocturna,deporte
+9,31,Medellin,7,1804298,0,3,8,vida nocturna,cultura
+9,30,Medellin,6,586720,0,4,8,musica,cultura
+9,21,Medellin,5,1981288,1,3,7,vida nocturna,deporte
+9,18,Medellin,10,1282872,0,3,7,vida nocturna,deporte
+10,30,Medellin,6,978960,0,3,5,musica,cultura
+10,25,Medellin,6,1888718,0,3,5,musica,deporte
+9,18,Medellin,6,1297036,0,3,7,musica,deporte
+9,22,Medellin,3,808644,0,3,7,vida nocturna,deporte
+9,29,Medellin,10,1600174,0,3,8,vida nocturna,cultura
+10,31,Medellin,8,546918,0,4,5,musica,deporte
+10,31,Medellin,5,1933721,1,3,5,musica,deporte
+9,33,Medellin,7,1393773,0,3,8,musica,cultura
+10,19,Medellin,8,1137122,0,3,5,vida nocturna,cultura
+9,26,Medellin,9,1508096,0,3,7,musica,cultura
+10,21,Medellin,9,975185,0,3,5,vida nocturna,cultura
+9,19,Medellin,4,1046500,1,3,7,vida nocturna,deporte
+10,28,Medellin,7,1695033,0,3,5,vida nocturna,deporte
+9,33,Medellin,5,502173,0,4,8,vida nocturna,deporte
+9,27,Medellin,7,1916413,0,3,7,vida nocturna,cultura
+9,24,Medellin,3,709694,0,3,8,musica,deporte
+9,20,Medellin,10,2351798,0,3,8,vida nocturna,cultura
+9,19,Medellin,9,1458759,0,3,8,musica,cultura
+9,25,Medellin,4,1214064,1,3,7,vida nocturna,deporte
+9,19,Medellin,5,999528,0,3,8,musica,cultura
+10,34,Medellin,9,1568161,0,3,5,musica,deporte
+10,18,Medellin,10,1768279,0,3,5,vida nocturna,deporte
+9,20,Medellin,5,1844408,1,3,8,vida nocturna,deporte
+10,34,Medellin,9,1228072,0,3,5,musica,deporte
+9,22,Medellin,3,1640914,1,3,7,vida nocturna,cultura
+10,34,Medellin,4,1341802,1,3,5,musica,deporte
+9,25,Medellin,6,1781402,0,3,7,musica,cultura
+10,19,Medellin,5,1436565,1,3,5,vida nocturna,cultura
+10,18,Medellin,4,1516081,1,3,5,musica,deporte
+10,34,Medellin,8,1503382,0,3,5,musica,cultura
+10,35,Medellin,7,1868421,0,3,5,vida nocturna,deporte
+10,25,Medellin,9,965076,0,3,5,musica,deporte
+9,30,Medellin,3,1834012,1,3,8,musica,deporte
+9,31,Medellin,8,1894152,0,3,7,vida nocturna,deporte
+9,35,Medellin,8,1983789,0,3,7,musica,deporte
+9,26,Medellin,3,1219750,1,3,8,musica,cultura
+9,26,Medellin,8,1847377,0,3,8,vida nocturna,cultura
+9,32,Medellin,3,1595482,1,3,7,musica,cultura
+9,33,Medellin,5,789664,0,3,7,vida nocturna,cultura
+9,24,Medellin,7,572973,0,4,7,vida nocturna,deporte
+10,32,Medellin,4,966835,0,3,5,vida nocturna,cultura
+9,20,Medellin,4,1473308,1,3,7,vida nocturna,deporte
+9,35,Medellin,8,1641445,0,3,7,musica,cultura
+9,19,Medellin,10,2835625,1,3,8,vida nocturna,deporte
+9,27,Medellin,10,1853748,0,3,8,musica,deporte
+9,24,Medellin,7,708377,0,3,8,vida nocturna,cultura
+9,19,Medellin,7,1073615,0,3,8,vida nocturna,deporte
+10,22,Medellin,3,1029810,1,3,5,vida nocturna,cultura
+9,28,Medellin,6,1421845,0,3,8,vida nocturna,cultura
+10,25,Medellin,8,767573,0,3,5,musica,deporte
+9,35,Medellin,10,1034339,0,3,7,musica,deporte
+9,21,Medellin,7,554137,0,4,7,vida nocturna,deporte
+10,34,Medellin,6,1471975,0,3,5,musica,deporte
+9,30,Medellin,8,1375235,0,3,7,musica,deporte
+10,28,Medellin,5,640733,0,4,5,vida nocturna,deporte
+10,19,Medellin,5,952965,0,3,5,vida nocturna,cultura
+10,22,Medellin,4,1888388,1,3,5,vida nocturna,deporte
+10,19,Medellin,10,2989648,1,3,5,vida nocturna,deporte
+10,26,Medellin,8,1014510,0,3,5,musica,deporte
+10,25,Medellin,10,2698487,1,3,5,musica,deporte
+9,35,Medellin,3,1967149,1,2,7,vida nocturna,cultura
+9,28,Medellin,5,927464,0,3,7,musica,deporte
+10,26,Medellin,8,909692,0,3,5,musica,cultura
+10,30,Medellin,3,813219,0,3,5,vida nocturna,deporte
+10,27,Medellin,9,627355,0,4,5,vida nocturna,deporte
+10,24,Medellin,9,1461860,0,3,5,vida nocturna,deporte
+10,22,Medellin,5,1346909,1,3,5,vida nocturna,cultura
+9,34,Medellin,5,780245,0,3,8,musica,cultura
+9,34,Medellin,6,532507,0,4,8,musica,deporte
+9,24,Medellin,8,519359,0,4,8,musica,cultura
+10,34,Medellin,9,960391,0,3,5,vida nocturna,cultura
+10,18,Medellin,6,1723070,0,3,5,musica,cultura
+9,27,Medellin,8,1699363,0,3,8,musica,cultura
+10,33,Medellin,3,1381562,1,3,5,musica,deporte
+10,31,Medellin,4,1414165,1,3,5,musica,cultura
+9,20,Medellin,5,506725,0,4,8,vida nocturna,deporte
+9,27,Medellin,5,1458089,1,3,7,vida nocturna,deporte
+10,33,Medellin,7,1559632,0,3,5,vida nocturna,deporte
+9,30,Medellin,9,539488,0,4,7,vida nocturna,deporte
+9,33,Medellin,7,1922634,0,3,8,musica,deporte
+10,26,Medellin,6,507830,0,4,5,vida nocturna,deporte
+9,25,Medellin,3,1043830,1,3,8,vida nocturna,deporte
+10,21,Medellin,10,2914344,1,3,5,musica,cultura
+9,28,Medellin,8,599979,0,4,8,vida nocturna,deporte
+10,30,Medellin,10,1136691,0,3,5,vida nocturna,deporte
+9,31,Medellin,9,1041640,0,3,7,vida nocturna,cultura
+9,24,Medellin,4,698975,0,4,8,musica,deporte
+10,27,Medellin,9,578226,0,4,5,vida nocturna,cultura
+10,29,Medellin,3,530031,0,4,5,vida nocturna,cultura
+10,23,Medellin,8,1076305,0,3,5,vida nocturna,cultura
+10,29,Medellin,5,1184688,1,3,5,vida nocturna,deporte
+10,20,Medellin,6,979010,0,3,5,musica,cultura
+9,23,Medellin,10,2627635,1,3,7,musica,deporte
+10,22,Medellin,3,1272286,1,2,5,musica,deporte
+9,30,Medellin,9,1930596,0,3,7,vida nocturna,deporte
+10,34,Medellin,10,1120165,0,3,5,vida nocturna,cultura
+10,26,Medellin,7,1337082,0,3,5,musica,deporte
+10,18,Medellin,4,1407477,1,3,5,vida nocturna,cultura
+9,27,Medellin,8,1132365,0,3,7,musica,deporte
+10,23,Medellin,8,695786,0,4,5,musica,deporte
+10,20,Medellin,6,1055825,0,3,5,musica,cultura
+9,21,Medellin,6,975462,0,3,8,musica,cultura
+9,20,Medellin,3,765729,0,3,7,musica,deporte
+9,35,Medellin,5,1426741,1,3,8,musica,deporte
+10,26,Medellin,3,1448747,1,3,5,musica,cultura
+9,25,Medellin,10,1171264,0,3,8,vida nocturna,cultura
+9,24,Medellin,6,1993195,0,3,8,vida nocturna,cultura
+10,27,Medellin,5,710461,0,3,5,vida nocturna,cultura
+9,20,Medellin,5,1516712,1,3,7,vida nocturna,deporte
+9,19,Medellin,7,774448,0,3,7,vida nocturna,deporte
+9,29,Medellin,6,1568573,0,3,8,musica,cultura
+9,28,Medellin,6,1231853,0,3,8,musica,deporte
+10,29,Medellin,9,1853913,0,3,5,musica,cultura
+9,25,Medellin,6,675653,0,4,7,vida nocturna,deporte
+9,23,Medellin,6,1481468,0,3,7,musica,deporte
+9,24,Medellin,4,1135927,1,3,8,vida nocturna,cultura
+10,33,Medellin,7,814693,0,3,5,vida nocturna,deporte
+9,32,Medellin,8,727941,0,3,7,vida nocturna,deporte
+9,30,Medellin,10,2030420,0,3,8,vida nocturna,deporte
+10,26,Medellin,10,1634554,0,3,5,musica,cultura
+10,30,Medellin,8,938676,0,3,5,musica,deporte
+10,32,Medellin,5,1245237,1,3,5,vida nocturna,cultura
+10,35,Medellin,7,1345255,0,3,5,vida nocturna,cultura
+10,26,Medellin,6,1603293,0,3,5,vida nocturna,deporte
+10,31,Medellin,3,1242366,1,3,5,musica,cultura
+10,24,Medellin,9,1813595,0,3,5,musica,cultura
+10,24,Medellin,4,1092933,1,3,5,musica,cultura
+9,33,Medellin,8,1015586,0,3,8,vida nocturna,deporte
+10,31,Medellin,7,674551,0,4,5,vida nocturna,cultura
+9,35,Medellin,9,1796279,0,3,7,musica,deporte
+9,23,Medellin,3,1243250,1,3,7,musica,cultura
+10,33,Medellin,4,1208859,1,3,5,musica,deporte
+9,27,Medellin,3,781499,0,3,7,vida nocturna,deporte
+10,26,Medellin,7,691400,0,4,5,vida nocturna,deporte
+9,32,Medellin,4,1325385,1,3,7,musica,deporte
+9,19,Medellin,5,570510,0,4,8,musica,deporte
+10,29,Medellin,7,1846027,0,3,5,musica,deporte
+9,33,Medellin,9,545294,0,4,8,vida nocturna,deporte
+9,33,Medellin,9,1747917,0,3,8,musica,deporte
+9,18,Medellin,9,808204,0,3,7,musica,cultura
+10,35,Medellin,4,525379,0,4,5,vida nocturna,cultura
+9,34,Medellin,3,1107200,1,3,7,vida nocturna,cultura
+9,33,Medellin,10,1984434,0,3,8,vida nocturna,deporte
+10,26,Medellin,4,1791167,1,3,5,musica,cultura
+9,26,Medellin,4,1773477,1,3,8,musica,deporte
+10,21,Medellin,10,1317591,0,3,5,vida nocturna,deporte
+10,18,Medellin,7,511831,0,4,5,vida nocturna,cultura
+9,21,Medellin,4,1034300,1,3,8,musica,cultura
+9,33,Medellin,7,732882,0,3,7,musica,cultura
+10,35,Medellin,5,1922734,1,3,5,musica,deporte
+10,32,Medellin,8,903161,0,3,5,vida nocturna,deporte
+10,30,Medellin,3,1184413,1,3,5,vida nocturna,deporte
+10,34,Medellin,6,505715,0,4,5,vida nocturna,deporte
+9,30,Medellin,7,1302720,0,3,8,musica,deporte
+9,32,Medellin,8,791641,0,3,8,vida nocturna,deporte
+9,22,Medellin,3,1926076,1,3,7,vida nocturna,deporte
+10,19,Medellin,7,1244265,0,3,5,musica,cultura
+9,23,Medellin,10,2637721,1,3,7,vida nocturna,deporte
+9,18,Medellin,8,1051091,0,3,7,vida nocturna,deporte
+9,35,Medellin,7,543746,0,4,8,musica,cultura
+10,26,Medellin,6,1530364,0,3,5,musica,cultura
+10,22,Medellin,5,1520030,1,3,5,musica,cultura
+9,35,Medellin,9,1709417,0,3,8,musica,cultura
+9,18,Medellin,9,1696382,0,3,7,vida nocturna,cultura
+10,20,Medellin,10,1960256,0,3,5,vida nocturna,cultura
+10,18,Medellin,3,1160455,1,3,5,musica,cultura
+9,27,Medellin,10,1261407,0,3,8,musica,deporte
+10,33,Medellin,6,1163195,0,3,5,musica,cultura
+9,23,Medellin,6,1107452,0,3,8,vida nocturna,cultura
+10,21,Medellin,6,1863590,0,3,5,musica,deporte
+9,26,Medellin,9,608102,0,4,8,musica,deporte
+10,23,Medellin,8,1136466,0,3,5,vida nocturna,deporte
+9,30,Medellin,7,1145894,0,3,8,vida nocturna,cultura
+10,28,Medellin,9,1683679,0,3,5,musica,cultura
+10,23,Medellin,3,529921,0,4,5,vida nocturna,cultura
+10,35,Medellin,6,1267411,0,3,5,vida nocturna,cultura
+10,21,Medellin,8,920490,0,3,5,musica,cultura
+9,28,Medellin,8,849185,0,3,8,vida nocturna,cultura
+9,18,Medellin,10,2328124,0,3,7,vida nocturna,cultura
+9,18,Medellin,4,1432615,1,2,8,musica,deporte
+9,20,Medellin,7,1780968,0,3,7,vida nocturna,cultura
+9,21,Medellin,7,1195973,0,3,8,vida nocturna,deporte
+10,22,Medellin,7,1981094,0,3,5,musica,cultura
+10,22,Medellin,3,870948,0,3,5,vida nocturna,deporte
+9,31,Medellin,5,638167,0,4,7,musica,deporte
+9,29,Medellin,6,945164,0,3,8,vida nocturna,deporte
+10,25,Medellin,9,1549812,0,3,5,vida nocturna,cultura
+10,33,Medellin,9,1810986,0,3,5,vida nocturna,deporte
+10,26,Medellin,9,1195441,0,3,5,vida nocturna,deporte
+10,28,Medellin,7,1079537,0,3,5,musica,cultura
+10,34,Medellin,10,1354860,0,3,5,musica,cultura
+9,19,Medellin,7,1125577,0,3,7,vida nocturna,cultura
+10,32,Medellin,5,1517133,1,3,5,vida nocturna,cultura
+10,26,Medellin,5,510055,0,4,5,musica,deporte
+10,21,Medellin,8,1615253,0,3,5,musica,cultura
+9,20,Medellin,9,1723741,0,3,8,musica,cultura
+9,30,Medellin,4,1206587,1,3,7,vida nocturna,cultura
+9,33,Medellin,5,721536,0,3,7,vida nocturna,deporte
+9,27,Medellin,3,1721819,1,3,7,vida nocturna,cultura
+10,20,Medellin,8,1715841,0,3,5,vida nocturna,deporte
+10,18,Medellin,4,1946429,1,3,5,vida nocturna,cultura
+9,18,Medellin,10,2041646,0,3,8,vida nocturna,cultura
+10,28,Medellin,8,701222,0,3,5,vida nocturna,cultura
+10,25,Medellin,9,954459,0,3,5,musica,deporte
+9,30,Medellin,7,1035829,0,3,7,musica,deporte
+10,32,Medellin,6,853542,0,3,5,vida nocturna,cultura
+10,19,Medellin,7,1718978,0,3,5,vida nocturna,deporte
+10,34,Medellin,4,1399111,1,3,5,musica,cultura
+10,34,Medellin,7,1292501,0,3,5,musica,cultura
+9,28,Medellin,9,1192624,0,3,7,musica,deporte
+9,34,Medellin,3,578065,0,4,7,vida nocturna,cultura
+10,20,Medellin,6,1949791,0,3,5,vida nocturna,cultura
+10,25,Medellin,7,1724062,0,3,5,musica,cultura
+9,21,Medellin,4,1885912,1,3,8,musica,deporte
+10,18,Medellin,5,1727107,1,3,5,musica,deporte
+10,32,Medellin,5,643068,0,4,5,musica,deporte
+10,26,Medellin,6,1007064,0,3,5,vida nocturna,deporte
+10,22,Medellin,4,944596,0,3,5,musica,deporte
+10,23,Medellin,6,920563,0,3,5,vida nocturna,cultura
+10,21,Medellin,8,1758575,0,3,5,vida nocturna,deporte
+10,28,Medellin,3,634731,0,4,5,vida nocturna,cultura
+10,35,Medellin,8,981636,0,3,5,vida nocturna,deporte
+10,32,Medellin,5,1762133,1,3,5,vida nocturna,deporte
+9,30,Medellin,10,2222919,0,3,8,musica,cultura
+9,35,Medellin,10,2954813,1,2,7,vida nocturna,deporte
+10,21,Medellin,5,1685344,1,2,5,musica,deporte
+10,24,Medellin,9,1112555,0,3,5,musica,cultura
+9,24,Medellin,10,1053828,0,3,8,musica,cultura
+9,28,Medellin,4,1502706,1,3,8,vida nocturna,deporte
+10,31,Medellin,3,1146505,1,3,5,musica,deporte
+10,25,Medellin,6,973931,0,3,5,vida nocturna,deporte
+9,33,Medellin,6,1044490,0,3,7,vida nocturna,deporte
+9,18,Medellin,9,1965603,0,3,8,musica,deporte
+10,32,Medellin,8,1865979,0,3,5,vida nocturna,deporte
+9,27,Medellin,5,1344557,1,3,7,vida nocturna,cultura
+10,25,Medellin,9,588377,0,4,5,vida nocturna,deporte
+10,23,Medellin,9,1205180,0,3,5,musica,deporte
+9,26,Medellin,6,1934926,0,3,7,vida nocturna,cultura
+10,19,Medellin,9,788745,0,3,5,vida nocturna,cultura
+10,31,Medellin,4,512698,0,4,5,musica,cultura
+9,18,Medellin,4,1461894,1,3,7,vida nocturna,cultura
+10,25,Medellin,3,1171754,1,3,5,vida nocturna,cultura
+9,35,Medellin,5,1216159,1,3,7,vida nocturna,cultura
+9,26,Medellin,8,1789106,0,3,7,vida nocturna,cultura
+9,26,Medellin,6,1645683,0,3,7,vida nocturna,cultura
+10,21,Medellin,10,1473251,0,3,5,vida nocturna,deporte
+10,35,Medellin,8,971821,0,3,5,vida nocturna,cultura
+10,32,Medellin,8,1549714,0,3,5,musica,cultura
+10,23,Medellin,8,621451,0,4,5,vida nocturna,deporte
+10,31,Medellin,9,1675041,0,3,5,vida nocturna,deporte
+9,22,Medellin,8,1928746,0,3,8,vida nocturna,deporte
+9,29,Medellin,5,1422087,1,3,7,musica,deporte
+9,22,Medellin,6,927380,0,3,8,vida nocturna,cultura
+9,33,Medellin,9,1016017,0,3,8,vida nocturna,cultura
+9,21,Medellin,10,2745504,1,3,7,vida nocturna,cultura
+10,25,Medellin,6,777959,0,3,5,musica,deporte
+9,29,Medellin,8,1354946,0,3,8,musica,deporte
+9,30,Medellin,4,668455,0,4,8,musica,deporte
+10,23,Medellin,8,1402387,0,3,5,vida nocturna,deporte
+9,20,Medellin,4,1896923,1,3,7,vida nocturna,cultura
+10,23,Medellin,4,630932,0,4,5,musica,cultura
+9,23,Medellin,6,1721690,0,3,7,vida nocturna,cultura
+9,30,Medellin,3,1016109,1,3,7,musica,cultura
+9,27,Medellin,4,806217,0,3,8,vida nocturna,cultura
+10,25,Medellin,8,519595,0,4,5,musica,cultura
+9,31,Medellin,7,669166,0,4,8,musica,cultura
+10,20,Medellin,3,628151,0,4,5,vida nocturna,cultura
+10,34,Medellin,3,1727697,1,3,5,vida nocturna,deporte
+9,28,Medellin,4,1567745,1,3,7,musica,cultura
+9,27,Medellin,10,2665675,1,3,8,musica,cultura
+10,19,Medellin,8,1859920,0,3,5,musica,cultura
+9,20,Medellin,3,699612,0,4,7,vida nocturna,deporte
+10,20,Medellin,3,1615177,1,3,5,musica,deporte
+9,27,Medellin,6,1872011,0,3,7,vida nocturna,cultura
+9,35,Medellin,9,1279170,0,3,8,vida nocturna,deporte
+9,28,Medellin,5,1489375,1,3,8,musica,cultura
+10,23,Medellin,9,1151966,0,3,5,musica,cultura
+9,32,Medellin,5,1152784,1,3,8,musica,deporte
+9,26,Medellin,8,1590959,0,3,7,vida nocturna,cultura
+10,27,Medellin,8,1159691,0,3,5,musica,cultura
+10,30,Medellin,6,1876167,0,3,5,vida nocturna,cultura
+9,32,Medellin,3,802882,0,3,7,vida nocturna,deporte
+9,22,Medellin,6,596252,0,4,7,vida nocturna,cultura
+10,22,Medellin,4,862438,0,3,5,musica,cultura
+9,24,Medellin,7,1350455,0,3,7,vida nocturna,deporte
+9,30,Medellin,3,1156654,1,3,7,musica,cultura
+9,26,Medellin,9,1644417,0,3,7,vida nocturna,cultura
+10,34,Medellin,7,1955432,0,3,5,musica,cultura
+10,31,Medellin,3,645247,0,4,5,musica,cultura
+10,29,Medellin,8,1176817,0,3,5,vida nocturna,deporte
+10,24,Medellin,6,1439098,0,3,5,musica,deporte
+10,27,Medellin,5,859902,0,3,5,vida nocturna,deporte
+10,24,Medellin,10,1658492,0,3,5,musica,deporte
+10,24,Medellin,10,2556624,1,3,5,vida nocturna,cultura
+10,23,Medellin,6,1800807,0,3,5,vida nocturna,cultura
+10,24,Medellin,5,988615,0,3,5,vida nocturna,cultura
+9,31,Medellin,8,831133,0,3,7,vida nocturna,deporte
+9,30,Medellin,7,668412,0,4,8,vida nocturna,cultura
+10,32,Medellin,6,576693,0,4,5,musica,cultura
+9,32,Medellin,10,2329635,0,3,7,musica,cultura
+9,24,Medellin,5,1299321,1,2,7,musica,cultura
+10,21,Medellin,10,2468290,0,3,5,vida nocturna,cultura
+9,34,Medellin,5,1222490,1,2,7,musica,cultura
+9,23,Medellin,6,1600695,0,3,7,musica,deporte
+9,30,Medellin,4,1205579,1,3,7,vida nocturna,deporte
+10,31,Medellin,8,1750986,0,3,5,vida nocturna,cultura
+9,21,Medellin,9,1636919,0,3,7,vida nocturna,deporte
+10,34,Medellin,6,1314339,0,3,5,musica,cultura
+10,19,Medellin,10,2630075,1,3,5,vida nocturna,cultura
+10,32,Medellin,6,1719578,0,3,5,musica,cultura
+9,32,Medellin,10,1630663,0,3,8,vida nocturna,cultura
+10,32,Medellin,8,1046283,0,3,5,musica,cultura
+10,35,Medellin,3,563631,0,4,5,vida nocturna,cultura
+9,24,Medellin,5,1658971,1,3,7,vida nocturna,deporte
+10,27,Medellin,9,1818473,0,3,5,musica,deporte
+9,30,Medellin,4,1363519,1,3,7,vida nocturna,deporte
+9,34,Medellin,6,937570,0,3,8,vida nocturna,deporte
+10,27,Medellin,5,1144287,1,3,5,musica,cultura
+9,35,Medellin,10,2306435,0,3,8,musica,cultura
+9,29,Medellin,8,1056147,0,3,7,vida nocturna,deporte
+9,29,Medellin,6,1829785,0,3,8,vida nocturna,cultura
+9,23,Medellin,9,1933149,0,3,8,musica,cultura
+9,34,Medellin,5,1790389,1,3,8,musica,cultura
+9,27,Medellin,7,1149256,0,3,8,musica,cultura
+9,34,Medellin,3,1593680,1,3,8,vida nocturna,deporte
+10,29,Medellin,3,1753474,1,3,5,vida nocturna,deporte
+10,34,Medellin,6,528623,0,4,5,musica,cultura
+9,21,Medellin,5,1358699,1,3,7,musica,cultura
+10,22,Medellin,5,1780869,1,3,5,musica,deporte
+10,35,Medellin,6,1678480,0,3,5,vida nocturna,deporte
+10,23,Medellin,7,1600399,0,3,5,musica,cultura
+10,23,Medellin,3,828009,0,3,5,musica,deporte
+10,34,Medellin,9,696254,0,4,5,musica,cultura
+10,25,Medellin,3,1650535,1,3,5,musica,cultura
+10,18,Medellin,6,752822,0,3,5,vida nocturna,deporte
+10,23,Medellin,3,1105989,1,3,5,vida nocturna,deporte
+9,34,Medellin,3,1586668,1,3,8,vida nocturna,deporte
+9,28,Medellin,5,665135,0,4,8,musica,cultura
+9,30,Medellin,3,537189,0,4,7,musica,deporte
+10,22,Medellin,10,1150950,0,3,5,vida nocturna,cultura
+10,26,Medellin,4,1241547,1,3,5,vida nocturna,cultura
+10,21,Medellin,3,1395117,1,3,5,musica,cultura
+10,35,Medellin,3,781387,0,3,5,musica,deporte
+10,18,Medellin,9,916563,0,3,5,vida nocturna,cultura
+9,25,Medellin,5,848486,0,3,8,musica,cultura
+9,28,Medellin,6,706855,0,3,7,vida nocturna,deporte
+10,30,Medellin,9,1376007,0,3,5,vida nocturna,cultura
+10,29,Medellin,10,2336387,0,3,5,vida nocturna,deporte
+9,32,Medellin,4,1423059,1,2,8,musica,deporte
+10,23,Medellin,4,1579740,1,3,5,musica,deporte
+10,25,Medellin,3,812161,0,3,5,vida nocturna,cultura
+9,31,Medellin,9,717256,0,3,7,musica,deporte
+9,25,Medellin,6,780240,0,3,8,musica,deporte
+9,29,Medellin,10,2029969,0,3,7,vida nocturna,deporte
+9,29,Medellin,9,796888,0,3,8,vida nocturna,cultura
+10,28,Medellin,3,1678115,1,3,5,musica,deporte
+10,20,Medellin,7,1073142,0,3,5,vida nocturna,deporte
+10,18,Medellin,9,804440,0,3,5,musica,deporte
+9,22,Medellin,10,1778494,0,3,7,vida nocturna,cultura
+10,20,Medellin,10,1764945,0,3,5,musica,cultura
+9,30,Medellin,7,832550,0,3,7,vida nocturna,deporte
+10,32,Medellin,9,1925352,0,3,5,musica,deporte
+9,33,Medellin,8,690273,0,4,7,vida nocturna,cultura
+10,22,Medellin,5,847155,0,3,5,musica,cultura
+10,21,Medellin,10,1327099,0,3,5,musica,deporte
+9,21,Medellin,6,1431508,0,3,8,vida nocturna,cultura
+9,31,Medellin,5,1340760,1,3,7,vida nocturna,cultura
+10,20,Medellin,3,1394606,1,3,5,vida nocturna,deporte
+10,27,Medellin,10,1679268,0,3,5,vida nocturna,deporte
+9,21,Medellin,10,1144664,0,3,7,musica,cultura
+9,25,Medellin,6,1897745,0,3,8,vida nocturna,cultura
+10,28,Medellin,7,836796,0,3,5,musica,deporte
+9,31,Medellin,7,1169873,0,3,7,musica,deporte
+9,31,Medellin,10,1272422,0,3,7,vida nocturna,cultura
+9,29,Medellin,6,1866636,0,3,8,vida nocturna,cultura
+10,19,Medellin,10,1185268,0,3,5,vida nocturna,deporte
+10,27,Medellin,9,1117899,0,3,5,vida nocturna,deporte
+10,22,Medellin,10,2568081,1,3,5,vida nocturna,deporte
+10,33,Medellin,4,836464,0,3,5,musica,deporte
+10,19,Medellin,3,690842,0,4,5,vida nocturna,cultura
+10,33,Medellin,9,632637,0,4,5,vida nocturna,cultura
+10,28,Medellin,9,716873,0,3,5,musica,deporte
+10,24,Medellin,6,791976,0,3,5,vida nocturna,deporte
+9,19,Medellin,4,570433,0,4,7,musica,cultura
+9,32,Medellin,8,635321,0,4,7,musica,deporte
+10,26,Medellin,5,1056621,1,3,5,vida nocturna,deporte
+10,26,Medellin,10,1800429,0,3,5,vida nocturna,cultura
+10,31,Medellin,6,596403,0,4,5,musica,cultura
+9,22,Medellin,3,559546,0,4,7,vida nocturna,deporte
+10,35,Medellin,9,1220496,0,3,5,musica,deporte
+10,32,Medellin,3,939340,0,3,5,vida nocturna,deporte
+10,26,Medellin,10,2662328,1,3,5,musica,deporte
+10,18,Medellin,6,767917,0,3,5,vida nocturna,deporte
+9,23,Medellin,4,1380691,1,3,8,vida nocturna,cultura
+10,28,Medellin,3,536295,0,4,5,vida nocturna,cultura
+9,18,Medellin,4,750634,0,3,7,musica,deporte
+9,29,Medellin,8,917528,0,3,8,musica,deporte
+9,32,Medellin,6,1036992,0,3,8,vida nocturna,cultura
+10,29,Medellin,8,1267237,0,3,5,vida nocturna,deporte
+9,25,Medellin,7,1828928,0,3,7,musica,cultura
+9,32,Medellin,8,1814976,0,3,7,musica,cultura
+10,23,Medellin,8,1831435,0,3,5,musica,cultura
+9,23,Medellin,5,1538783,1,3,7,musica,deporte
+10,23,Medellin,6,1320917,0,3,5,musica,deporte
+10,27,Medellin,7,1828911,0,3,5,musica,cultura
+9,21,Medellin,6,852479,0,3,8,vida nocturna,cultura
+10,35,Medellin,8,1852253,0,3,5,musica,cultura
+9,22,Medellin,9,1268286,0,3,8,musica,cultura
+10,25,Medellin,7,1051666,0,3,5,musica,cultura
+9,33,Medellin,4,632913,0,4,8,musica,cultura
+9,19,Medellin,9,879549,0,3,7,musica,deporte
+10,18,Medellin,10,2668912,1,3,5,musica,cultura
+9,20,Medellin,10,2176745,0,3,8,musica,cultura
+10,27,Medellin,8,1367703,0,3,5,musica,deporte
+9,18,Medellin,6,696711,0,4,7,vida nocturna,deporte
+9,26,Medellin,6,1010204,0,3,7,vida nocturna,deporte
+10,29,Medellin,4,1387269,1,3,5,vida nocturna,cultura
+9,22,Medellin,10,1922327,0,3,8,musica,deporte
+10,20,Medellin,4,843583,0,3,5,vida nocturna,deporte
+10,31,Medellin,6,1121868,0,3,5,musica,deporte
+9,23,Medellin,10,2417804,0,3,7,musica,cultura
+9,19,Medellin,4,1418827,1,2,7,musica,deporte
+9,26,Medellin,10,1500349,0,3,8,musica,cultura
+9,23,Medellin,7,1032201,0,3,8,musica,deporte
+9,24,Medellin,8,501938,0,4,8,vida nocturna,cultura
+9,33,Medellin,4,1264286,1,3,8,vida nocturna,deporte
+9,21,Medellin,8,1377370,0,3,7,musica,cultura
+9,24,Medellin,4,1562858,1,3,8,vida nocturna,deporte
+10,18,Medellin,3,1330844,1,3,5,musica,deporte
+9,22,Medellin,3,1530464,1,3,8,musica,cultura
+10,23,Medellin,5,1854249,1,3,5,vida nocturna,deporte
+9,19,Medellin,10,1453569,0,3,7,vida nocturna,deporte
+9,24,Medellin,5,896297,0,3,7,musica,deporte
+10,28,Medellin,10,2233577,0,3,5,vida nocturna,deporte
+9,19,Medellin,7,1413860,0,3,7,vida nocturna,cultura
+9,34,Medellin,10,2800915,1,3,7,vida nocturna,cultura
+9,33,Medellin,3,1684730,1,2,7,musica,deporte
+9,28,Medellin,10,1429786,0,3,8,musica,deporte
+9,20,Medellin,5,1247170,1,3,7,musica,cultura
+9,22,Medellin,3,1779875,1,3,7,vida nocturna,deporte
+9,22,Medellin,5,980877,0,3,7,musica,cultura
+9,29,Medellin,10,2122116,0,3,7,vida nocturna,deporte
+10,18,Medellin,9,1010187,0,3,5,vida nocturna,cultura
+9,35,Medellin,4,670848,0,4,8,musica,cultura
+9,19,Medellin,6,1435506,0,3,7,vida nocturna,cultura
+9,35,Medellin,3,1915330,1,3,7,vida nocturna,cultura
+9,26,Medellin,7,1403833,0,3,7,vida nocturna,cultura
+9,27,Medellin,7,1964259,0,3,7,vida nocturna,deporte
+10,20,Medellin,5,1046953,1,3,5,vida nocturna,cultura
+10,21,Medellin,4,1537991,1,3,5,vida nocturna,deporte
+10,34,Medellin,5,1703638,1,3,5,vida nocturna,deporte
+9,24,Medellin,9,1983812,0,3,8,vida nocturna,cultura
+10,33,Medellin,10,2983231,1,3,5,musica,deporte
+10,18,Medellin,3,1293799,1,2,5,musica,cultura
+10,34,Medellin,6,1341233,0,3,5,vida nocturna,deporte
+9,24,Medellin,6,648667,0,4,8,musica,cultura
+9,33,Medellin,10,1765255,0,3,7,musica,deporte
+10,20,Medellin,3,987898,0,3,5,vida nocturna,deporte
+10,18,Medellin,4,1220680,1,3,5,musica,deporte
+9,33,Medellin,3,597292,0,4,7,musica,cultura
+10,28,Medellin,8,952225,0,3,5,vida nocturna,deporte
+10,19,Medellin,8,772421,0,3,5,musica,cultura
+10,23,Medellin,10,1433372,0,3,5,musica,cultura
+9,34,Medellin,6,1608730,0,3,8,musica,deporte
+10,24,Medellin,6,520525,0,4,5,vida nocturna,deporte
+10,31,Medellin,10,2791025,1,3,5,vida nocturna,cultura
+10,18,Medellin,3,890815,0,3,5,vida nocturna,deporte
+10,35,Medellin,5,1730288,1,3,5,vida nocturna,cultura
+9,21,Medellin,9,1848041,0,3,7,musica,cultura
+9,31,Medellin,6,1880669,0,3,8,vida nocturna,deporte
+10,35,Medellin,7,1493689,0,3,5,musica,cultura
+10,23,Medellin,6,1897874,0,3,5,vida nocturna,cultura
+9,26,Medellin,9,1572026,0,3,7,musica,deporte
+10,24,Medellin,10,1427047,0,3,5,musica,deporte
+9,27,Medellin,10,2272498,0,3,7,vida nocturna,deporte
+10,23,Medellin,6,826939,0,3,5,vida nocturna,cultura
+9,18,Medellin,8,867251,0,3,7,vida nocturna,deporte
+10,20,Medellin,8,631575,0,4,5,musica,cultura
+10,18,Medellin,4,1925788,1,3,5,musica,deporte
+9,20,Medellin,6,823740,0,3,8,vida nocturna,cultura
+9,32,Medellin,3,745459,0,3,7,vida nocturna,deporte
+9,24,Medellin,10,2793918,1,3,8,musica,deporte
+10,33,Medellin,4,1665107,1,2,5,vida nocturna,cultura
+10,22,Medellin,9,1703903,0,3,5,musica,cultura
+10,26,Medellin,6,1490623,0,3,5,musica,deporte
+9,27,Medellin,5,1294763,1,3,7,musica,deporte
+10,31,Medellin,3,623263,0,4,5,musica,cultura
+10,29,Medellin,7,1540363,0,3,5,vida nocturna,deporte
+10,28,Medellin,3,1019837,1,3,5,vida nocturna,deporte
+10,19,Medellin,5,1986903,1,3,5,vida nocturna,cultura
+10,35,Medellin,3,820226,0,3,5,vida nocturna,cultura
+9,24,Medellin,10,1876444,0,3,7,musica,deporte
+9,30,Medellin,3,1880300,1,3,7,musica,deporte
+10,20,Medellin,6,1193977,0,3,5,musica,cultura
+10,28,Medellin,10,1189072,0,3,5,musica,deporte
+9,32,Medellin,8,1710501,0,3,7,vida nocturna,cultura
+10,22,Medellin,6,1013394,0,3,5,vida nocturna,cultura
+9,30,Medellin,5,1001091,1,3,8,musica,cultura
+10,31,Medellin,9,1741970,0,3,5,musica,deporte
+10,21,Medellin,9,1301885,0,3,5,vida nocturna,cultura
+10,34,Medellin,5,1170816,1,3,5,vida nocturna,cultura
+9,24,Medellin,7,1564477,0,3,7,vida nocturna,cultura
+9,32,Medellin,10,2226137,0,3,7,musica,deporte
+10,20,Medellin,3,920939,0,3,5,musica,deporte
+9,25,Medellin,8,1367765,0,3,8,musica,deporte
+9,28,Medellin,5,1330855,1,3,7,musica,cultura
+9,23,Medellin,8,972654,0,3,8,vida nocturna,cultura
+9,19,Medellin,8,1329478,0,3,8,musica,deporte
+9,21,Medellin,8,1799177,0,3,7,vida nocturna,deporte
+10,21,Medellin,4,832149,0,3,5,vida nocturna,cultura
+9,20,Medellin,7,946268,0,3,7,musica,cultura
+9,19,Medellin,9,1764771,0,3,8,musica,deporte
+9,21,Medellin,9,761251,0,3,8,vida nocturna,deporte
+10,21,Medellin,7,1442663,0,3,5,musica,cultura
+9,28,Medellin,9,1274242,0,3,8,vida nocturna,cultura
+10,28,Medellin,5,1094182,1,3,5,musica,cultura
+10,24,Medellin,7,1641774,0,3,5,vida nocturna,cultura
+9,25,Medellin,4,1176501,1,3,7,vida nocturna,cultura
+10,35,Medellin,4,1940556,1,3,5,vida nocturna,deporte
+9,32,Medellin,10,2765658,1,3,8,vida nocturna,cultura
+10,23,Medellin,5,1885811,1,2,5,vida nocturna,deporte
+9,27,Medellin,10,2224080,0,3,7,vida nocturna,deporte
+10,19,Medellin,4,1007626,1,2,5,vida nocturna,cultura
+10,33,Medellin,3,939914,0,3,5,musica,cultura
+9,19,Medellin,7,1596028,0,3,8,musica,cultura
+10,32,Medellin,4,802359,0,3,5,vida nocturna,deporte
+9,24,Medellin,4,1447195,1,3,7,vida nocturna,cultura
+10,25,Medellin,5,776455,0,3,5,musica,cultura
+9,22,Medellin,8,1065103,0,3,7,vida nocturna,deporte
+9,24,Medellin,9,992177,0,3,8,musica,deporte
+10,31,Medellin,7,1889301,0,3,5,vida nocturna,cultura
+10,35,Medellin,6,1473367,0,3,5,musica,deporte
+9,21,Medellin,9,1641841,0,3,8,musica,deporte
+10,31,Medellin,5,1763516,1,3,5,musica,deporte
+10,35,Medellin,3,1357495,1,3,5,vida nocturna,deporte
+9,30,Medellin,8,1003989,0,3,8,vida nocturna,cultura
+10,31,Medellin,3,1939117,1,3,5,musica,cultura
+9,18,Medellin,4,1468006,1,3,8,vida nocturna,deporte
+9,20,Medellin,5,1251949,1,3,8,musica,cultura
+9,34,Medellin,9,1088529,0,3,7,vida nocturna,cultura
+9,26,Medellin,5,1687793,1,3,7,musica,cultura
+10,32,Medellin,7,1988631,0,3,5,vida nocturna,deporte
+9,22,Medellin,7,1411158,0,3,7,vida nocturna,deporte
+9,30,Medellin,3,553787,0,4,7,vida nocturna,cultura
+9,29,Medellin,9,667762,0,4,8,musica,cultura
+9,32,Medellin,3,1184628,1,3,8,vida nocturna,deporte
+9,20,Medellin,4,683562,0,4,7,vida nocturna,deporte
+10,35,Medellin,7,1583073,0,3,5,vida nocturna,cultura
+9,21,Medellin,10,1955931,0,3,7,musica,deporte
+9,18,Medellin,6,922616,0,3,8,musica,deporte
+10,19,Medellin,8,1218814,0,3,5,musica,cultura
+9,29,Medellin,4,953041,0,3,8,vida nocturna,cultura
+10,18,Medellin,4,1174120,1,3,5,musica,deporte
+9,34,Medellin,5,633771,0,4,8,musica,cultura
+10,34,Medellin,8,1399141,0,3,5,vida nocturna,deporte
+10,24,Medellin,10,2578093,1,3,5,musica,cultura
+9,25,Medellin,9,797712,0,3,8,vida nocturna,cultura
+9,21,Medellin,6,1869726,0,3,8,vida nocturna,deporte
+10,34,Medellin,5,1607188,1,3,5,musica,deporte
+9,32,Medellin,3,1479781,1,3,7,vida nocturna,deporte
+10,18,Medellin,8,583923,0,4,5,musica,cultura
+9,32,Medellin,8,1794364,0,3,8,musica,cultura
+10,25,Medellin,8,1138165,0,3,5,vida nocturna,cultura
+9,24,Medellin,4,627620,0,4,8,musica,deporte
+9,19,Medellin,7,1649714,0,3,7,musica,deporte
+10,31,Medellin,3,1924717,1,3,5,vida nocturna,cultura
+10,34,Medellin,10,2341867,0,3,5,vida nocturna,cultura
+9,20,Medellin,10,1230587,0,3,7,vida nocturna,deporte
+9,30,Medellin,9,1546729,0,3,7,vida nocturna,deporte
+9,31,Medellin,10,1276366,0,3,8,vida nocturna,deporte
+10,27,Medellin,4,1682363,1,3,5,musica,deporte
+9,19,Medellin,3,1276677,1,3,7,vida nocturna,deporte
+9,25,Medellin,4,1994595,1,3,7,musica,cultura
+9,18,Medellin,5,1592678,1,3,7,musica,cultura
+10,28,Medellin,7,681048,0,4,5,vida nocturna,deporte
+9,21,Medellin,6,1449723,0,3,8,vida nocturna,cultura
+10,31,Medellin,3,880989,0,3,5,vida nocturna,deporte
+9,19,Medellin,4,1221300,1,3,7,musica,deporte
+10,35,Medellin,9,1884749,0,3,5,vida nocturna,cultura
+10,23,Medellin,9,665496,0,4,5,musica,deporte
+10,18,Medellin,7,806876,0,3,5,musica,deporte
+10,27,Medellin,5,749316,0,3,5,musica,cultura
+10,25,Medellin,8,1707914,0,3,5,vida nocturna,deporte
+9,35,Medellin,4,647308,0,4,7,vida nocturna,cultura
+10,33,Medellin,10,2867571,1,3,5,vida nocturna,deporte
+9,24,Medellin,3,1097238,1,2,8,musica,cultura
+9,20,Medellin,7,1253543,0,3,8,musica,cultura
+9,25,Medellin,6,1062579,0,3,7,musica,deporte
+9,27,Medellin,5,733163,0,3,7,vida nocturna,cultura
+10,19,Medellin,3,1803867,1,3,5,vida nocturna,cultura
+9,25,Medellin,8,1616175,0,3,8,vida nocturna,deporte
+9,35,Medellin,10,1559980,0,3,7,vida nocturna,cultura
+9,24,Medellin,7,629142,0,4,7,musica,cultura
+9,29,Medellin,10,1128283,0,3,8,musica,cultura
+9,20,Medellin,6,974620,0,3,8,vida nocturna,deporte
+9,30,Medellin,3,1015998,1,3,8,vida nocturna,deporte
+10,22,Medellin,8,625220,0,4,5,musica,cultura
+10,24,Medellin,7,825120,0,3,5,musica,cultura
+10,31,Medellin,4,1240191,1,3,5,vida nocturna,cultura
+10,24,Medellin,6,1939971,0,3,5,vida nocturna,deporte
+9,21,Medellin,7,1016984,0,3,8,musica,cultura
+9,22,Medellin,7,1109219,0,3,7,musica,deporte
+10,35,Medellin,6,514738,0,4,5,vida nocturna,cultura
+9,25,Medellin,3,1242539,1,3,7,vida nocturna,cultura
+10,33,Medellin,8,945703,0,3,5,musica,deporte
+10,19,Medellin,3,1920861,1,3,5,vida nocturna,deporte
+9,27,Medellin,5,946038,0,3,8,musica,deporte
+9,28,Medellin,5,956520,0,3,7,vida nocturna,deporte
+9,18,Medellin,9,1524582,0,3,8,vida nocturna,deporte
+10,22,Medellin,9,553273,0,4,5,musica,deporte
+10,25,Medellin,6,639733,0,4,5,vida nocturna,cultura
+9,18,Medellin,10,1171324,0,3,8,musica,cultura
+10,26,Medellin,10,1022454,0,3,5,musica,cultura
+9,18,Medellin,8,1690431,0,3,7,musica,cultura
+10,35,Medellin,4,1113562,1,3,5,vida nocturna,cultura
+10,31,Medellin,10,2153035,0,3,5,vida nocturna,deporte
+9,22,Medellin,7,608229,0,4,8,musica,deporte
+10,32,Medellin,9,1233618,0,3,5,vida nocturna,deporte
+10,19,Medellin,3,1181215,1,3,5,musica,deporte
+9,20,Medellin,10,1664934,0,3,8,vida nocturna,deporte
+10,32,Medellin,8,1500360,0,3,5,vida nocturna,cultura
+10,26,Medellin,6,1837852,0,3,5,vida nocturna,cultura
+10,28,Medellin,10,2676667,1,3,5,vida nocturna,cultura
+9,23,Medellin,9,658077,0,4,7,musica,cultura
+10,29,Medellin,10,1871680,0,3,5,musica,cultura
+9,35,Medellin,6,1753822,0,3,7,musica,deporte
+9,26,Medellin,8,727162,0,3,8,vida nocturna,cultura
+9,31,Medellin,6,828747,0,3,8,musica,deporte
+10,31,Medellin,5,970467,0,3,5,vida nocturna,deporte
+9,28,Medellin,6,999148,0,3,7,vida nocturna,deporte
+9,28,Medellin,5,1600264,1,3,7,musica,cultura
+9,26,Medellin,8,823736,0,3,8,vida nocturna,cultura
+9,24,Medellin,8,1001376,0,3,8,vida nocturna,deporte
+9,21,Medellin,6,1699200,0,3,7,vida nocturna,deporte
+10,23,Medellin,8,1981826,0,3,5,vida nocturna,deporte
+10,20,Medellin,6,1116892,0,3,5,vida nocturna,cultura
+9,29,Medellin,5,1493698,1,3,8,musica,cultura
+10,34,Medellin,9,1372252,0,3,5,musica,cultura
+9,30,Medellin,3,1786044,1,3,8,musica,deporte
+10,27,Medellin,3,1147425,1,3,5,vida nocturna,deporte
+10,21,Medellin,10,2408298,0,3,5,vida nocturna,deporte
+9,33,Medellin,9,1737529,0,3,7,vida nocturna,cultura
+9,25,Medellin,9,1105943,0,3,8,musica,cultura
+10,22,Medellin,3,1932594,1,3,5,musica,deporte
+9,25,Medellin,8,1841391,0,3,7,musica,cultura
+9,27,Medellin,8,1556150,0,3,7,vida nocturna,deporte
+10,24,Medellin,5,602833,0,4,5,vida nocturna,cultura
+9,33,Medellin,4,1294157,1,3,7,musica,cultura
+10,20,Medellin,3,1277096,1,3,5,musica,cultura
+9,20,Medellin,9,1869309,0,3,8,vida nocturna,cultura
+9,19,Medellin,3,982335,0,3,8,vida nocturna,cultura
+9,28,Medellin,6,986581,0,3,8,musica,cultura
+9,22,Medellin,3,795005,0,3,8,vida nocturna,deporte
+10,20,Medellin,8,1575236,0,3,5,musica,cultura
+9,35,Medellin,7,1285205,0,3,8,vida nocturna,deporte
+10,21,Medellin,10,2369903,0,3,5,musica,deporte
+9,31,Medellin,4,1908012,1,2,7,musica,deporte
+10,26,Medellin,6,1729280,0,3,5,vida nocturna,cultura
+9,29,Medellin,3,1282300,1,3,8,vida nocturna,cultura
+10,29,Medellin,3,796565,0,3,5,musica,cultura
+10,25,Medellin,5,890115,0,3,5,musica,cultura
+10,22,Medellin,4,1521815,1,3,5,musica,cultura
+10,29,Medellin,5,1644429,1,3,5,vida nocturna,deporte
+9,30,Medellin,5,1305464,1,3,8,musica,deporte
+10,32,Medellin,4,1044947,1,3,5,vida nocturna,deporte
+9,35,Medellin,7,1538715,0,3,8,musica,deporte
+9,34,Medellin,9,1319209,0,3,7,vida nocturna,cultura
+10,18,Medellin,6,1052557,0,3,5,musica,deporte
+9,25,Medellin,7,1111376,0,3,7,vida nocturna,deporte
+10,33,Medellin,8,781095,0,3,5,musica,deporte
+10,28,Medellin,10,2656173,1,3,5,vida nocturna,deporte
+9,26,Medellin,9,1158667,0,3,7,vida nocturna,cultura
+9,18,Medellin,6,529530,0,4,7,musica,deporte
+9,26,Medellin,10,2953601,1,3,7,musica,deporte
+9,34,Medellin,5,1185198,1,2,7,musica,cultura
+10,35,Medellin,7,1013727,0,3,5,musica,cultura
+9,35,Medellin,5,1834884,1,3,8,vida nocturna,cultura
+9,23,Medellin,6,601067,0,4,7,vida nocturna,deporte
+9,35,Medellin,6,1447790,0,3,8,musica,cultura
+9,23,Medellin,7,1916651,0,3,8,musica,cultura
+10,22,Medellin,8,1858930,0,3,5,vida nocturna,deporte
+9,32,Medellin,10,1795852,0,3,8,musica,deporte
+9,27,Medellin,7,1756185,0,3,7,musica,deporte
+9,27,Medellin,3,1276843,1,3,7,vida nocturna,cultura
+9,33,Medellin,10,2060873,0,3,8,musica,cultura
+10,18,Medellin,7,1440889,0,3,5,musica,deporte
+9,18,Medellin,4,749907,0,3,7,musica,deporte
+9,34,Medellin,7,634635,0,4,8,vida nocturna,deporte
+9,30,Medellin,6,1920247,0,3,7,musica,deporte
+10,23,Medellin,4,654176,0,4,5,vida nocturna,cultura
+10,22,Medellin,9,1501804,0,3,5,musica,deporte
+10,32,Medellin,6,1231324,0,3,5,vida nocturna,cultura
+9,33,Medellin,6,1849649,0,3,8,vida nocturna,deporte
+9,25,Medellin,8,1277696,0,3,8,vida nocturna,cultura
+10,30,Medellin,3,830109,0,3,5,musica,deporte
+10,32,Medellin,5,595939,0,4,5,vida nocturna,deporte
+9,33,Medellin,4,1835077,1,3,8,musica,cultura
+9,33,Medellin,4,1085645,1,3,7,vida nocturna,deporte
+10,33,Medellin,9,1845581,0,3,5,vida nocturna,cultura
+10,33,Medellin,8,907761,0,3,5,vida nocturna,cultura
+9,32,Medellin,3,826036,0,3,7,vida nocturna,cultura
+10,35,Medellin,5,648197,0,4,5,vida nocturna,deporte
+10,24,Medellin,9,1449311,0,3,5,musica,cultura
+10,35,Medellin,3,879296,0,3,5,vida nocturna,cultura
+10,19,Medellin,10,2214783,0,3,5,musica,cultura
+10,24,Medellin,9,888452,0,3,5,musica,deporte
+9,22,Medellin,6,1904980,0,3,7,vida nocturna,cultura
+10,30,Medellin,7,916733,0,3,5,vida nocturna,deporte
+9,32,Medellin,9,1918521,0,3,8,vida nocturna,cultura
+10,28,Medellin,6,1705843,0,3,5,musica,deporte
+10,21,Medellin,10,1483683,0,3,5,vida nocturna,deporte
+10,24,Medellin,9,1264794,0,3,5,vida nocturna,deporte
+9,28,Medellin,3,1684086,1,3,8,vida nocturna,deporte
+9,18,Medellin,6,1213200,0,3,8,vida nocturna,cultura
+9,34,Medellin,7,703616,0,3,8,musica,cultura
+10,18,Medellin,7,898271,0,3,5,vida nocturna,cultura
+9,32,Medellin,7,1253765,0,3,8,vida nocturna,deporte
+10,26,Medellin,8,666585,0,4,5,musica,deporte
+9,23,Medellin,7,1906743,0,3,8,musica,deporte
+9,31,Medellin,7,590026,0,4,7,musica,cultura
+9,29,Medellin,6,552276,0,4,8,musica,deporte
+9,23,Medellin,8,614574,0,4,8,musica,deporte
+10,27,Medellin,3,544136,0,4,5,musica,cultura
+9,21,Medellin,5,852972,0,3,8,vida nocturna,deporte
+10,19,Medellin,5,757185,0,3,5,musica,cultura
+10,24,Medellin,3,1694291,1,3,5,musica,deporte
+10,28,Medellin,6,949965,0,3,5,musica,cultura
+9,20,Medellin,3,1152434,1,3,7,vida nocturna,deporte
+10,18,Medellin,10,2459415,0,3,5,musica,deporte
+10,21,Medellin,4,652929,0,4,5,musica,deporte
+9,27,Medellin,4,1124287,1,3,8,musica,deporte
+10,26,Medellin,7,1387386,0,3,5,vida nocturna,deporte
+10,29,Medellin,3,547765,0,4,5,musica,deporte
+10,22,Medellin,9,1205615,0,3,5,musica,deporte
+9,35,Medellin,7,819231,0,3,8,musica,cultura
+9,28,Medellin,4,1561280,1,3,7,vida nocturna,deporte
+9,23,Medellin,10,1886717,0,3,8,vida nocturna,cultura
+10,23,Medellin,4,1155749,1,3,5,musica,deporte
+10,23,Medellin,6,1369412,0,3,5,vida nocturna,cultura
+10,25,Medellin,3,1703888,1,3,5,vida nocturna,deporte
+10,20,Medellin,8,1272857,0,3,5,musica,cultura
+10,22,Medellin,8,1662955,0,3,5,vida nocturna,deporte
+10,27,Medellin,6,1453342,0,3,5,vida nocturna,cultura
+10,27,Medellin,9,778385,0,3,5,vida nocturna,deporte
+9,20,Medellin,6,732476,0,3,7,musica,deporte
+9,26,Medellin,3,799743,0,3,8,musica,deporte
+9,22,Medellin,6,1996770,0,3,8,musica,cultura
+10,30,Medellin,10,2329140,0,3,5,musica,cultura
+9,30,Medellin,7,1149520,0,3,7,musica,cultura
+9,34,Medellin,10,1987080,0,3,7,musica,deporte
+9,21,Medellin,6,1758523,0,3,7,musica,cultura
+9,28,Medellin,6,1862446,0,3,8,musica,cultura
+9,24,Medellin,5,1710544,1,3,7,musica,cultura
+9,28,Medellin,7,718568,0,3,7,vida nocturna,deporte
+9,29,Medellin,10,1587403,0,3,7,vida nocturna,deporte
+9,35,Medellin,7,598100,0,4,8,vida nocturna,cultura
+9,20,Medellin,7,615157,0,4,8,vida nocturna,cultura
+9,29,Medellin,7,1218503,0,3,8,musica,cultura
+9,18,Medellin,8,941440,0,3,8,vida nocturna,cultura
+10,29,Medellin,5,1392843,1,3,5,musica,deporte
+10,21,Medellin,7,1491313,0,3,5,vida nocturna,deporte
+10,18,Medellin,6,1283806,0,3,5,musica,cultura
+9,24,Medellin,5,1125252,1,3,8,vida nocturna,deporte
+10,34,Medellin,8,833544,0,3,5,musica,deporte
+9,33,Medellin,7,1299711,0,3,8,vida nocturna,deporte
+10,34,Medellin,7,1807832,0,3,5,vida nocturna,deporte
+9,29,Medellin,10,2060898,0,3,7,musica,deporte
+9,18,Medellin,10,1454037,0,3,7,vida nocturna,deporte
+9,33,Medellin,9,1868694,0,3,7,musica,cultura
+10,21,Medellin,3,1239536,1,3,5,vida nocturna,cultura
+10,27,Medellin,5,1358041,1,3,5,musica,cultura
+9,33,Medellin,5,1846978,1,3,8,musica,deporte
+10,26,Medellin,9,1675079,0,3,5,vida nocturna,deporte
+9,33,Medellin,5,1937704,1,3,7,vida nocturna,deporte
+10,32,Medellin,3,1135137,1,3,5,vida nocturna,cultura
+9,34,Medellin,4,734376,0,3,7,vida nocturna,deporte
+9,30,Medellin,8,1984296,0,3,8,musica,deporte
+9,29,Medellin,6,1483775,0,3,7,musica,cultura
+10,33,Medellin,8,864150,0,3,5,vida nocturna,deporte
+9,27,Medellin,4,1802759,1,3,7,musica,deporte
+10,21,Medellin,7,684388,0,4,5,musica,cultura
+10,32,Medellin,6,693934,0,4,5,vida nocturna,deporte
+9,25,Medellin,8,1298533,0,3,8,vida nocturna,deporte
+10,21,Medellin,3,574975,0,4,5,vida nocturna,cultura
+9,29,Medellin,9,1373025,0,3,7,musica,cultura
+9,18,Medellin,10,1396863,0,3,8,musica,cultura
+10,24,Medellin,6,941821,0,3,5,vida nocturna,deporte
+10,24,Medellin,6,904555,0,3,5,musica,cultura
+10,34,Medellin,4,928716,0,3,5,vida nocturna,cultura
+9,18,Medellin,8,1964158,0,3,7,musica,cultura
+10,28,Medellin,5,1497214,1,3,5,vida nocturna,deporte
+9,26,Medellin,7,1585691,0,3,7,musica,cultura
+10,30,Medellin,6,1791740,0,3,5,musica,cultura
+10,19,Medellin,8,974161,0,3,5,musica,cultura
+9,33,Medellin,5,1684617,1,3,7,musica,deporte
+10,23,Medellin,10,1472073,0,3,5,musica,cultura
+9,28,Medellin,8,1796848,0,3,8,musica,cultura
+9,24,Medellin,10,2591774,1,3,8,vida nocturna,deporte
+10,35,Medellin,10,1987679,0,3,5,vida nocturna,deporte
+10,24,Medellin,8,1331669,0,3,5,musica,deporte
+10,34,Medellin,6,1922496,0,3,5,vida nocturna,cultura
+9,35,Medellin,6,540724,0,4,7,musica,deporte
+9,35,Medellin,6,623584,0,4,7,vida nocturna,deporte
+9,33,Medellin,5,1801372,1,3,7,musica,cultura
+10,21,Medellin,5,1875544,1,3,5,musica,deporte
+10,22,Medellin,6,1413159,0,3,5,vida nocturna,deporte
+9,22,Medellin,7,1626629,0,3,7,musica,cultura
+9,27,Medellin,9,1141353,0,3,8,musica,deporte
+9,34,Medellin,5,860139,0,3,8,musica,cultura
+9,32,Medellin,4,1851071,1,3,8,vida nocturna,deporte
+9,23,Medellin,6,791391,0,3,8,musica,deporte
+9,28,Medellin,6,1661737,0,3,8,musica,deporte
+10,27,Medellin,4,914920,0,3,5,vida nocturna,deporte
+10,19,Medellin,8,1126104,0,3,5,musica,cultura
+9,22,Medellin,4,1942951,1,3,7,vida nocturna,cultura
+10,18,Medellin,9,888316,0,3,5,musica,deporte
+10,30,Medellin,7,1852233,0,3,5,musica,deporte
+10,35,Medellin,6,1508516,0,3,5,musica,cultura
+9,27,Medellin,8,533029,0,4,7,musica,cultura
+9,23,Medellin,5,1693956,1,3,8,vida nocturna,deporte
+9,22,Medellin,4,1798020,1,3,7,musica,deporte
+9,23,Medellin,4,1511120,1,3,8,vida nocturna,cultura
+9,24,Medellin,4,1651947,1,3,8,vida nocturna,deporte
+10,23,Medellin,9,1868504,0,3,5,vida nocturna,cultura
+10,35,Medellin,9,1826821,0,3,5,vida nocturna,cultura
+10,30,Medellin,6,1091542,0,3,5,musica,cultura
+9,21,Medellin,8,1611128,0,3,8,vida nocturna,cultura
+9,33,Medellin,7,1937445,0,3,7,musica,cultura
+10,31,Medellin,10,1426657,0,3,5,musica,deporte
+9,31,Medellin,7,1157546,0,3,7,musica,deporte
+10,19,Medellin,4,1532721,1,3,5,vida nocturna,deporte
+10,27,Medellin,8,1575672,0,3,5,musica,cultura
+10,27,Medellin,7,668013,0,4,5,vida nocturna,deporte
+9,24,Medellin,7,1976395,0,3,8,vida nocturna,deporte
+9,30,Medellin,10,1445086,0,3,7,musica,cultura
+10,33,Medellin,9,854954,0,3,5,vida nocturna,deporte
+9,21,Medellin,5,1221269,1,3,7,musica,cultura
+10,35,Medellin,3,1433195,1,3,5,musica,deporte
+10,25,Medellin,3,1353012,1,3,5,vida nocturna,deporte
+10,26,Medellin,7,929885,0,3,5,musica,cultura
+9,29,Medellin,8,1449028,0,3,8,vida nocturna,cultura
+10,35,Medellin,9,728256,0,3,5,vida nocturna,cultura
+9,22,Medellin,10,1720096,0,3,8,musica,deporte
+10,34,Medellin,9,1887352,0,3,5,musica,cultura
+10,35,Medellin,6,1687104,0,3,5,vida nocturna,cultura
+10,28,Medellin,5,1538399,1,3,5,vida nocturna,cultura
+10,24,Medellin,8,1385622,0,3,5,musica,deporte
+9,24,Medellin,10,1158295,0,3,8,musica,deporte
+9,29,Medellin,7,722504,0,3,7,musica,cultura
+9,30,Medellin,4,1628654,1,3,8,musica,cultura
+9,30,Medellin,6,1260505,0,3,7,musica,cultura
+9,19,Medellin,8,1892033,0,3,7,musica,deporte
+10,34,Medellin,6,523098,0,4,5,vida nocturna,deporte
+10,25,Medellin,6,1906816,0,3,5,vida nocturna,cultura
+9,24,Medellin,3,1684326,1,3,7,musica,deporte
+10,23,Medellin,9,537307,0,4,5,vida nocturna,deporte
+10,29,Medellin,4,655191,0,4,5,vida nocturna,deporte
+9,34,Medellin,4,562706,0,4,7,musica,cultura
+10,19,Medellin,5,605411,0,4,5,musica,cultura
+9,29,Medellin,7,955692,0,3,8,musica,deporte
+9,29,Medellin,4,906695,0,3,7,vida nocturna,cultura
+10,19,Medellin,8,1987995,0,3,5,vida nocturna,deporte
+9,19,Medellin,10,1717827,0,3,7,musica,cultura
+9,33,Medellin,7,1902226,0,3,7,musica,deporte
+10,25,Medellin,7,504745,0,4,5,vida nocturna,deporte
+10,35,Medellin,6,673748,0,4,5,musica,cultura
+10,28,Medellin,3,1497642,1,3,5,musica,deporte
+10,34,Medellin,3,1562578,1,3,5,musica,cultura
+10,28,Medellin,7,1604862,0,3,5,vida nocturna,cultura
+9,25,Medellin,10,1119561,0,3,8,vida nocturna,deporte
+10,33,Medellin,4,1563701,1,3,5,musica,deporte
+10,31,Medellin,8,820178,0,3,5,musica,deporte
+9,35,Medellin,5,1261580,1,3,8,vida nocturna,cultura
+10,34,Medellin,10,1223304,0,3,5,vida nocturna,deporte
+9,24,Medellin,10,2939724,1,3,7,musica,deporte
+10,30,Medellin,5,696794,0,4,5,vida nocturna,deporte
+9,19,Medellin,5,1828452,1,3,8,vida nocturna,cultura
+9,28,Medellin,5,1340872,1,3,8,vida nocturna,deporte
+9,31,Medellin,7,799478,0,3,7,vida nocturna,deporte
+9,30,Medellin,3,1653899,1,3,7,vida nocturna,deporte
+10,34,Medellin,5,1056400,1,3,5,musica,deporte
+10,19,Medellin,7,626517,0,4,5,musica,cultura
+9,20,Medellin,9,1395652,0,3,8,vida nocturna,cultura
+10,19,Medellin,4,1288356,1,3,5,vida nocturna,deporte
+9,18,Medellin,8,618222,0,4,7,vida nocturna,deporte
+9,35,Medellin,7,671178,0,4,8,vida nocturna,cultura
+10,28,Medellin,6,1003695,0,3,5,vida nocturna,deporte
+10,19,Medellin,3,554276,0,4,5,musica,deporte
+9,19,Medellin,9,648413,0,4,7,vida nocturna,deporte
+9,23,Medellin,7,1932186,0,3,7,musica,cultura
+10,27,Medellin,4,934947,0,3,5,musica,cultura
+9,19,Medellin,9,1753511,0,3,7,vida nocturna,deporte
+10,31,Medellin,9,1435514,0,3,5,musica,cultura
+10,27,Medellin,9,1466386,0,3,5,vida nocturna,cultura
+9,34,Medellin,7,1170976,0,3,8,musica,deporte
+9,18,Medellin,5,967691,0,3,7,vida nocturna,cultura
+9,28,Medellin,9,722647,0,3,7,vida nocturna,deporte
+10,23,Medellin,7,1257773,0,3,5,musica,deporte
+9,32,Medellin,8,880612,0,3,8,musica,cultura
+10,23,Medellin,7,1651460,0,3,5,vida nocturna,cultura
+10,21,Medellin,5,678235,0,4,5,vida nocturna,deporte
+9,25,Medellin,3,530880,0,4,7,vida nocturna,deporte
+10,27,Medellin,10,2604778,1,3,5,vida nocturna,cultura
+10,18,Medellin,10,2490935,0,3,5,musica,deporte
+9,18,Medellin,8,1032576,0,3,8,musica,cultura
+10,25,Medellin,3,1364283,1,3,5,vida nocturna,cultura
+10,32,Medellin,10,1059352,0,3,5,vida nocturna,cultura
+10,23,Medellin,10,1316434,0,3,5,musica,deporte
+9,28,Medellin,3,929742,0,3,7,vida nocturna,deporte
+10,26,Medellin,3,1654609,1,3,5,musica,cultura
+10,34,Medellin,3,1169222,1,3,5,musica,cultura
+9,31,Medellin,10,1605758,0,3,8,musica,deporte
+10,29,Medellin,8,942911,0,3,5,musica,cultura
+10,30,Medellin,5,1330186,1,3,5,musica,cultura
+10,32,Medellin,9,1123256,0,3,5,vida nocturna,cultura
+10,23,Medellin,10,1675233,0,3,5,musica,deporte
+9,33,Medellin,3,1942907,1,3,7,musica,cultura
+10,34,Medellin,9,800240,0,3,5,vida nocturna,deporte
+9,22,Medellin,8,1616318,0,3,7,musica,deporte
+9,32,Medellin,5,761676,0,3,8,vida nocturna,deporte
+10,24,Medellin,8,1491225,0,3,5,vida nocturna,deporte
+10,33,Medellin,4,992919,0,3,5,vida nocturna,cultura
+9,18,Medellin,5,1671658,1,3,8,musica,cultura
+10,30,Medellin,4,1513309,1,3,5,musica,cultura
+9,29,Medellin,10,1532832,0,3,8,vida nocturna,deporte
+9,30,Medellin,9,1575254,0,3,7,musica,cultura
+9,29,Medellin,3,1131423,1,3,8,musica,cultura
+9,28,Medellin,3,809200,0,3,7,vida nocturna,cultura
+9,27,Medellin,5,597278,0,4,8,musica,cultura
+9,28,Medellin,4,735193,0,3,7,musica,deporte
+9,22,Medellin,9,1756483,0,3,7,vida nocturna,deporte
+10,30,Medellin,10,1802470,0,3,5,vida nocturna,cultura
+10,21,Medellin,3,1294424,1,3,5,vida nocturna,cultura
+9,35,Medellin,3,1168192,1,3,8,musica,deporte
+10,31,Medellin,7,1801625,0,3,5,musica,deporte
+9,19,Medellin,8,692001,0,4,7,musica,deporte
+9,20,Medellin,4,1758739,1,3,8,vida nocturna,cultura
+10,34,Medellin,4,706559,0,3,5,vida nocturna,cultura
+10,25,Medellin,3,674359,0,4,5,musica,deporte
+10,20,Medellin,9,1734160,0,3,5,musica,deporte
+9,23,Medellin,4,1280800,1,3,8,vida nocturna,cultura
+9,27,Medellin,4,989136,0,3,8,musica,cultura
+9,23,Medellin,10,1688769,0,3,7,musica,deporte
+9,35,Medellin,8,1329653,0,3,8,vida nocturna,deporte
+10,32,Medellin,10,1205443,0,3,5,musica,cultura
+10,31,Medellin,10,2722911,1,3,5,musica,deporte
+10,25,Medellin,4,820595,0,3,5,vida nocturna,cultura
+9,31,Medellin,7,1019326,0,3,8,musica,deporte
+9,32,Medellin,9,1213910,0,3,7,musica,cultura
+10,23,Medellin,5,830139,0,3,5,vida nocturna,deporte
+10,35,Medellin,7,1204010,0,3,5,vida nocturna,cultura
+9,18,Medellin,6,1909828,0,3,8,musica,cultura
+10,30,Medellin,6,695340,0,4,5,vida nocturna,deporte
+9,27,Medellin,8,944056,0,3,8,musica,cultura
+9,32,Medellin,6,740813,0,3,8,musica,cultura
+9,26,Medellin,3,885817,0,3,8,vida nocturna,deporte
+10,23,Medellin,10,1760912,0,3,5,musica,cultura
+9,28,Medellin,7,1059633,0,3,7,musica,cultura
+10,30,Medellin,9,1914493,0,3,5,musica,deporte
+10,18,Medellin,5,1791418,1,3,5,musica,deporte
+9,18,Medellin,4,1918318,1,3,8,musica,deporte
+10,32,Medellin,3,1239601,1,3,5,vida nocturna,deporte
+10,30,Medellin,9,764168,0,3,5,musica,cultura
+10,33,Medellin,8,717265,0,3,5,vida nocturna,deporte
+10,30,Medellin,6,1638811,0,3,5,musica,deporte
+10,28,Medellin,10,2482752,0,3,5,vida nocturna,cultura
+10,27,Medellin,9,1663574,0,3,5,vida nocturna,deporte
+10,35,Medellin,7,1318024,0,3,5,vida nocturna,cultura
+10,27,Medellin,7,1585912,0,3,5,musica,deporte
+10,18,Medellin,4,1329450,1,3,5,vida nocturna,deporte
+9,27,Medellin,10,2116118,0,3,7,musica,cultura
+10,19,Medellin,6,1686856,0,3,5,vida nocturna,cultura
+9,23,Medellin,9,1580912,0,3,8,musica,cultura
+9,27,Medellin,10,1641721,0,3,7,vida nocturna,cultura
+9,23,Medellin,3,1626425,1,3,7,vida nocturna,deporte
+10,23,Medellin,9,1265909,0,3,5,vida nocturna,deporte
+10,23,Medellin,9,1765321,0,3,5,musica,cultura
+10,22,Medellin,5,1126964,1,3,5,vida nocturna,cultura
+10,30,Medellin,10,2972656,1,3,5,vida nocturna,cultura
+9,28,Medellin,4,1703313,1,2,8,vida nocturna,deporte
+10,29,Medellin,5,1736030,1,3,5,musica,deporte
+10,18,Medellin,3,1358499,1,3,5,vida nocturna,cultura
+9,31,Medellin,6,1550767,0,3,7,vida nocturna,deporte
+9,27,Medellin,10,1509991,0,3,7,vida nocturna,cultura
+10,28,Medellin,9,503848,0,4,5,musica,deporte
+10,27,Medellin,9,1512489,0,3,5,musica,cultura
+9,22,Medellin,3,1155099,1,3,8,vida nocturna,deporte
+9,29,Medellin,8,1119932,0,3,8,musica,cultura
+10,19,Medellin,5,1734513,1,3,5,vida nocturna,deporte
+10,28,Medellin,5,1634603,1,3,5,musica,deporte
+9,21,Medellin,6,1085078,0,3,7,musica,deporte
+10,22,Medellin,7,1640185,0,3,5,vida nocturna,cultura
+9,19,Medellin,6,1530105,0,3,8,vida nocturna,deporte
+9,22,Medellin,6,1138970,0,3,7,musica,deporte
+10,28,Medellin,10,1010762,0,3,5,musica,cultura
+9,26,Medellin,9,900905,0,3,7,musica,cultura
+9,35,Medellin,7,1896298,0,3,8,vida nocturna,cultura
+10,30,Medellin,3,1251730,1,3,5,vida nocturna,cultura
+10,19,Medellin,4,1587355,1,3,5,vida nocturna,cultura
+9,25,Medellin,6,1987209,0,3,8,musica,cultura
+9,26,Medellin,4,1105359,1,3,7,musica,deporte
+10,25,Medellin,4,939154,0,3,5,musica,deporte
+9,20,Medellin,3,1360532,1,3,8,musica,cultura
+9,22,Medellin,10,1116148,0,3,8,musica,cultura
+9,33,Medellin,7,732780,0,3,7,vida nocturna,deporte
+10,33,Medellin,3,974622,0,3,5,musica,cultura
+9,33,Medellin,8,546103,0,4,7,musica,deporte
+9,26,Medellin,3,1077158,1,3,8,musica,deporte
+10,31,Medellin,10,2053400,0,3,5,vida nocturna,cultura
+10,23,Medellin,8,710854,0,3,5,vida nocturna,cultura
+10,21,Medellin,5,776744,0,3,5,musica,deporte
+10,29,Medellin,5,506477,0,4,5,vida nocturna,deporte
+9,32,Medellin,8,1537048,0,3,7,vida nocturna,deporte
+9,19,Medellin,6,548446,0,4,7,musica,cultura
+10,32,Medellin,10,2972170,1,3,5,vida nocturna,cultura
+9,18,Medellin,8,846100,0,3,8,vida nocturna,deporte
+9,33,Medellin,7,1394427,0,3,7,musica,deporte
+10,31,Medellin,6,1304543,0,3,5,vida nocturna,cultura
+9,28,Medellin,9,570914,0,4,8,vida nocturna,cultura
+10,27,Medellin,4,1296320,1,3,5,musica,deporte
+9,34,Medellin,10,2061822,0,3,8,musica,cultura
+9,25,Medellin,6,808583,0,3,7,musica,deporte
+9,34,Medellin,9,1734994,0,3,7,musica,cultura
+10,22,Medellin,4,1578650,1,3,5,vida nocturna,cultura
+10,34,Medellin,8,1458639,0,3,5,vida nocturna,cultura
+10,35,Medellin,9,1872739,0,3,5,musica,deporte
+9,21,Medellin,7,1621730,0,3,7,vida nocturna,cultura
+10,29,Medellin,8,1022019,0,3,5,vida nocturna,deporte
+10,18,Medellin,9,945914,0,3,5,musica,deporte
+9,19,Medellin,6,889043,0,3,7,vida nocturna,deporte
+10,35,Medellin,3,1585981,1,3,5,musica,deporte
+9,24,Medellin,5,995891,0,3,7,musica,deporte
+9,25,Medellin,7,1905154,0,3,8,vida nocturna,cultura
+9,27,Medellin,10,2092789,0,3,8,musica,deporte
+9,25,Medellin,8,745750,0,3,8,vida nocturna,cultura
+9,21,Medellin,10,2061445,0,3,8,musica,deporte
+10,29,Medellin,10,1441081,0,3,5,vida nocturna,deporte
+10,33,Medellin,3,759057,0,3,5,musica,cultura
+9,19,Medellin,5,956587,0,3,8,vida nocturna,deporte
+9,34,Medellin,6,745642,0,3,8,musica,deporte
+9,26,Medellin,3,1803767,1,3,7,vida nocturna,deporte
+10,29,Medellin,8,1610665,0,3,5,musica,deporte
+10,21,Medellin,3,1368124,1,3,5,musica,deporte
+10,28,Medellin,6,1050476,0,3,5,musica,cultura
+9,26,Medellin,4,1935505,1,3,8,vida nocturna,deporte
+9,19,Medellin,7,1944408,0,3,7,musica,cultura
+10,27,Medellin,7,1162846,0,3,5,musica,deporte
+10,33,Medellin,7,699307,0,4,5,vida nocturna,cultura
+10,19,Medellin,8,1546280,0,3,5,vida nocturna,cultura
+10,32,Medellin,8,1411588,0,3,5,vida nocturna,deporte
+10,35,Medellin,7,781919,0,3,5,musica,deporte
+9,32,Medellin,6,1504042,0,3,7,vida nocturna,cultura
+10,24,Medellin,4,1842803,1,3,5,vida nocturna,deporte
+10,22,Medellin,4,1564819,1,3,5,vida nocturna,deporte
+10,31,Medellin,6,585294,0,4,5,musica,cultura
+9,22,Medellin,9,508385,0,4,8,musica,cultura
+9,23,Medellin,8,1282692,0,3,7,musica,cultura
+9,30,Medellin,8,600098,0,4,7,vida nocturna,deporte
+10,31,Medellin,4,1454354,1,3,5,musica,cultura
+9,33,Medellin,4,602327,0,4,8,vida nocturna,cultura
+10,22,Medellin,5,785758,0,3,5,musica,deporte
+10,33,Medellin,6,734960,0,3,5,musica,deporte
+9,34,Medellin,7,1505129,0,3,7,musica,deporte
+10,31,Medellin,4,832301,0,3,5,musica,cultura
+10,21,Medellin,10,2946457,1,3,5,musica,cultura
+10,25,Medellin,8,1303729,0,3,5,musica,cultura
+10,29,Medellin,9,1373526,0,3,5,vida nocturna,cultura
+9,31,Medellin,10,2504645,1,3,7,vida nocturna,deporte
+9,33,Medellin,7,1194149,0,3,8,vida nocturna,cultura
+9,29,Medellin,7,1985973,0,3,8,musica,deporte
+10,25,Medellin,6,948746,0,3,5,musica,cultura
+10,26,Medellin,8,1537350,0,3,5,musica,deporte
+10,35,Medellin,10,2314734,0,3,5,musica,deporte
+9,29,Medellin,4,864507,0,3,7,musica,deporte
+9,25,Medellin,9,1703830,0,3,7,musica,deporte
+10,26,Medellin,6,1147333,0,3,5,musica,cultura
+9,32,Medellin,5,741254,0,3,8,musica,cultura
+10,33,Medellin,4,1711208,1,3,5,vida nocturna,cultura
+10,30,Medellin,4,748559,0,3,5,musica,cultura
+10,34,Medellin,7,1366708,0,3,5,vida nocturna,deporte
+10,34,Medellin,6,1143540,0,3,5,vida nocturna,cultura
+9,31,Medellin,7,1635978,0,3,8,vida nocturna,cultura
+9,19,Medellin,7,665557,0,4,8,musica,deporte
+9,24,Medellin,6,1854007,0,3,7,musica,deporte
+9,26,Medellin,6,1254785,0,3,8,musica,cultura
+9,27,Medellin,5,854690,0,3,8,musica,cultura
+9,25,Medellin,9,1683376,0,3,7,musica,cultura
+9,31,Medellin,7,1255245,0,3,7,musica,deporte
+9,21,Medellin,5,1725665,1,3,7,vida nocturna,cultura
+9,18,Medellin,9,1010000,0,3,7,musica,cultura
+9,21,Medellin,8,1189528,0,3,7,musica,cultura
+10,19,Medellin,4,1352246,1,3,5,vida nocturna,cultura
+9,19,Medellin,6,1545388,0,3,8,vida nocturna,cultura
+9,25,Medellin,5,1890880,1,3,8,vida nocturna,deporte
+9,29,Medellin,9,1379725,0,3,8,musica,cultura
+10,25,Medellin,4,1403513,1,3,5,vida nocturna,deporte
+10,25,Medellin,6,1711450,0,3,5,musica,deporte
+10,26,Medellin,5,901389,0,3,5,vida nocturna,deporte
+9,20,Medellin,10,2387464,0,3,8,vida nocturna,deporte
+10,20,Medellin,6,514901,0,4,5,vida nocturna,deporte
+10,26,Medellin,9,1126744,0,3,5,vida nocturna,cultura
+9,18,Medellin,7,989968,0,3,7,vida nocturna,deporte
+9,28,Medellin,9,1487060,0,3,8,musica,deporte
+9,25,Medellin,9,800509,0,3,8,vida nocturna,cultura
+9,31,Medellin,4,746547,0,3,8,vida nocturna,cultura
+10,30,Medellin,7,857222,0,3,5,musica,cultura
+9,23,Medellin,10,1531818,0,3,8,musica,cultura
+9,29,Medellin,10,2276376,0,3,7,musica,cultura
+9,24,Medellin,3,612351,0,4,8,vida nocturna,cultura
+9,20,Medellin,3,1838307,1,3,7,vida nocturna,deporte
+10,18,Medellin,6,506187,0,4,5,musica,deporte
+9,32,Medellin,9,785283,0,3,7,musica,deporte
+10,34,Medellin,6,1374275,0,3,5,vida nocturna,cultura
+9,35,Medellin,7,950288,0,3,8,musica,deporte
+9,21,Medellin,10,1190875,0,3,7,musica,cultura
+9,28,Medellin,8,711783,0,3,8,vida nocturna,deporte
+9,28,Medellin,4,692398,0,4,8,musica,cultura
+9,33,Medellin,8,1084375,0,3,8,musica,deporte
+9,29,Medellin,9,927724,0,3,7,musica,deporte
+10,25,Medellin,3,1828539,1,3,5,musica,deporte
+9,31,Medellin,7,571599,0,4,7,vida nocturna,deporte
+9,31,Medellin,4,1977230,1,3,8,vida nocturna,cultura
+9,25,Medellin,9,1800358,0,3,8,vida nocturna,deporte
+9,21,Medellin,10,2766407,1,3,8,musica,cultura
+10,34,Medellin,4,719237,0,3,5,vida nocturna,deporte
+9,21,Medellin,9,1216742,0,3,8,vida nocturna,cultura
+9,19,Medellin,10,2130032,0,3,8,musica,cultura
+10,31,Medellin,4,889227,0,3,5,musica,cultura
+10,31,Medellin,3,890990,0,3,5,vida nocturna,deporte
+10,21,Medellin,3,516587,0,4,5,musica,cultura
+10,35,Medellin,6,1117036,0,3,5,vida nocturna,cultura
+10,21,Medellin,8,681221,0,4,5,musica,cultura
+9,23,Medellin,6,1235276,0,3,8,vida nocturna,deporte
+9,35,Medellin,4,680757,0,4,7,vida nocturna,cultura
+9,30,Medellin,10,1399745,0,3,8,vida nocturna,cultura
+10,26,Medellin,7,648421,0,4,5,musica,deporte
+9,18,Medellin,9,514083,0,4,8,vida nocturna,cultura
+10,35,Medellin,6,696253,0,4,5,musica,deporte
+9,29,Medellin,7,1987814,0,3,7,musica,deporte
+9,24,Medellin,3,751541,0,3,7,musica,deporte
+9,32,Medellin,4,580468,0,4,7,musica,deporte
+10,26,Medellin,5,1906009,1,3,5,musica,deporte
+9,30,Medellin,3,1097807,1,3,8,vida nocturna,cultura
+10,21,Medellin,4,1194068,1,3,5,vida nocturna,deporte
+9,32,Medellin,6,731215,0,3,7,musica,cultura
+10,26,Medellin,9,1596535,0,3,5,vida nocturna,cultura
+9,26,Medellin,7,1857805,0,3,7,musica,cultura
+10,34,Medellin,7,1676673,0,3,5,vida nocturna,deporte
+10,29,Medellin,10,1580555,0,3,5,musica,cultura
+9,31,Medellin,10,1954156,0,3,7,vida nocturna,deporte
+10,27,Medellin,4,1671015,1,3,5,vida nocturna,cultura
+10,28,Medellin,4,667100,0,4,5,musica,deporte
+10,31,Medellin,9,1960332,0,3,5,musica,cultura
+10,27,Medellin,10,1528915,0,3,5,vida nocturna,cultura
+9,18,Medellin,5,1355870,1,3,7,vida nocturna,cultura
+9,19,Medellin,10,1859848,0,3,7,musica,deporte
+9,31,Medellin,5,1869135,1,3,8,vida nocturna,cultura
+9,22,Medellin,7,1756852,0,3,8,vida nocturna,deporte
+10,19,Medellin,8,1446824,0,3,5,musica,deporte
+9,21,Medellin,6,864750,0,3,8,vida nocturna,cultura
+10,26,Medellin,8,1423070,0,3,5,musica,cultura
+9,19,Medellin,6,831830,0,3,8,vida nocturna,deporte
+10,32,Medellin,7,1884073,0,3,5,vida nocturna,cultura
+9,20,Medellin,3,1328640,1,3,8,vida nocturna,cultura
+9,31,Medellin,4,1290780,1,3,7,vida nocturna,deporte
+9,20,Medellin,3,703723,0,3,8,vida nocturna,cultura
+10,31,Medellin,5,878400,0,3,5,vida nocturna,deporte
+9,25,Medellin,8,843236,0,3,8,vida nocturna,deporte
+9,18,Medellin,3,1533588,1,3,8,musica,deporte
+9,29,Medellin,7,1362566,0,3,7,musica,cultura
+10,32,Medellin,5,1624887,1,3,5,musica,cultura
+10,23,Medellin,4,826519,0,3,5,vida nocturna,deporte
+10,28,Medellin,10,2049620,0,3,5,vida nocturna,cultura
+9,22,Medellin,4,1230804,1,2,8,vida nocturna,cultura
+9,20,Medellin,6,1384792,0,3,8,vida nocturna,cultura
+10,19,Medellin,4,1424129,1,3,5,musica,deporte
+10,30,Medellin,7,1978541,0,3,5,musica,deporte
+10,35,Medellin,9,729346,0,3,5,musica,deporte
+9,24,Medellin,5,1521674,1,3,8,vida nocturna,cultura
+10,24,Medellin,6,1717450,0,3,5,vida nocturna,deporte
+10,34,Medellin,10,2947782,1,3,5,vida nocturna,deporte
+9,31,Medellin,3,1777084,1,2,7,vida nocturna,deporte
+9,19,Medellin,4,605459,0,4,7,musica,deporte
+9,19,Medellin,5,1406006,1,3,7,musica,deporte
+9,26,Medellin,7,1116049,0,3,8,musica,cultura
+9,18,Medellin,8,1523005,0,3,7,vida nocturna,cultura
+9,23,Medellin,10,1282811,0,3,8,vida nocturna,deporte
+10,27,Medellin,6,1855535,0,3,5,musica,cultura
+9,32,Medellin,3,1576525,1,3,8,vida nocturna,cultura
+10,29,Medellin,8,661110,0,4,5,vida nocturna,deporte
+10,30,Medellin,7,1731872,0,3,5,vida nocturna,deporte
+9,32,Medellin,7,1951334,0,3,8,vida nocturna,cultura
+9,25,Medellin,7,1758546,0,3,8,musica,cultura
+10,18,Medellin,10,1846470,0,3,5,musica,cultura
+9,32,Medellin,3,1403538,1,3,7,vida nocturna,deporte
+9,23,Medellin,3,1106548,1,3,8,vida nocturna,deporte
+10,22,Medellin,3,1446654,1,3,5,musica,deporte
+9,20,Medellin,5,1650372,1,3,8,musica,deporte
+9,22,Medellin,3,1991876,1,3,8,musica,deporte
+10,35,Medellin,4,1552427,1,3,5,vida nocturna,cultura
+9,33,Medellin,4,774073,0,3,8,musica,cultura
+10,25,Medellin,7,1450273,0,3,5,musica,cultura
+9,23,Medellin,9,596909,0,4,8,vida nocturna,cultura
+9,22,Medellin,10,2649129,1,3,7,vida nocturna,cultura
+9,29,Medellin,8,1108185,0,3,8,musica,cultura
+9,32,Medellin,3,1009661,1,3,8,vida nocturna,deporte
+9,30,Medellin,3,1378089,1,3,8,vida nocturna,cultura
+9,20,Medellin,10,2858643,1,3,8,musica,cultura
+10,29,Medellin,9,851855,0,3,5,musica,cultura
+9,34,Medellin,5,1740175,1,3,7,musica,cultura
+10,28,Medellin,3,1042668,1,3,5,vida nocturna,deporte
+10,30,Medellin,3,1245587,1,3,5,musica,deporte
+10,26,Medellin,8,1492236,0,3,5,musica,cultura
+9,34,Medellin,5,1991076,1,3,7,vida nocturna,cultura
+10,30,Medellin,8,1390694,0,3,5,vida nocturna,cultura
+9,19,Medellin,8,1304246,0,3,8,musica,deporte
+10,25,Medellin,7,941522,0,3,5,musica,deporte
+9,32,Medellin,5,1626385,1,3,7,vida nocturna,deporte
+10,27,Medellin,10,2792928,1,3,5,vida nocturna,cultura
+9,32,Medellin,5,635756,0,4,8,musica,cultura
+10,34,Medellin,6,654733,0,4,5,musica,deporte
+9,25,Medellin,4,1944941,1,3,8,vida nocturna,deporte
+9,21,Medellin,7,1416854,0,3,8,vida nocturna,cultura
+10,30,Medellin,10,2259593,0,3,5,vida nocturna,deporte
+9,27,Medellin,8,1634095,0,3,7,vida nocturna,cultura
+10,31,Medellin,7,986318,0,3,5,musica,deporte
+10,29,Medellin,10,2365046,0,3,5,vida nocturna,deporte
+10,29,Medellin,5,1995859,1,2,5,musica,deporte
+9,19,Medellin,6,943159,0,3,7,vida nocturna,cultura
+9,34,Medellin,9,579078,0,4,8,musica,deporte
+9,35,Medellin,8,1267138,0,3,7,musica,cultura
+10,32,Medellin,10,1186250,0,3,5,vida nocturna,deporte
+10,34,Medellin,9,1429377,0,3,5,vida nocturna,deporte
+10,24,Medellin,4,1207172,1,3,5,musica,cultura
+9,22,Medellin,5,935355,0,3,8,musica,cultura
+9,18,Medellin,8,1903274,0,3,8,musica,deporte
+9,22,Medellin,9,933300,0,3,7,vida nocturna,deporte
+9,20,Medellin,7,600065,0,4,7,musica,deporte
+10,25,Medellin,10,2288775,0,3,5,vida nocturna,deporte
+10,20,Medellin,3,1993555,1,2,5,vida nocturna,deporte
+10,32,Medellin,8,1376190,0,3,5,musica,deporte
+9,23,Medellin,3,1792471,1,3,7,musica,deporte
+9,23,Medellin,9,1622944,0,3,7,vida nocturna,deporte
+9,20,Medellin,5,618710,0,4,7,vida nocturna,deporte
+10,33,Medellin,4,836863,0,3,5,musica,deporte
+9,29,Medellin,10,2698471,1,3,8,musica,cultura
+9,34,Medellin,7,1560404,0,3,7,musica,deporte
+9,25,Medellin,8,1438367,0,3,8,musica,deporte
+9,28,Medellin,5,685179,0,4,7,musica,cultura
+9,20,Medellin,6,1076507,0,3,7,vida nocturna,deporte
+10,25,Medellin,4,904800,0,3,5,vida nocturna,deporte
+10,22,Medellin,9,815986,0,3,5,vida nocturna,cultura
+10,29,Medellin,8,1491870,0,3,5,musica,cultura
+9,34,Medellin,8,1816266,0,3,7,vida nocturna,cultura
+10,20,Medellin,4,1742514,1,3,5,vida nocturna,cultura
+9,29,Medellin,4,1538145,1,3,8,vida nocturna,cultura
+10,26,Medellin,3,1097866,1,3,5,vida nocturna,cultura
+10,22,Medellin,4,528536,0,4,5,vida nocturna,cultura
+9,20,Medellin,4,729702,0,3,7,musica,cultura
+9,31,Medellin,6,798982,0,3,7,musica,cultura
+10,24,Medellin,6,1551202,0,3,5,musica,cultura
+9,30,Medellin,3,1189996,1,3,7,musica,deporte
+10,29,Medellin,5,1919500,1,3,5,vida nocturna,cultura
+9,28,Medellin,5,1164064,1,3,8,musica,cultura
+9,24,Medellin,4,1223539,1,3,7,vida nocturna,cultura
+9,27,Medellin,7,660239,0,4,7,vida nocturna,deporte
+9,35,Medellin,6,905609,0,3,8,vida nocturna,deporte
+9,18,Medellin,5,1699715,1,3,8,vida nocturna,cultura
+9,23,Medellin,6,1483487,0,3,8,vida nocturna,deporte
+9,19,Medellin,8,837920,0,3,7,musica,deporte
+10,21,Medellin,5,1736785,1,3,5,musica,deporte
+9,34,Medellin,10,1376468,0,3,8,vida nocturna,deporte
+9,29,Medellin,5,1164883,1,3,8,vida nocturna,deporte
+9,19,Medellin,7,1287951,0,3,8,vida nocturna,cultura
+9,29,Medellin,10,2969185,1,3,8,musica,deporte
+9,24,Medellin,6,901746,0,3,7,vida nocturna,deporte
+10,30,Medellin,3,1911660,1,3,5,musica,deporte
+10,20,Medellin,9,784252,0,3,5,musica,cultura
+10,24,Medellin,4,1577459,1,3,5,musica,deporte
+9,33,Medellin,7,1341336,0,3,8,vida nocturna,cultura
+10,34,Medellin,8,1497009,0,3,5,vida nocturna,cultura
+10,19,Medellin,3,1303051,1,3,5,vida nocturna,cultura
+10,33,Medellin,8,628406,0,4,5,musica,deporte
+10,34,Medellin,3,1747793,1,3,5,vida nocturna,cultura
+10,34,Medellin,9,667572,0,4,5,musica,cultura
+9,19,Medellin,3,858087,0,3,7,vida nocturna,deporte
+10,26,Medellin,7,1184249,0,3,5,vida nocturna,deporte
+10,23,Medellin,5,1803105,1,3,5,musica,deporte
+9,29,Medellin,4,1736295,1,3,7,musica,cultura
+10,20,Medellin,4,1096929,1,3,5,vida nocturna,cultura
+10,34,Medellin,8,1330158,0,3,5,musica,cultura
+9,22,Medellin,3,1139567,1,3,7,musica,deporte
+10,18,Medellin,4,1197120,1,3,5,musica,cultura
+10,18,Medellin,8,1745688,0,3,5,musica,deporte
+10,33,Medellin,8,1508020,0,3,5,vida nocturna,deporte
+9,23,Medellin,8,904592,0,3,8,vida nocturna,cultura
+9,29,Medellin,9,1615785,0,3,8,vida nocturna,deporte
+9,28,Medellin,7,1726617,0,3,8,vida nocturna,deporte
+10,18,Medellin,9,1877751,0,3,5,musica,cultura
+10,24,Medellin,3,984670,0,3,5,musica,cultura
+9,25,Medellin,4,1906523,1,3,7,musica,deporte
+9,28,Medellin,5,1967571,1,3,8,vida nocturna,deporte
+10,23,Medellin,10,2265523,0,3,5,musica,deporte
+10,30,Medellin,6,1248010,0,3,5,musica,deporte
+10,34,Medellin,4,860743,0,3,5,vida nocturna,cultura
+9,18,Medellin,4,1928254,1,3,8,musica,cultura
+10,24,Medellin,9,871792,0,3,5,musica,deporte
+10,32,Medellin,7,501962,0,4,5,musica,deporte
+10,32,Medellin,3,749179,0,3,5,musica,deporte
+10,33,Medellin,8,1284510,0,3,5,vida nocturna,deporte
+9,31,Medellin,5,1500806,1,3,8,vida nocturna,deporte
+10,29,Medellin,3,716146,0,3,5,vida nocturna,deporte
+9,32,Medellin,6,1252638,0,3,7,musica,deporte
+9,31,Medellin,8,1955974,0,3,7,vida nocturna,cultura
+10,22,Medellin,4,1268718,1,3,5,musica,cultura
+9,28,Medellin,4,598972,0,4,8,musica,cultura
+9,23,Medellin,9,976435,0,3,7,vida nocturna,deporte
+10,27,Medellin,10,1537395,0,3,5,musica,cultura
+9,24,Medellin,10,2535220,1,3,7,vida nocturna,cultura
+9,34,Medellin,3,1709049,1,2,8,vida nocturna,deporte
+10,19,Medellin,3,1467516,1,3,5,vida nocturna,cultura
+9,33,Medellin,5,1539554,1,3,7,vida nocturna,cultura
+10,25,Medellin,3,1640648,1,3,5,musica,deporte
+9,30,Medellin,10,1538569,0,3,8,musica,deporte
+10,20,Medellin,6,1022422,0,3,5,vida nocturna,cultura
+10,23,Medellin,9,914452,0,3,5,musica,cultura
+9,35,Medellin,4,1717765,1,3,8,vida nocturna,cultura
+10,23,Medellin,4,787891,0,3,5,musica,deporte
+10,34,Medellin,6,1024394,0,3,5,musica,cultura
+9,22,Medellin,5,1316410,1,3,7,musica,cultura
+10,35,Medellin,3,567663,0,4,5,musica,cultura
+10,30,Medellin,6,665391,0,4,5,musica,cultura
+9,33,Medellin,8,1072850,0,3,7,musica,deporte
+9,31,Medellin,8,1591722,0,3,8,vida nocturna,cultura
+9,32,Medellin,9,1994146,0,3,8,musica,deporte
+9,22,Medellin,3,1135066,1,3,7,vida nocturna,deporte
+9,23,Medellin,8,1449777,0,3,8,musica,deporte
+9,30,Medellin,9,1116820,0,3,7,musica,deporte
+10,29,Medellin,3,926041,0,3,5,vida nocturna,cultura
+10,28,Medellin,10,1953440,0,3,5,vida nocturna,cultura
+9,27,Medellin,5,1513279,1,3,7,vida nocturna,cultura
+10,21,Medellin,6,1514257,0,3,5,vida nocturna,cultura
+9,19,Medellin,5,1120401,1,3,8,vida nocturna,deporte
+10,32,Medellin,3,1410639,1,3,5,musica,cultura
+9,29,Medellin,8,598605,0,4,8,musica,deporte
+10,25,Medellin,4,764775,0,3,5,vida nocturna,deporte
+9,33,Medellin,4,1059225,1,3,7,musica,cultura
+10,20,Medellin,6,1773331,0,3,5,vida nocturna,cultura
+10,33,Medellin,4,1401911,1,3,5,musica,deporte
+9,26,Medellin,4,694296,0,4,7,musica,deporte
+9,25,Medellin,4,909758,0,3,8,musica,cultura
+10,25,Medellin,9,1298217,0,3,5,vida nocturna,cultura
+10,22,Medellin,4,1036139,1,3,5,musica,cultura
+10,33,Medellin,4,1983371,1,3,5,vida nocturna,deporte
+9,20,Medellin,3,1867004,1,3,8,vida nocturna,cultura
+9,31,Medellin,5,697764,0,4,7,vida nocturna,deporte
+9,21,Medellin,8,1418045,0,3,8,musica,deporte
+10,33,Medellin,4,725360,0,3,5,musica,deporte
+9,20,Medellin,5,1518381,1,3,8,musica,cultura
+9,34,Medellin,3,576932,0,4,7,musica,deporte
+9,23,Medellin,3,1713980,1,3,7,vida nocturna,cultura
+9,21,Medellin,7,1861331,0,3,7,musica,deporte
+10,27,Medellin,4,1369091,1,3,5,musica,cultura
+9,22,Medellin,8,1813740,0,3,8,musica,cultura
+10,20,Medellin,8,1571226,0,3,5,vida nocturna,deporte
+10,31,Medellin,8,1095241,0,3,5,musica,deporte
+9,35,Medellin,6,832192,0,3,7,musica,deporte
+9,18,Medellin,5,1612608,1,3,8,musica,deporte
+10,28,Medellin,5,1260362,1,3,5,musica,cultura
+10,29,Medellin,5,1086798,1,3,5,musica,deporte
+10,19,Medellin,9,1526129,0,3,5,vida nocturna,deporte
+9,27,Medellin,5,885720,0,3,8,vida nocturna,deporte
+10,18,Medellin,9,929625,0,3,5,vida nocturna,deporte
+9,29,Medellin,9,1566898,0,3,8,musica,deporte
+9,18,Medellin,5,1410647,1,3,8,vida nocturna,deporte
+9,34,Medellin,6,1287805,0,3,7,vida nocturna,deporte
+10,33,Medellin,8,877858,0,3,5,musica,cultura
+10,31,Medellin,10,2637050,1,3,5,musica,cultura
+10,28,Medellin,9,545468,0,4,5,musica,deporte
+10,21,Medellin,5,1527430,1,3,5,musica,cultura
+9,30,Medellin,9,856865,0,3,8,musica,cultura
+10,24,Medellin,10,2244409,0,3,5,musica,deporte
+9,29,Medellin,7,944856,0,3,8,musica,deporte
+9,32,Medellin,10,1533324,0,3,8,vida nocturna,cultura
+10,26,Medellin,3,1718747,1,3,5,musica,deporte
+9,24,Medellin,8,627642,0,4,7,vida nocturna,deporte
+9,23,Medellin,8,1940932,0,3,7,vida nocturna,deporte
+9,19,Medellin,4,1417911,1,3,7,musica,cultura
+9,22,Medellin,5,1856244,1,3,7,musica,cultura
+10,19,Medellin,3,1428643,1,3,5,vida nocturna,cultura
+10,30,Medellin,10,2877598,1,3,5,musica,deporte
+9,19,Medellin,3,1244612,1,2,8,musica,deporte
+9,28,Medellin,7,1327542,0,3,7,musica,cultura
+10,20,Medellin,8,679904,0,4,5,vida nocturna,cultura
+9,18,Medellin,6,709739,0,3,8,musica,cultura
+9,22,Medellin,6,1702773,0,3,7,musica,deporte
+10,31,Medellin,3,1062894,1,3,5,musica,cultura
+10,24,Medellin,4,978584,0,3,5,musica,deporte
+10,32,Medellin,10,2424359,0,3,5,vida nocturna,cultura
+9,23,Medellin,5,1097603,1,2,8,vida nocturna,cultura
+10,28,Medellin,7,1303406,0,3,5,musica,cultura
+9,19,Medellin,6,1542597,0,3,8,musica,deporte
+10,28,Medellin,7,784143,0,3,5,musica,cultura
+10,18,Medellin,6,1136874,0,3,5,vida nocturna,deporte
+9,30,Medellin,4,1174407,1,3,7,vida nocturna,cultura
+9,23,Medellin,5,1854326,1,3,8,vida nocturna,cultura
+9,19,Medellin,3,685584,0,4,7,vida nocturna,cultura
+10,28,Medellin,8,1395021,0,3,5,vida nocturna,deporte
+10,25,Medellin,3,1039127,1,3,5,musica,deporte
+10,32,Medellin,8,1682304,0,3,5,vida nocturna,deporte
+10,35,Medellin,5,1849562,1,3,5,vida nocturna,cultura
+10,31,Medellin,7,771147,0,3,5,vida nocturna,deporte
+9,30,Medellin,7,1058006,0,3,8,vida nocturna,cultura
+9,30,Medellin,3,654064,0,4,7,vida nocturna,deporte
+10,28,Medellin,3,1275978,1,3,5,musica,cultura
+9,19,Medellin,3,1168568,1,3,7,musica,deporte
+10,34,Medellin,5,712598,0,3,5,vida nocturna,cultura
+9,27,Medellin,7,841640,0,3,7,vida nocturna,cultura
+10,25,Medellin,10,2943498,1,3,5,vida nocturna,deporte
+9,35,Medellin,10,2480113,0,3,8,vida nocturna,cultura
+9,28,Medellin,8,1121538,0,3,7,vida nocturna,deporte
+9,25,Medellin,7,1979150,0,3,7,musica,deporte
+10,28,Medellin,10,2525071,1,3,5,vida nocturna,cultura
+9,26,Medellin,10,1367397,0,3,8,vida nocturna,deporte
+9,24,Medellin,5,1596909,1,3,8,musica,deporte
+10,24,Medellin,4,1883312,1,3,5,vida nocturna,deporte
+9,29,Medellin,5,1314720,1,3,8,vida nocturna,cultura
+9,34,Medellin,9,1762694,0,3,8,vida nocturna,deporte
+9,30,Medellin,9,985516,0,3,7,vida nocturna,cultura
+10,19,Medellin,5,965730,0,3,5,vida nocturna,cultura
+10,31,Medellin,3,1699753,1,3,5,vida nocturna,cultura
+9,19,Medellin,10,2183907,0,3,7,musica,cultura
+10,24,Medellin,8,1915967,0,3,5,musica,cultura
+10,34,Medellin,6,539127,0,4,5,musica,cultura
+9,30,Medellin,4,907804,0,3,7,musica,deporte
+10,26,Medellin,10,2157449,0,3,5,musica,cultura
+10,24,Medellin,6,1019584,0,3,5,musica,cultura
+9,28,Medellin,10,2824852,1,3,7,vida nocturna,cultura
+10,32,Medellin,3,1455283,1,2,5,musica,cultura
+9,30,Medellin,3,802240,0,3,7,musica,cultura
+10,20,Medellin,10,1807540,0,3,5,musica,deporte
+9,22,Medellin,10,1363612,0,3,7,vida nocturna,cultura
+9,21,Medellin,8,685432,0,4,7,vida nocturna,cultura
+9,18,Medellin,6,752126,0,3,8,vida nocturna,cultura
+10,23,Medellin,7,1842654,0,3,5,vida nocturna,deporte
+10,25,Medellin,6,984241,0,3,5,musica,cultura
+9,26,Medellin,10,2116706,0,3,8,vida nocturna,cultura
+9,21,Medellin,8,1180933,0,3,7,musica,cultura
+10,30,Medellin,4,1556259,1,3,5,vida nocturna,deporte
+10,18,Medellin,5,947924,0,3,5,musica,deporte
+9,26,Medellin,4,1031433,1,3,8,musica,cultura
+9,31,Medellin,7,1559371,0,3,8,musica,cultura
+10,35,Medellin,3,1413515,1,3,5,vida nocturna,cultura
+9,29,Medellin,3,1836496,1,3,8,musica,cultura
+9,23,Medellin,4,699805,0,4,7,vida nocturna,cultura
+10,30,Medellin,3,1459667,1,3,5,musica,deporte
+10,19,Medellin,6,721347,0,3,5,musica,cultura
+10,21,Medellin,3,1672339,1,3,5,vida nocturna,deporte
+10,35,Medellin,3,841347,0,3,5,vida nocturna,cultura
+9,19,Medellin,8,1082608,0,3,8,musica,cultura
+9,31,Medellin,10,1078037,0,3,7,vida nocturna,cultura
+9,22,Medellin,9,1553521,0,3,7,musica,deporte
+9,26,Medellin,10,1285473,0,3,7,vida nocturna,cultura
+10,33,Medellin,8,1511541,0,3,5,vida nocturna,cultura
+10,35,Medellin,10,2527478,1,3,5,musica,cultura
+10,30,Medellin,3,1412230,1,2,5,vida nocturna,deporte
+9,18,Medellin,7,1111499,0,3,7,vida nocturna,deporte
+10,34,Medellin,6,1365936,0,3,5,vida nocturna,deporte
+9,35,Medellin,3,1597094,1,3,7,musica,deporte
+9,35,Medellin,8,1390306,0,3,7,musica,deporte
+9,33,Medellin,3,964479,0,3,8,vida nocturna,deporte
+9,30,Medellin,6,686800,0,4,8,musica,cultura
+9,23,Medellin,4,1230388,1,3,8,vida nocturna,deporte
+9,28,Medellin,6,1914553,0,3,8,musica,deporte
+9,27,Medellin,9,1482670,0,3,8,vida nocturna,deporte
+9,21,Medellin,4,819455,0,3,8,vida nocturna,cultura
+9,26,Medellin,5,1961779,1,3,8,musica,deporte
+10,23,Medellin,8,1788622,0,3,5,musica,cultura
+9,33,Medellin,5,1661642,1,3,8,musica,cultura
+10,25,Medellin,7,1105820,0,3,5,vida nocturna,deporte
+9,29,Medellin,7,1156091,0,3,8,musica,deporte
+9,23,Medellin,3,1652035,1,3,7,vida nocturna,cultura
+10,21,Medellin,5,1511182,1,3,5,musica,cultura
+10,18,Medellin,5,1181567,1,3,5,musica,deporte
+9,21,Medellin,9,1275926,0,3,7,vida nocturna,deporte
+9,35,Medellin,6,690656,0,4,8,vida nocturna,deporte
+9,30,Medellin,6,892702,0,3,7,vida nocturna,deporte
+9,27,Medellin,6,1687002,0,3,7,musica,deporte
+9,23,Medellin,4,955117,0,3,7,vida nocturna,deporte
+10,20,Medellin,7,775507,0,3,5,musica,deporte
+9,32,Medellin,7,530162,0,4,8,musica,deporte
+10,24,Medellin,7,527658,0,4,5,vida nocturna,deporte
+10,28,Medellin,4,540589,0,4,5,musica,cultura
+9,20,Medellin,9,880859,0,3,7,vida nocturna,deporte
+10,32,Medellin,5,774856,0,3,5,musica,deporte
+10,29,Medellin,6,776994,0,3,5,vida nocturna,deporte
+10,20,Medellin,10,2896024,1,3,5,vida nocturna,deporte
+9,22,Medellin,7,1834381,0,3,8,musica,cultura
+9,28,Medellin,6,1642789,0,3,7,musica,cultura
+10,22,Medellin,5,1213788,1,3,5,musica,deporte
+10,28,Medellin,5,1591631,1,3,5,musica,cultura
+10,18,Medellin,4,1091659,1,3,5,musica,deporte
+10,27,Medellin,8,1852178,0,3,5,musica,deporte
+10,18,Medellin,4,713383,0,3,5,musica,deporte
+10,26,Medellin,9,949293,0,3,5,musica,deporte
