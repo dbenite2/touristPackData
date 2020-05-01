@@ -3,9 +3,9 @@ const readline = require('readline-sync');
 const {WatsonMLScoringEndpoint} = require("watson-ml-model-utils");
 
 // Lectura de variables necesarias para la prediccion
-var genero = readline.question("Ingrese la edad: ");
-var edad = readline.question("Ingrese los dias: ");
-var dias = readline.question("Ingrese el presupuesto: ")
+const genero = readline.question("Ingrese la edad: ");
+const edad = readline.question("Ingrese los dias: ");
+const dias = readline.question("Ingrese el presupuesto: ")
 
 
 const features = ['Edad','TIempo hospedaje','Presupuesto'];//columnas necesarias para el modelo de hospedaje
